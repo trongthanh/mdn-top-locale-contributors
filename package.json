@@ -4,11 +4,13 @@
   "version": "1.0.0",
   "author": "Tran Trong Thanh <trongthanh@gmail.com>",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
     "gatsby": "next",
     "gatsby-plugin-manifest": "next",
     "gatsby-plugin-offline": "next",
     "gatsby-plugin-react-helmet": "next",
     "isomorphic-fetch": "^2.2.1",
+    "lodash": "^4.17.10",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-helmet": "^5.2.0"
@@ -18,7 +20,7 @@
   ],
   "license": "MIT",
   "scripts": {
-  	"scrap": "node scraper",
+    "scrape": "node scraper",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write '**/*.js'",
