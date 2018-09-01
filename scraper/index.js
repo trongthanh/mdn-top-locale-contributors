@@ -1,27 +1,39 @@
+/* © 2018 Tran Trong Thanh
+ * Scrape the whole MDN for VI contribution entries and authors data
+ */
 require('isomorphic-fetch');
 
 const { URL } = require('url');
-const fs = require('fs');
-const cheerio = require('cheerio');
 const _ = require('lodash');
+const cheerio = require('cheerio');
+const FileSync = require('lowdb/adapters/FileSync');
+const fs = require('fs');
+const path = require('path');
+const low = require('lowdb');
 
-function fetchPage() {
+const { fetchProfile } = require('./profile');
+
+const adapter = new FileSync(path.resolve(__dirname, '../data/data.json'));
+const db = low(adapter);
+
+db.defaults({ authors: [], entries: [] }).write();
+
+function fetchPage(page = 1) {
 	const query = {
+		page,
 		locale: 'vi',
+		authors: 0,
 		// user,
 		// topic,
 		// start_date,
 		// end_date,
 		// preceding_period,
-		authors: 0,
-		page: 1,
 	};
 	const url = new URL('https://developer.mozilla.org/vi/dashboards/revisions');
 	Object.keys(query).forEach(key => url.searchParams.append(key, query[key]));
 	console.log('Full URL:', url.href);
 
-	// return fetch(url.href, {
-	return fetch('/home/thanh/work/labs/thanh/mdn-vi-top-contributors.github/private/response-example.html', {
+	return fetch(url.href, {
 		method: 'GET',
 		headers: {
 			'X-Requested-With': 'XMLHttpRequest',
@@ -35,22 +47,18 @@ function fetchPage() {
 		})
 		.then(function(html) {
 			// console.log(html);
-			return html;
+			return parsePage(html);
 		});
 }
 
 // for testing locally
 function readSampleFile() {
 	return new Promise((resolve, reject) => {
-		fs.readFile(
-			'/home/thanh/work/labs/thanh/mdn-vi-top-contributors.github/private/response-example.html',
-			'utf8',
-			(err, data) => {
-				if (!err) {
-					resolve(data);
-				}
+		fs.readFile(path.resolve(__dirname, '../private/response-example.html'), 'utf8', (err, data) => {
+			if (!err) {
+				resolve(data);
 			}
-		);
+		});
 	});
 }
 
@@ -73,7 +81,7 @@ function parsePage(html) {
 			authorName: $entry.find('.dashboard-author a').text(),
 			authorProfileURL: $entry.find('.dashboard-author a').prop('href'),
 		};
-		console.log('Entry:', entryObj);
+		// console.log('Entry:', entryObj);
 
 		entries.push(entryObj);
 	});
@@ -88,6 +96,13 @@ function parsePage(html) {
 	console.log('Has next page:', $('.pagination .next').length ? 'YES' : 'NO');
 	console.log('Has prev page:', $('.pagination .prev').length ? 'YES' : 'NO');
 
+	return {
+		entries,
+		hasNext: $('.pagination .next').length > 0,
+	};
+}
+
+function normalizeEntries(entries) {
 	// const byAuthors = _.groupBy(entries, 'authorName');
 	// console.log('byAuthors:', byAuthors);
 	// const byAuthors2 = _.map(author, ())
@@ -103,6 +118,8 @@ function parsePage(html) {
 			} else {
 				authors[entry.authorName].entries.push(entry);
 			}
+			delete entry.authorName;
+			delete entry.authorProfileURL;
 
 			return authors;
 		},
@@ -110,6 +127,11 @@ function parsePage(html) {
 	);
 	const authors = Object.keys(objAuthors).map(authorName => {
 		const author = objAuthors[authorName];
+		// sort entry by dateTime descending
+		author.entries.sort((a, b) => {
+			return new Date(b.dateTime).getTime() - new Date(a.dateTime).getTime();
+		});
+		const latestEntry = author.entries[0];
 		const articles = _.groupBy(author.entries, 'url');
 
 		author.articles = Object.keys(articles).map(url => {
@@ -121,18 +143,63 @@ function parsePage(html) {
 			};
 		});
 		author.articlesCount = author.articles.length;
-		console.log(authorName, ':', author.articles);
+		author.lastestEntryTime = latestEntry.dateTime;
+		// console.log(authorName, ':', author.articles);
 		return author;
 	});
-	console.log('objAuthors:', authors);
+	// console.log('objAuthors:', authors);
+
+	return {
+		entries,
+		authors,
+	};
 }
 
-async function main() {
-	// const html = await fetchPage();
-	const html = await readSampleFile();
-	const parsedData = parsePage(html);
+async function asyncForEach(array, callback) {
+	for (let index = 0; index < array.length; index++) {
+		await callback(array[index], index, array);
+	}
+}
 
-	console.log(parsedData);
+async function test() {
+	const html = await readSampleFile();
+	const pageData = parsePage(html);
+
+	const parsedEntries = normalizeEntries(pageData.entries);
+	console.log(parsedEntries.authors[0]);
+}
+// test();
+
+// NOTE: this is full fetch
+// TODO: write accumulate fetch using previous date time
+async function main() {
+	// const html = await readSampleFile();
+	// const pageData = parsePage(html);
+	let next = true;
+	let currentPage = 1;
+	let allEntries = [];
+
+	while (next) {
+		const pageData = await fetchPage(currentPage);
+		allEntries = allEntries.concat(pageData.entries);
+		currentPage += 1;
+		if (!pageData.hasNext) {
+			next = false;
+		}
+		console.log('Page fetched: ', currentPage, ', items:', pageData.entries.length);
+	}
+
+	const parsedEntries = normalizeEntries(allEntries);
+	await asyncForEach(parsedEntries.authors, async author => {
+		// we get new profile every time we visit this author to update latest info
+		author.profile = await fetchProfile(`https://developer.mozilla.org/${author.authorProfileURL}`);
+	});
+
+	// console.log(parsedEntries.authors);
+	db.set('authors', parsedEntries.authors)
+		.set('entries', parsedEntries.entries)
+		.write();
+	console.log('****** ALL DONE ******');
 }
 
 main();
