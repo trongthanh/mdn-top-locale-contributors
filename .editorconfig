@@ -22,3 +22,8 @@ indent_size = 2
 [*.md]
 indent_style = space
 indent_size = 4
+
+[package.json]
+# adhere to yarn save
+indent_style = space
+indent_size = 2
