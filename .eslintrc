@@ -1,0 +1,7 @@
+// Nau standard eslint rules, save it as .eslintrc.js
+module.exports = {
+	'root': true,
+	'extends': [
+		'eslint:recommended'
+	],
+};

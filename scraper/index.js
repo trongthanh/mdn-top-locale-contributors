@@ -13,7 +13,7 @@ const low = require('lowdb');
 
 const { fetchProfile } = require('./profile');
 
-const adapter = new FileSync(path.resolve(__dirname, '../data/data.json'));
+const adapter = new FileSync(path.resolve(__dirname, '../data/db.json'));
 const db = low(adapter);
 
 db.defaults({ authors: [], entries: [] }).write();

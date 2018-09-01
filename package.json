@@ -9,6 +9,8 @@
     "gatsby-plugin-manifest": "next",
     "gatsby-plugin-offline": "next",
     "gatsby-plugin-react-helmet": "next",
+    "gatsby-source-filesystem": "^1.5.39",
+    "gatsby-transformer-json": "^1.0.20",
     "isomorphic-fetch": "^2.2.1",
     "lodash": "^4.17.10",
     "lowdb": "^1.0.0",
@@ -21,6 +23,7 @@
   ],
   "license": "MIT",
   "scripts": {
+  	"start": "yarn develop",
     "scrape": "node scraper",
     "build": "gatsby build",
     "develop": "gatsby develop",
