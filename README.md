@@ -1,19 +1,24 @@
-# MDN VI l18n Top Contributors
+# MDN VI l10n Top Contributors
 
 [TBD]
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
+
+## TODO
+
+- [X] Paginate index page with list of authors (sorted by number of articles)
+- [ ] Rewrite scrape algorithm without lowdb (write json directly)
+- [ ] Add proper ranking (same number of article should share same rank)
+- [ ] Style author list
+- [ ] Style the whole page
+- [ ] Implement new authors page but sorted with latest authors and enclosed entries
+- [ ] Add about and sorting algorithm
+- [ ] i18n with Vietnamese & English
 
 ## Install
 
 Make sure that you have the Gatsby CLI program installed:
 ```sh
 npm install --global gatsby-cli
-```
-
-And run from your CLI:
-```sh
-gatsby new gatsby-example-site
 ```
 
 Then you can run it by:
