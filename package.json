@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "Tran Trong Thanh <trongthanh@gmail.com>",
   "dependencies": {
+    "bulma": "^0.7.1",
     "cheerio": "^1.0.0-rc.2",
     "gatsby": "next",
     "gatsby-plugin-manifest": "next",
@@ -23,7 +24,7 @@
   ],
   "license": "MIT",
   "scripts": {
-  	"start": "yarn develop",
+    "start": "yarn develop",
     "scrape": "node scraper",
     "build": "gatsby build",
     "develop": "gatsby develop",
