@@ -1,33 +1,44 @@
 import React from 'react';
 import { Link } from 'gatsby';
+import _ from 'lodash';
 
-// TODO: write up pagination logic
-const Pagination = ({ page, limit, nextPath, prevPath }) => (
-	<nav className="pagination" role="navigation" aria-label="pagination">
-		<Link to={prevPath} className="pagination-previous" title="This is the first page" disabled>
-			Previous
-		</Link>
-		<Link to={nextPath} className="pagination-next">
-			Next page
-		</Link>
-		<ul className="pagination-list">
-			<li>
-				<Link className="pagination-link is-current" aria-label="Page 1" aria-current="page">
-					1
-				</Link>
-			</li>
-			<li>
-				<Link className="pagination-link" aria-label="Goto page 2">
-					2
-				</Link>
-			</li>
-			<li>
-				<Link className="pagination-link" aria-label="Goto page 3">
-					3
-				</Link>
-			</li>
-		</ul>
-	</nav>
-);
+const Pagination = ({ page, limit, nextPath, prevPath, pagesCount }) => {
+	const nextDisabledClass = page < pagesCount ? '' : ' disabled';
+	const prevDisabledClass = page > 1 ? '' : ' disabled';
+	return (
+		<nav className="row justify-content-between" aria-label="Page navigation">
+			<div class="col-md-auto">
+				<ul className="pagination">
+					<li className={'page-item' + prevDisabledClass}>
+						<Link className="page-link" to={prevPath}>
+							Previous
+						</Link>
+					</li>
+					{_.times(pagesCount, index => {
+						const pageNum = index + 1;
+						const isActive = pageNum === page ? ' active' : '';
+						const linkTo = pageNum === 1 ? '/' : '/page/' + pageNum;
+
+						return (
+							<li className={'page-item' + isActive}>
+								<Link className="page-link" to={linkTo}>
+									{pageNum}
+								</Link>
+							</li>
+						);
+					})}
+					<li className={'page-item' + nextDisabledClass}>
+						<Link className="page-link" to={nextPath}>
+							Next
+						</Link>
+					</li>
+				</ul>
+			</div>
+			<p className="col-md-auto mt-2">
+				Page {page} of {pagesCount}
+			</p>
+		</nav>
+	);
+};
 
 export default Pagination;

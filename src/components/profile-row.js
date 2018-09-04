@@ -13,21 +13,23 @@ import React from 'react';
 // 		}
 // 	]
 // }
-const Profile = ({ author, rank }) => {
+const ProfileRow = ({ author, rank }) => {
 	const profile = author.profile || {};
 	return (
 		<tr>
-			<td>{rank}</td>
-			<td>
-				{author.authorName}
+			<td className="align-middle">{rank}</td>
+			<td className="align-middle">
+				<a href={'https://developer.mozilla.org' + author.authorProfileURL}>{author.authorName}</a>
 				{profile.fullName && ` (${profile.fullName})`}
 			</td>
-			<td>{author.articlesCount}</td>
-			<td>
-				<img src={profile.avatar} width="80" />
+			<td className="align-middle">{author.articlesCount}</td>
+			<td className="align-middle">
+				<a href={'https://developer.mozilla.org' + author.authorProfileURL}>
+					<img src={profile.avatar || 'https://developer.mozilla.org/static/img/avatar.png'} height="50" />
+				</a>
 			</td>
 		</tr>
 	);
 };
 
-export default Profile;
+export default ProfileRow;

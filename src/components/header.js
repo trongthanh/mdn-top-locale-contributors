@@ -1,76 +1,59 @@
 import React from 'react';
 import { Link } from 'gatsby';
 
-import mdnWebDocs from '../images/mdn-web-docs.svg';
+import mdnImg from '../images/mdn-mozilla-icon.svg';
 
 const Header = ({ siteTitle }) => (
-	<nav id="navbar" className="navbar has-shadow is-spaced">
+	<nav className="navbar navbar-expand-lg navbar-dark bg-dark">
 		<div className="container">
-			<div className="navbar-brand">
-				<a className="navbar-item" href="https://bulma.io">
-					<img src={mdnWebDocs} alt="MDN Web Docs" height="28" />
-				</a>
-				<a className="navbar-item is-hidden-desktop" href="https://github.com/jgthms/bulma" target="_blank">
-					<span className="icon" style={{ color: '#333' }}>
-						github
-					</span>
-				</a>
-				<div id="navbarBurger" className="navbar-burger burger" data-target="navMenuDocumentation">
-					<span />
-					<span />
-					<span />
-				</div>
-			</div>
-			<div id="navMenuDocumentation" className="navbar-menu">
-				<div className="navbar-start">
-					<a className="navbar-item bd-navbar-item-documentation  is-active" href="/documentation">
-						<span className="icon has-text-primary">
-							<i className="fas fa-book" />
-						</span>
-						<span className="is-hidden-touch is-hidden-widescreen">Docs</span>
-						<span className="is-hidden-desktop-only">Documentation</span>
+			<Link className="navbar-brand p-0" to="/">
+				<img src={mdnImg} alt="MDN Top Contrib" height="40" />
+			</Link>
+			<button
+				className="navbar-toggler"
+				type="button"
+				data-toggle="collapse"
+				data-target="#navbarSupportedContent"
+				aria-controls="navbarSupportedContent"
+				aria-expanded="false"
+				aria-label="Toggle navigation"
+			>
+				<span className="navbar-toggler-icon" />
+			</button>
+			<ul className="navbar-nav mr-auto">
+				<li className="nav-item">
+					<Link className="nav-link" to="/about">
+						About
+					</Link>
+				</li>
+				<li className="nav-item">
+					<a className="nav-link" href="https://developer.mozilla.org/vi/docs/MDN/Community" target="_blank">
+						Hướng dẫn đóng góp cho MDN
 					</a>
-					<a className="navbar-item bd-navbar-item-videos " href="https://bulma.io/videos/">
-						<span className="icon has-text-success">
-							<i className="fas fa-play-circle" />
-						</span>
-						<span>Videos</span>
+				</li>
+			</ul>
+			<ul className="navbar-nav">
+				<li className="nav-item">
+					<a className="nav-link" href="https://twitter.com/trongthanh" title="Contact me via Twitter">
+						<i class="fab fa-twitter" />
 					</a>
-					<a className="navbar-item bd-navbar-item-blog " href="https://bulma.io/blog/">
-						<span className="icon bd-has-text-rss">
-							<i className="fas fa-rss" />
-						</span>
-						<span>Blog</span>
-					</a>
-					<a className="navbar-item bd-navbar-item-expo " href="https://bulma.io/expo/">
-						<span className="icon has-text-star">
-							<i className="fas fa-star" />
-						</span>
-						<span>Expo</span>
-					</a>
-				</div>
-
-				<div className="navbar-end">
+				</li>
+				<li className="nav-item">
 					<a
-						className="navbar-item is-hidden-touch is-hidden-desktop-only"
-						href="https://github.com/trongthanh"
-						target="_blank"
+						className="nav-link"
+						href="https://github.com/trongthanh/mdn-top-locale-contributors"
+						title="View this site source code on Github"
 					>
-						<span className="icon" style={{ color: '#333' }}>
-							<i className="fab fa-lg fa-github-alt" />
-						</span>
+						<i class="fab fa-github" />
 					</a>
-					<a
-						className="navbar-item is-hidden-touch is-hidden-desktop-only"
-						href="https://twitter.com/trongthanh"
-						target="_blank"
-					>
-						<span className="icon" style={{ color: '#55acee' }}>
-							<i className="fab fa-lg fa-twitter" />
-						</span>
-					</a>
-				</div>
-			</div>
+				</li>
+			</ul>
+			{/*<form className="form-inline my-2 my-lg-0">
+				<input className="form-control mr-sm-2" placeholder="Search" aria-label="Search" type="search" />
+				<button className="btn btn-outline-success my-2 my-sm-0" type="submit">
+					Search
+				</button>
+			</form>*/}
 		</div>
 	</nav>
 );

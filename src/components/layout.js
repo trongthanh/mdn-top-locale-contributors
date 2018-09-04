@@ -4,7 +4,8 @@ import Helmet from 'react-helmet';
 import { StaticQuery, graphql } from 'gatsby';
 
 import Header from './header';
-//TODO: we're using CDN's linked Bulma CSS, will move it to npm later
+import Footer from './footer';
+//TODO: I'm using CDN's linked Bootstrap CSS, will move it to npm later
 
 const Layout = ({ children }) => (
 	<StaticQuery
@@ -29,7 +30,9 @@ const Layout = ({ children }) => (
 					<html lang="en" />
 				</Helmet>
 				<Header siteTitle={data.site.siteMetadata.title} />
-				<div className="container">{children}</div>
+				<main>{children}</main>
+				<hr />
+				<Footer />
 			</>
 		)}
 	/>
