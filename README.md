@@ -1,32 +1,31 @@
 # MDN VI l10n Top Contributors
 
-[TBD]
-
+Inspired by git-awards.com and commits.top websites, I created this microsite to honor top contributors to [MDN](https://developer.mozilla.org/) for the [Vietnamese locale](https://developer.mozilla.org/en-US/dashboards/revisions?locale=vi), encourage more Vietnamese speakers will join the effort to make MDN the best reference and guide for Web development.
 
 ## TODO
 
+- [X] Basic site styles
 - [X] Paginate index page with list of authors (sorted by number of articles)
+- [X] Add about page
 - [ ] Rewrite scrape algorithm without lowdb (write json directly)
-- [ ] Add proper ranking (same number of article should share same rank)
-- [ ] Style author list
-- [ ] Style the whole page
+- [ ] Add proper ranking from data
 - [ ] Implement new authors page but sorted with latest authors and enclosed entries
-- [ ] Add about and sorting algorithm
 - [ ] i18n with Vietnamese & English
 
-## Install
+## Getting started
 
-Make sure that you have the Gatsby CLI program installed:
 ```sh
+# Make sure that you have the Gatsby CLI program installed:
 npm install --global gatsby-cli
-```
 
-Then you can run it by:
-```sh
-cd gatsby-example-site
+#Then you can run it by:
 gatsby develop
 ```
 
-## Deploy
+## Colophon
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+- Gatsby
+-
+
+---
+© 2018 Tran Trong Thanh. Licensed under MIT license.
