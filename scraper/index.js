@@ -6,17 +6,12 @@ require('isomorphic-fetch');
 const { URL } = require('url');
 const _ = require('lodash');
 const cheerio = require('cheerio');
-const FileSync = require('lowdb/adapters/FileSync');
 const fs = require('fs');
 const path = require('path');
-const low = require('lowdb');
-
 const { fetchProfile } = require('./profile');
+const metaJson = require('../data/meta.json');
 
-const adapter = new FileSync(path.resolve(__dirname, '../data/db.json'));
-const db = low(adapter);
-
-db.defaults({ authors: [], entries: [] }).write();
+const checkTime = _.find(metaJson, { key: 'checkTime' });
 
 function fetchPage(page = 1) {
 	const query = {
@@ -57,6 +52,8 @@ function readSampleFile() {
 		fs.readFile(path.resolve(__dirname, '../private/response-example.html'), 'utf8', (err, data) => {
 			if (!err) {
 				resolve(data);
+			} else {
+				reject(err);
 			}
 		});
 	});
@@ -109,17 +106,16 @@ function normalizeEntries(entries) {
 	const objAuthors = _.reduce(
 		entries,
 		(authors, entry) => {
+			const authorEntry = _.pick(entry, ['revisionURL', 'dateTime', 'url', 'title']);
 			if (!authors[entry.authorName]) {
 				authors[entry.authorName] = {
 					authorName: entry.authorName,
 					authorProfileURL: entry.authorProfileURL,
-					entries: [entry],
+					entries: [authorEntry],
 				};
 			} else {
-				authors[entry.authorName].entries.push(entry);
+				authors[entry.authorName].entries.push(authorEntry);
 			}
-			delete entry.authorName;
-			delete entry.authorProfileURL;
 
 			return authors;
 		},
@@ -136,6 +132,7 @@ function normalizeEntries(entries) {
 
 		author.articles = Object.keys(articles).map(url => {
 			const articleEntries = articles[url];
+
 			return {
 				url,
 				title: articleEntries[0].title,
@@ -145,6 +142,7 @@ function normalizeEntries(entries) {
 		author.articlesCount = author.articles.length;
 		author.lastestEntryTime = latestEntry.dateTime;
 		// console.log(authorName, ':', author.articles);
+
 		return author;
 	});
 	// console.log('objAuthors:', authors);
@@ -161,14 +159,49 @@ async function asyncForEach(array, callback) {
 	}
 }
 
+// eslint-disable-next-line
 async function test() {
 	const html = await readSampleFile();
 	const pageData = parsePage(html);
 
 	const parsedEntries = normalizeEntries(pageData.entries);
 	console.log(parsedEntries.authors[0]);
+	if (checkTime) {
+		checkTime.value = new Date();
+	}
+	console.log('metaJson', metaJson);
+	fs.writeFile(path.resolve(__dirname, '../data/meta.json'), JSON.stringify(metaJson, null, '\t'), 'utf8', () => {
+		console.log('Write meta.json done');
+	});
 }
 // test();
+
+function writeFiles(parsedEntries) {
+	// console.log(parsedEntries.authors);
+	fs.writeFile(
+		path.resolve(__dirname, '../data/authors.json'),
+		JSON.stringify(parsedEntries.authors, null, '\t'),
+		'utf8',
+		() => {
+			console.log('Write authors.json done');
+		}
+	);
+	fs.writeFile(
+		path.resolve(__dirname, '../data/entries.json'),
+		JSON.stringify(parsedEntries.entries, null, '\t'),
+		'utf8',
+		() => {
+			console.log('Write entries.json done');
+		}
+	);
+	if (checkTime) {
+		checkTime.value = new Date();
+	}
+	// console.log('metaJson', metaJson);
+	fs.writeFile(path.resolve(__dirname, '../data/meta.json'), JSON.stringify(metaJson, null, '\t'), 'utf8', () => {
+		console.log('Write meta.json done');
+	});
+}
 
 // NOTE: this is full fetch
 // TODO: write accumulate fetch using previous date time
@@ -194,11 +227,7 @@ async function main() {
 		// we get new profile every time we visit this author to update latest info
 		author.profile = await fetchProfile(`https://developer.mozilla.org/${author.authorProfileURL}`);
 	});
-
-	// console.log(parsedEntries.authors);
-	db.set('authors', parsedEntries.authors)
-		.set('entries', parsedEntries.entries)
-		.write();
+	writeFiles(parsedEntries);
 	console.log('****** ALL DONE ******');
 }
 

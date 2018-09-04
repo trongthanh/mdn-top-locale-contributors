@@ -2,12 +2,12 @@ import React from 'react';
 import { Link } from 'gatsby';
 import _ from 'lodash';
 
-const Pagination = ({ page, limit, nextPath, prevPath, pagesCount }) => {
+const Pagination = ({ page, nextPath, prevPath, pagesCount }) => {
 	const nextDisabledClass = page < pagesCount ? '' : ' disabled';
 	const prevDisabledClass = page > 1 ? '' : ' disabled';
 	return (
 		<nav className="row justify-content-between" aria-label="Page navigation">
-			<div class="col-md-auto">
+			<div className="col-md-auto">
 				<ul className="pagination">
 					<li className={'page-item' + prevDisabledClass}>
 						<Link className="page-link" to={prevPath}>

@@ -3,8 +3,6 @@
  */
 require('isomorphic-fetch');
 
-const { URL } = require('url');
-const _ = require('lodash');
 const cheerio = require('cheerio');
 const fs = require('fs');
 const path = require('path');
@@ -27,14 +25,15 @@ function fetchProfile(url) {
 			// console.log(html);
 			return parseProfilePage(html);
 		})
-		.catch(err => {
+		.catch(() => {
 			return null;
 		});
 }
 
 // for testing locally
+// eslint-disable-next-line
 function readSampleFile() {
-	return new Promise((resolve, reject) => {
+	return new Promise(resolve => {
 		fs.readFile(path.resolve(__dirname, '../private/profile-example.html'), 'utf8', (err, data) => {
 			if (!err) {
 				resolve(data);
@@ -69,6 +68,7 @@ function parseProfilePage(html) {
 	return profileObj;
 }
 
+// eslint-disable-next-line
 async function test() {
 	// const pageHtml = await readSampleFile();
 	// const profile = parseProfilePage(pageHtml);

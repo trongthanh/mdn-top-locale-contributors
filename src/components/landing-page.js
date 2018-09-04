@@ -1,18 +1,17 @@
 import React from 'react';
 import { graphql } from 'gatsby';
-import { Link } from 'gatsby';
 
 import Layout from './layout';
 import ProfileRow from './profile-row';
 import Pagination from './pagination';
 
 const LandingPage = ({ pageContext, data }) => {
-	const { prevPath, nextPath, pagesCount, page, limit } = pageContext;
+	const { page, limit } = pageContext;
 
 	return (
 		<Layout>
-			<div class="jumbotron jumbotron-fluid">
-				<div class="container">
+			<div className="jumbotron jumbotron-fluid">
+				<div className="container">
 					<h1 className="display-4">
 						MDN Top <code>vi</code> Locale Contributors
 					</h1>
@@ -23,7 +22,7 @@ const LandingPage = ({ pageContext, data }) => {
 					</p>
 				</div>
 			</div>
-			<div class="container">
+			<div className="container">
 				<div className="row justify-content-center">
 					<div className="col-md-8">
 						<Pagination {...pageContext} />
@@ -38,7 +37,11 @@ const LandingPage = ({ pageContext, data }) => {
 							</thead>
 							<tbody>
 								{data.allAuthorsJson.edges.map((author, index) => (
-									<ProfileRow author={author.node} rank={index + 1 + (page - 1) * limit} />
+									<ProfileRow
+										key={index}
+										author={author.node}
+										rank={index + 1 + (page - 1) * limit}
+									/>
 								))}
 							</tbody>
 						</table>

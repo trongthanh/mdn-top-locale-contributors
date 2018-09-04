@@ -3,7 +3,7 @@ import { Link } from 'gatsby';
 
 import mdnImg from '../images/mdn-mozilla-icon.svg';
 
-const Header = ({ siteTitle }) => (
+const Header = () => (
 	<nav className="navbar navbar-expand-lg navbar-dark bg-dark">
 		<div className="container">
 			<Link className="navbar-brand p-0" to="/">
@@ -27,7 +27,12 @@ const Header = ({ siteTitle }) => (
 					</Link>
 				</li>
 				<li className="nav-item">
-					<a className="nav-link" href="https://developer.mozilla.org/vi/docs/MDN/Community" target="_blank">
+					<a
+						className="nav-link"
+						href="https://developer.mozilla.org/vi/docs/MDN/Community"
+						target="_blank"
+						rel="noopener noreferrer"
+					>
 						Hướng dẫn đóng góp cho MDN
 					</a>
 				</li>
@@ -35,7 +40,7 @@ const Header = ({ siteTitle }) => (
 			<ul className="navbar-nav">
 				<li className="nav-item">
 					<a className="nav-link" href="https://twitter.com/trongthanh" title="Contact me via Twitter">
-						<i class="fab fa-twitter" />
+						<i className="fab fa-twitter" />
 					</a>
 				</li>
 				<li className="nav-item">
@@ -44,7 +49,7 @@ const Header = ({ siteTitle }) => (
 						href="https://github.com/trongthanh/mdn-top-locale-contributors"
 						title="View this site source code on Github"
 					>
-						<i class="fab fa-github" />
+						<i className="fab fa-github" />
 					</a>
 				</li>
 			</ul>
