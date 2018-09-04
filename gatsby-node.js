@@ -31,7 +31,7 @@ exports.createPages = ({ graphql, actions }) => {
 				// How many items do we have?
 				const authorsCount = data.allAuthorsJson.totalCount;
 				// How many items per paginated page?
-				const pageSize = 20;
+				const pageSize = 50;
 				// How many paginated pages do we need?
 				const pagesCount = Math.ceil(authorsCount / pageSize);
 

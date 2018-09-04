@@ -1,6 +1,6 @@
 module.exports = {
 	siteMetadata: {
-		title: 'Gatsby Default Starter',
+		title: 'MDN Top Vietnamese Locale Contributors - int3ractive.com',
 	},
 	plugins: [
 		'gatsby-plugin-react-helmet',
@@ -22,6 +22,18 @@ module.exports = {
 			resolve: 'gatsby-source-filesystem',
 			options: {
 				path: './data/',
+			},
+		},
+		{
+			resolve: `gatsby-plugin-google-analytics`,
+			options: {
+				trackingId: 'UA-4430452-10',
+				// Puts tracking script in the head instead of the body
+				head: false,
+				// Setting this parameter is also optional
+				respectDNT: true,
+				// Avoids sending pageview hits from custom paths
+				// exclude: ["/preview/**", "/do-not-track/me/too/"],
 			},
 		},
 	],

@@ -56,6 +56,10 @@ export default LandingPage;
 
 export const query = graphql`
 	query LandingPage($skip: Int!, $limit: Int!) {
+		metaJson(key: { eq: "checkTime" }) {
+			key
+			value
+		}
 		allAuthorsJson(skip: $skip, limit: $limit, sort: { fields: [articlesCount], order: DESC }) {
 			totalCount
 			edges {
