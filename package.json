@@ -4,7 +4,6 @@
   "version": "1.0.0",
   "author": "Tran Trong Thanh <trongthanh@gmail.com>",
   "dependencies": {
-    "bulma": "^0.7.1",
     "cheerio": "^1.0.0-rc.2",
     "gatsby": "next",
     "gatsby-plugin-google-analytics": "^1.0.31",
@@ -15,13 +14,15 @@
     "gatsby-transformer-json": "^1.0.20",
     "isomorphic-fetch": "^2.2.1",
     "lodash": "^4.17.10",
-    "lowdb": "^1.0.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-helmet": "^5.2.0"
   },
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "mdn",
+    "scraper",
+    "cheerio"
   ],
   "license": "MIT",
   "scripts": {
