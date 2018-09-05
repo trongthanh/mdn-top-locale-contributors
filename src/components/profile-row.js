@@ -13,11 +13,11 @@ import React from 'react';
 // 		}
 // 	]
 // }
-const ProfileRow = ({ author, rank }) => {
+const ProfileRow = ({ author }) => {
 	const profile = author.profile || {};
 	return (
 		<tr>
-			<td className="align-middle">{rank}</td>
+			<td className="align-middle">{author.rank}</td>
 			<td className="align-middle">
 				<a href={'https://developer.mozilla.org' + author.authorProfileURL}>{author.authorName}</a>
 				{profile.fullName && ` (${profile.fullName})`}

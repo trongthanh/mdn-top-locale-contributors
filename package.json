@@ -28,7 +28,7 @@
   "scripts": {
     "start": "yarn develop",
     "scrape": "node scraper",
-    "build": "gatsby build",
+    "build": "yarn scrape && gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write '**/*.js'",
     "lint": "eslint .",

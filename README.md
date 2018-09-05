@@ -10,8 +10,9 @@ Live site: [https://mdn-top-vi-contributors.netlify.com](https://mdn-top-vi-cont
 - [X] Paginate index page with list of authors (sorted by number of articles)
 - [X] Add about page
 - [X] Rewrite scrape algorithm without lowdb (write json directly)
-- [ ] Implement incremental scraping (WIP)
-- [ ] Store ranking to data json (currently calculated from order and page offset)
+- [X] Implement incremental scraping (WIP)
+- [X] Store ranking to data json (currently calculated from order and page offset)
+- [ ] Fully automated with Netlify and trigger
 - [ ] i18n with Vietnamese & English
 - [ ] Implement new authors page but sorted with latest authors and enclosed entries
 

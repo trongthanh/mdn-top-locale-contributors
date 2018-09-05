@@ -56,14 +56,6 @@
 		"authorProfileURL": "/vi/profiles/asdcxsd"
 	},
 	{
-		"revisionURL": "/vi/docs/Web/API/WebSockets_API$revision/1409467",
-		"dateTime": "2018-08-29T04:41:59.472213-07:00",
-		"url": "/vi/docs/Web/API/WebSockets_API",
-		"title": "The WebSocket API (WebSockets)",
-		"authorName": "oxygen",
-		"authorProfileURL": "/vi/profiles/oxygen"
-	},
-	{
 		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce$revision/1409451",
 		"dateTime": "2018-08-30T00:45:10.854335-07:00",
 		"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce",
@@ -86,6 +78,14 @@
 		"title": "Array.prototype.splice()",
 		"authorName": "hcminh",
 		"authorProfileURL": "/vi/profiles/hcminh"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/API/WebSockets_API$revision/1409467",
+		"dateTime": "2018-08-29T04:41:59.472213-07:00",
+		"url": "/vi/docs/Web/API/WebSockets_API",
+		"title": "The WebSocket API (WebSockets)",
+		"authorName": "oxygen",
+		"authorProfileURL": "/vi/profiles/oxygen"
 	},
 	{
 		"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/CSS_basics$revision/1409100",
@@ -150,14 +150,6 @@
 		"title": "Form data validation",
 		"authorName": "thanhNamDuong",
 		"authorProfileURL": "/vi/profiles/thanhNamDuong"
-	},
-	{
-		"revisionURL": "/vi/docs/Learn/HTML/Forms$revision/1407184",
-		"dateTime": "2017-11-07T07:00:28.317115-08:00",
-		"url": "/vi/docs/Learn/HTML/Forms",
-		"title": "HTML forms",
-		"authorName": "Jeffrey_Yang",
-		"authorProfileURL": "/vi/profiles/Jeffrey_Yang"
 	},
 	{
 		"revisionURL": "/vi/docs/Learn/HTML$revision/1406693",
@@ -398,14 +390,6 @@
 		"title": "Kiểm tra trình duyệt chéo",
 		"authorName": "vunamhung",
 		"authorProfileURL": "/vi/profiles/vunamhung"
-	},
-	{
-		"revisionURL": "/vi/docs/Learn/Tools_and_testing$revision/1401671",
-		"dateTime": "2018-01-11T01:31:20.476033-08:00",
-		"url": "/vi/docs/Learn/Tools_and_testing",
-		"title": "Tools and testing",
-		"authorName": "Navin77",
-		"authorProfileURL": "/vi/profiles/Navin77"
 	},
 	{
 		"revisionURL": "/vi/docs/Learn/JavaScript$revision/1401670",
@@ -1384,14 +1368,6 @@
 		"authorProfileURL": "/vi/profiles/Ozu"
 	},
 	{
-		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/RegExp$revision/1362197",
-		"dateTime": "2018-01-29T15:13:26.578601-08:00",
-		"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
-		"title": "RegExp",
-		"authorName": "Erutuon",
-		"authorProfileURL": "/vi/profiles/Erutuon"
-	},
-	{
 		"revisionURL": "/vi/docs/Web/CSS/:focus-within$revision/1362192",
 		"dateTime": "2018-02-25T11:26:29.604419-08:00",
 		"url": "/vi/docs/Web/CSS/:focus-within",
@@ -1512,22 +1488,6 @@
 		"authorProfileURL": "/vi/profiles/viduino"
 	},
 	{
-		"revisionURL": "/vi/docs/Learn/CSS/Introduction_to_CSS$revision/1353560",
-		"dateTime": "2017-10-15T02:49:37.527497-07:00",
-		"url": "/vi/docs/Learn/CSS/Introduction_to_CSS",
-		"title": "Introduction to CSS",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
-		"revisionURL": "/vi/docs/Learn/CSS$revision/1353559",
-		"dateTime": "2017-11-30T02:40:38.228204-08:00",
-		"url": "/vi/docs/Learn/CSS",
-		"title": "Learn to style HTML using CSS",
-		"authorName": "suterj",
-		"authorProfileURL": "/vi/profiles/suterj"
-	},
-	{
 		"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/Falsy$revision/1352610",
 		"dateTime": "2018-01-30T21:58:13.493082-08:00",
 		"url": "/vi/docs/Tu-dien-thuat-ngu/Falsy",
@@ -1550,6 +1510,14 @@
 		"title": "Lỗi cú pháp: Thiếu dấu ; trước câu lệnh",
 		"authorName": "thiencongcorp",
 		"authorProfileURL": "/vi/profiles/thiencongcorp"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/RegExp$revision/1362197",
+		"dateTime": "2018-01-29T15:13:26.578601-08:00",
+		"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+		"title": "RegExp",
+		"authorName": "Erutuon",
+		"authorProfileURL": "/vi/profiles/Erutuon"
 	},
 	{
 		"revisionURL": "/vi/docs/Mozilla/Add-ons/WebExtensions$revision/1351515",
@@ -1632,17 +1600,25 @@
 		"authorProfileURL": "/vi/profiles/thanhminh"
 	},
 	{
-		"revisionURL": "/vi/docs/Developer_Guide$revision/1341679",
-		"dateTime": "2018-01-03T04:15:35.073966-08:00",
-		"url": "/vi/docs/Developer_Guide",
-		"title": "Developer Guide",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+		"revisionURL": "/vi/docs/Learn/Tools_and_testing$revision/1401671",
+		"dateTime": "2018-01-11T01:31:20.476033-08:00",
+		"url": "/vi/docs/Learn/Tools_and_testing",
+		"title": "Tools and testing",
+		"authorName": "Navin77",
+		"authorProfileURL": "/vi/profiles/Navin77"
 	},
 	{
 		"revisionURL": "/vi/docs/Mozilla/Developer_guide$revision/1341678",
 		"dateTime": "2018-01-03T04:15:35.098378-08:00",
 		"url": "/vi/docs/Mozilla/Developer_guide",
+		"title": "Developer Guide",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
+		"revisionURL": "/vi/docs/Developer_Guide$revision/1341679",
+		"dateTime": "2018-01-03T04:15:35.073966-08:00",
+		"url": "/vi/docs/Developer_Guide",
 		"title": "Developer Guide",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
@@ -1694,22 +1670,6 @@
 		"title": "Express Tutorial: The Local Library website",
 		"authorName": "dhluong90",
 		"authorProfileURL": "/vi/profiles/dhluong90"
-	},
-	{
-		"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs$revision/1340486",
-		"dateTime": "2017-11-26T21:37:34.226536-08:00",
-		"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
-		"title": "Express web framework (Node.js/JavaScript)",
-		"authorName": "lol-russo",
-		"authorProfileURL": "/vi/profiles/lol-russo"
-	},
-	{
-		"revisionURL": "/vi/docs/Learn/Server-side$revision/1340485",
-		"dateTime": "2017-07-31T05:10:12.787077-07:00",
-		"url": "/vi/docs/Learn/Server-side",
-		"title": "Server-side website programming",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
 		"revisionURL": "/vi/docs/MDN/Contribute$revision/1338323",
@@ -1768,6 +1728,14 @@
 		"authorProfileURL": "/vi/profiles/lockevn"
 	},
 	{
+		"revisionURL": "/vi/docs/Learn/CSS$revision/1353559",
+		"dateTime": "2017-11-30T02:40:38.228204-08:00",
+		"url": "/vi/docs/Learn/CSS",
+		"title": "Learn to style HTML using CSS",
+		"authorName": "suterj",
+		"authorProfileURL": "/vi/profiles/suterj"
+	},
+	{
 		"revisionURL": "/vi/docs/Learn/HTML/Introduction_to_HTML$revision/1330849",
 		"dateTime": "2017-11-27T13:40:08.101959-08:00",
 		"url": "/vi/docs/Learn/HTML/Introduction_to_HTML",
@@ -1782,6 +1750,14 @@
 		"title": "Introduction to HTML",
 		"authorName": "viduino",
 		"authorProfileURL": "/vi/profiles/viduino"
+	},
+	{
+		"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs$revision/1340486",
+		"dateTime": "2017-11-26T21:37:34.226536-08:00",
+		"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
+		"title": "Express web framework (Node.js/JavaScript)",
+		"authorName": "lol-russo",
+		"authorProfileURL": "/vi/profiles/lol-russo"
 	},
 	{
 		"revisionURL": "/vi/docs/Web$revision/1330311",
@@ -1816,36 +1792,12 @@
 		"authorProfileURL": "/vi/profiles/baodongco"
 	},
 	{
-		"revisionURL": "/vi/docs/Archive/Plugins/Reference$revision/1328850",
-		"dateTime": "2017-03-15T04:47:46.960336-07:00",
-		"url": "/vi/docs/Archive/Plugins/Reference",
-		"title": "NPAPI plugin reference",
-		"authorName": "teoli",
-		"authorProfileURL": "/vi/profiles/teoli"
-	},
-	{
-		"revisionURL": "/vi/docs/Archive/Plugins$revision/1328849",
-		"dateTime": "2017-05-12T11:30:48.196212-07:00",
-		"url": "/vi/docs/Archive/Plugins",
-		"title": "Plugins",
-		"authorName": "bsmedberg",
-		"authorProfileURL": "/vi/profiles/bsmedberg"
-	},
-	{
 		"revisionURL": "/vi/docs/MDN/Contribute/Howto/Create_and_edit_pages$revision/1328491",
 		"dateTime": "2017-11-19T18:31:39.758353-08:00",
 		"url": "/vi/docs/MDN/Contribute/Howto/Create_and_edit_pages",
 		"title": "How to create and edit pages",
 		"authorName": "phongkhamdongy",
 		"authorProfileURL": "/vi/profiles/phongkhamdongy"
-	},
-	{
-		"revisionURL": "/vi/docs/MDN/Contribute/Howto$revision/1328490",
-		"dateTime": "2015-09-18T12:58:00-07:00",
-		"url": "/vi/docs/MDN/Contribute/Howto",
-		"title": "How-to guides",
-		"authorName": "jswisher",
-		"authorProfileURL": "/vi/profiles/jswisher"
 	},
 	{
 		"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/Hoisting$revision/1327425",
@@ -1878,14 +1830,6 @@
 		"title": "Function.prototype.call()",
 		"authorName": "httrung91",
 		"authorProfileURL": "/vi/profiles/httrung91"
-	},
-	{
-		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Function$revision/1326582",
-		"dateTime": "2017-09-26T04:34:33.416326-07:00",
-		"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Function",
-		"title": "Function",
-		"authorName": "fscholz",
-		"authorProfileURL": "/vi/profiles/fscholz"
 	},
 	{
 		"revisionURL": "/vi/docs/Learn/HTML/Introduction_to_HTML$revision/1326487",
@@ -2016,6 +1960,14 @@
 		"authorProfileURL": "/vi/profiles/ldhnam"
 	},
 	{
+		"revisionURL": "/vi/docs/Learn/HTML/Forms$revision/1407184",
+		"dateTime": "2017-11-07T07:00:28.317115-08:00",
+		"url": "/vi/docs/Learn/HTML/Forms",
+		"title": "HTML forms",
+		"authorName": "Jeffrey_Yang",
+		"authorProfileURL": "/vi/profiles/Jeffrey_Yang"
+	},
+	{
 		"revisionURL": "/vi/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions$revision/1323269",
 		"dateTime": "2017-10-31T16:28:31.881490-07:00",
 		"url": "/vi/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions",
@@ -2030,14 +1982,6 @@
 		"title": "Using CSS transitions",
 		"authorName": "thanhvk",
 		"authorProfileURL": "/vi/profiles/thanhvk"
-	},
-	{
-		"revisionURL": "/vi/docs/Web/CSS/CSS_Transitions$revision/1323267",
-		"dateTime": "2017-08-21T06:32:36.970059-07:00",
-		"url": "/vi/docs/Web/CSS/CSS_Transitions",
-		"title": "CSS Transitions",
-		"authorName": "mfluehr",
-		"authorProfileURL": "/vi/profiles/mfluehr"
 	},
 	{
 		"revisionURL": "/vi/docs/MDN/About$revision/1320368",
@@ -2096,20 +2040,20 @@
 		"authorProfileURL": "/vi/profiles/trannguyenhb"
 	},
 	{
+		"revisionURL": "/vi/docs/Learn/CSS/Introduction_to_CSS$revision/1353560",
+		"dateTime": "2017-10-15T02:49:37.527497-07:00",
+		"url": "/vi/docs/Learn/CSS/Introduction_to_CSS",
+		"title": "Introduction to CSS",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
 		"revisionURL": "/vi/docs/Learn/Common_questions/What_is_a_web_server$revision/1318541",
 		"dateTime": "2017-10-14T19:45:38.064899-07:00",
 		"url": "/vi/docs/Learn/Common_questions/What_is_a_web_server",
 		"title": "Web server là gì?",
 		"authorName": "thanhvk",
 		"authorProfileURL": "/vi/profiles/thanhvk"
-	},
-	{
-		"revisionURL": "/vi/docs/Learn/Common_questions$revision/1318540",
-		"dateTime": "2017-09-03T23:04:03.013161-07:00",
-		"url": "/vi/docs/Learn/Common_questions",
-		"title": "Common questions",
-		"authorName": "JeffD",
-		"authorProfileURL": "/vi/profiles/JeffD"
 	},
 	{
 		"revisionURL": "/vi/docs/Web/JavaScript$revision/1317622",
@@ -2176,6 +2120,14 @@
 		"authorProfileURL": "/vi/profiles/heyuno"
 	},
 	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Function$revision/1326582",
+		"dateTime": "2017-09-26T04:34:33.416326-07:00",
+		"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Function",
+		"title": "Function",
+		"authorName": "fscholz",
+		"authorProfileURL": "/vi/profiles/fscholz"
+	},
+	{
 		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray$revision/1308361",
 		"dateTime": "2017-09-24T20:29:58.701360-07:00",
 		"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray",
@@ -2222,14 +2174,6 @@
 		"title": "export",
 		"authorName": "hieuns",
 		"authorProfileURL": "/vi/profiles/hieuns"
-	},
-	{
-		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Statements$revision/1307441",
-		"dateTime": "2017-06-18T02:00:32.555732-07:00",
-		"url": "/vi/docs/Web/JavaScript/Reference/Statements",
-		"title": "Statements and declarations",
-		"authorName": "kyrylkov",
-		"authorProfileURL": "/vi/profiles/kyrylkov"
 	},
 	{
 		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/String/substr$revision/1306753",
@@ -2304,14 +2248,6 @@
 		"authorProfileURL": "/vi/profiles/nguyenthanhnguyen508111"
 	},
 	{
-		"revisionURL": "/vi/docs/Learn/JavaScript$revision/1302767",
-		"dateTime": "2017-08-10T08:28:45.615818-07:00",
-		"url": "/vi/docs/Learn/JavaScript",
-		"title": "JavaScript",
-		"authorName": "TornadoIDS",
-		"authorProfileURL": "/vi/profiles/TornadoIDS"
-	},
-	{
 		"revisionURL": "/vi/docs/Web/CSS/perspective$revision/1302169",
 		"dateTime": "2017-09-10T20:27:26.957225-07:00",
 		"url": "/vi/docs/Web/CSS/perspective",
@@ -2342,6 +2278,14 @@
 		"title": "Tutorials",
 		"authorName": "thonggtcc",
 		"authorProfileURL": "/vi/profiles/thonggtcc"
+	},
+	{
+		"revisionURL": "/vi/docs/Learn/Common_questions$revision/1318540",
+		"dateTime": "2017-09-03T23:04:03.013161-07:00",
+		"url": "/vi/docs/Learn/Common_questions",
+		"title": "Common questions",
+		"authorName": "JeffD",
+		"authorProfileURL": "/vi/profiles/JeffD"
 	},
 	{
 		"revisionURL": "/vi/docs/Web/HTML/Element$revision/1298491",
@@ -2408,6 +2352,14 @@
 		"authorProfileURL": "/vi/profiles/jaxILUMQ"
 	},
 	{
+		"revisionURL": "/vi/docs/Web/CSS/CSS_Transitions$revision/1323267",
+		"dateTime": "2017-08-21T06:32:36.970059-07:00",
+		"url": "/vi/docs/Web/CSS/CSS_Transitions",
+		"title": "CSS Transitions",
+		"authorName": "mfluehr",
+		"authorProfileURL": "/vi/profiles/mfluehr"
+	},
+	{
 		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Classes$revision/1289515",
 		"dateTime": "2017-08-18T03:14:28.348649-07:00",
 		"url": "/vi/docs/Web/JavaScript/Reference/Classes",
@@ -2422,6 +2374,14 @@
 		"title": "Number.isNaN()",
 		"authorName": "pierreneter",
 		"authorProfileURL": "/vi/profiles/pierreneter"
+	},
+	{
+		"revisionURL": "/vi/docs/Learn/JavaScript$revision/1302767",
+		"dateTime": "2017-08-10T08:28:45.615818-07:00",
+		"url": "/vi/docs/Learn/JavaScript",
+		"title": "JavaScript",
+		"authorName": "TornadoIDS",
+		"authorProfileURL": "/vi/profiles/TornadoIDS"
 	},
 	{
 		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array$revision/1283595",
@@ -2478,6 +2438,14 @@
 		"title": "Object.defineProperties()",
 		"authorName": "pnhung177",
 		"authorProfileURL": "/vi/profiles/pnhung177"
+	},
+	{
+		"revisionURL": "/vi/docs/Learn/Server-side$revision/1340485",
+		"dateTime": "2017-07-31T05:10:12.787077-07:00",
+		"url": "/vi/docs/Learn/Server-side",
+		"title": "Server-side website programming",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
 		"revisionURL": "/vi/docs/Web/JavaScript$revision/1279055",
@@ -2592,36 +2560,12 @@
 		"authorProfileURL": "/vi/profiles/deschutron"
 	},
 	{
-		"revisionURL": "/vi/docs/Web/API/AudioContext$revision/1267523",
-		"dateTime": "2017-05-24T09:19:54.610916-07:00",
-		"url": "/vi/docs/Web/API/AudioContext",
-		"title": "AudioContext",
-		"authorName": "ffxsam",
-		"authorProfileURL": "/vi/profiles/ffxsam"
-	},
-	{
 		"revisionURL": "/vi/docs/Web/SVG/Tutorial/SVG_Image_Tag$revision/1267521",
 		"dateTime": "2017-07-03T21:10:03.059960-07:00",
 		"url": "/vi/docs/Web/SVG/Tutorial/SVG_Image_Tag",
 		"title": "SVG image element",
 		"authorName": "nguyenvanduocit",
 		"authorProfileURL": "/vi/profiles/nguyenvanduocit"
-	},
-	{
-		"revisionURL": "/vi/docs/Web/SVG/Tutorial$revision/1267519",
-		"dateTime": "2017-01-16T13:58:04.607739-08:00",
-		"url": "/vi/docs/Web/SVG/Tutorial",
-		"title": "SVG Tutorial",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
-		"revisionURL": "/vi/docs/Web/SVG$revision/1267517",
-		"dateTime": "2017-02-23T17:57:46.254406-08:00",
-		"url": "/vi/docs/Web/SVG",
-		"title": "SVG",
-		"authorName": "lrh3321",
-		"authorProfileURL": "/vi/profiles/lrh3321"
 	},
 	{
 		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Errors/Not_a_function$revision/1260607",
@@ -2632,12 +2576,12 @@
 		"authorProfileURL": "/vi/profiles/Lisa9820727170617"
 	},
 	{
-		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Errors$revision/1260605",
-		"dateTime": "2016-12-01T16:42:58-08:00",
-		"url": "/vi/docs/Web/JavaScript/Reference/Errors",
-		"title": "JavaScript error reference",
-		"authorName": "Sheppy",
-		"authorProfileURL": "/vi/profiles/Sheppy"
+		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Statements$revision/1307441",
+		"dateTime": "2017-06-18T02:00:32.555732-07:00",
+		"url": "/vi/docs/Web/JavaScript/Reference/Statements",
+		"title": "Statements and declarations",
+		"authorName": "kyrylkov",
+		"authorProfileURL": "/vi/profiles/kyrylkov"
 	},
 	{
 		"revisionURL": "/vi/docs/Web/HTTP/Headers/Accept-Encoding$revision/1258681",
@@ -2744,6 +2688,22 @@
 		"authorProfileURL": "/vi/profiles/sugudkendy"
 	},
 	{
+		"revisionURL": "/vi/docs/Web/API/AudioContext$revision/1267523",
+		"dateTime": "2017-05-24T09:19:54.610916-07:00",
+		"url": "/vi/docs/Web/API/AudioContext",
+		"title": "AudioContext",
+		"authorName": "ffxsam",
+		"authorProfileURL": "/vi/profiles/ffxsam"
+	},
+	{
+		"revisionURL": "/vi/docs/Archive/Plugins$revision/1328849",
+		"dateTime": "2017-05-12T11:30:48.196212-07:00",
+		"url": "/vi/docs/Archive/Plugins",
+		"title": "Plugins",
+		"authorName": "bsmedberg",
+		"authorProfileURL": "/vi/profiles/bsmedberg"
+	},
+	{
 		"revisionURL": "/vi/docs/Learn$revision/1238469",
 		"dateTime": "2017-04-30T05:14:00.882549-07:00",
 		"url": "/vi/docs/Learn",
@@ -2832,14 +2792,6 @@
 		"authorProfileURL": "/vi/profiles/QSE24h"
 	},
 	{
-		"revisionURL": "/vi/docs/Web/HTTP$revision/1229829",
-		"dateTime": "2017-02-12T08:25:54.437839-08:00",
-		"url": "/vi/docs/Web/HTTP",
-		"title": "HTTP",
-		"authorName": "fscholz",
-		"authorProfileURL": "/vi/profiles/fscholz"
-	},
-	{
 		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Date$revision/1226915",
 		"dateTime": "2017-04-04T01:43:55.987748-07:00",
 		"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Date",
@@ -2904,14 +2856,6 @@
 		"authorProfileURL": "/vi/profiles/nmd176"
 	},
 	{
-		"revisionURL": "/vi/docs/Web/API/Document_Object_Model$revision/1225153",
-		"dateTime": "2016-10-23T22:00:52-07:00",
-		"url": "/vi/docs/Web/API/Document_Object_Model",
-		"title": "Document Object Model (DOM)",
-		"authorName": "arai",
-		"authorProfileURL": "/vi/profiles/arai"
-	},
-	{
 		"revisionURL": "/vi/docs/Mozilla/QA$revision/1225117",
 		"dateTime": "2017-03-29T23:20:55.504024-07:00",
 		"url": "/vi/docs/Mozilla/QA",
@@ -2966,6 +2910,14 @@
 		"title": "Object.assign()",
 		"authorName": "viiiprock",
 		"authorProfileURL": "/vi/profiles/viiiprock"
+	},
+	{
+		"revisionURL": "/vi/docs/Archive/Plugins/Reference$revision/1328850",
+		"dateTime": "2017-03-15T04:47:46.960336-07:00",
+		"url": "/vi/docs/Archive/Plugins/Reference",
+		"title": "NPAPI plugin reference",
+		"authorName": "teoli",
+		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
 		"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web$revision/1218337",
@@ -3024,16 +2976,16 @@
 		"authorProfileURL": "/vi/profiles/anhnc"
 	},
 	{
-		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Functions/Arrow_functions$revision/1217123",
-		"dateTime": "2017-03-10T02:18:34.214674-08:00",
+		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Functions/Arrow_functions$revision/1217121",
+		"dateTime": "2017-03-10T02:18:34.263905-08:00",
 		"url": "/vi/docs/Web/JavaScript/Reference/Functions/Arrow_functions",
 		"title": "Hàm rút gọn",
 		"authorName": "anhnc",
 		"authorProfileURL": "/vi/profiles/anhnc"
 	},
 	{
-		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Functions/Arrow_functions$revision/1217121",
-		"dateTime": "2017-03-10T02:18:34.263905-08:00",
+		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Functions/Arrow_functions$revision/1217123",
+		"dateTime": "2017-03-10T02:18:34.214674-08:00",
 		"url": "/vi/docs/Web/JavaScript/Reference/Functions/Arrow_functions",
 		"title": "Hàm rút gọn",
 		"authorName": "anhnc",
@@ -3094,14 +3046,6 @@
 		"title": "Hàm rút gọn",
 		"authorName": "anhnc",
 		"authorProfileURL": "/vi/profiles/anhnc"
-	},
-	{
-		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Functions$revision/1217095",
-		"dateTime": "2017-02-14T01:47:08.134461-08:00",
-		"url": "/vi/docs/Web/JavaScript/Reference/Functions",
-		"title": "Functions",
-		"authorName": "wilfreddesert",
-		"authorProfileURL": "/vi/profiles/wilfreddesert"
 	},
 	{
 		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/ReduceRight$revision/1217055",
@@ -3200,14 +3144,6 @@
 		"authorProfileURL": "/vi/profiles/phamhongphuc"
 	},
 	{
-		"revisionURL": "/vi/docs/Tools/Firefox_OS_Simulator$revision/1203619",
-		"dateTime": "2017-02-27T05:15:43.420570-08:00",
-		"url": "/vi/docs/Tools/Firefox_OS_Simulator",
-		"title": "Môi trường giả lập Firefox OS",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
 		"revisionURL": "/vi/docs/Archive/B2G_OS/Simulator$revision/1203617",
 		"dateTime": "2017-02-27T05:15:43.465854-08:00",
 		"url": "/vi/docs/Archive/B2G_OS/Simulator",
@@ -3216,10 +3152,10 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/B2G_OS/Phone_guide$revision/1201971",
-		"dateTime": "2017-02-27T04:12:32.457262-08:00",
-		"url": "/vi/docs/Mozilla/B2G_OS/Phone_guide",
-		"title": "Firefox OS phone guide",
+		"revisionURL": "/vi/docs/Tools/Firefox_OS_Simulator$revision/1203619",
+		"dateTime": "2017-02-27T05:15:43.420570-08:00",
+		"url": "/vi/docs/Tools/Firefox_OS_Simulator",
+		"title": "Môi trường giả lập Firefox OS",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -3232,10 +3168,10 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/B2G_OS/Using_the_App_Manager$revision/1201967",
-		"dateTime": "2017-02-27T04:12:31.980822-08:00",
-		"url": "/vi/docs/Mozilla/B2G_OS/Using_the_App_Manager",
-		"title": "Sử dụng App Manager",
+		"revisionURL": "/vi/docs/Mozilla/B2G_OS/Phone_guide$revision/1201971",
+		"dateTime": "2017-02-27T04:12:32.457262-08:00",
+		"url": "/vi/docs/Mozilla/B2G_OS/Phone_guide",
+		"title": "Firefox OS phone guide",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -3248,10 +3184,10 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/B2G_OS/Platform/Gaia/Hacking$revision/1201963",
-		"dateTime": "2017-02-27T04:12:31.430595-08:00",
-		"url": "/vi/docs/Mozilla/B2G_OS/Platform/Gaia/Hacking",
-		"title": "Hacking Gaia",
+		"revisionURL": "/vi/docs/Mozilla/B2G_OS/Using_the_App_Manager$revision/1201967",
+		"dateTime": "2017-02-27T04:12:31.980822-08:00",
+		"url": "/vi/docs/Mozilla/B2G_OS/Using_the_App_Manager",
+		"title": "Sử dụng App Manager",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -3264,10 +3200,10 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/B2G_OS/Platform/Gaia$revision/1201959",
-		"dateTime": "2017-02-27T04:12:31.158627-08:00",
-		"url": "/vi/docs/Mozilla/B2G_OS/Platform/Gaia",
-		"title": "Gaia",
+		"revisionURL": "/vi/docs/Mozilla/B2G_OS/Platform/Gaia/Hacking$revision/1201963",
+		"dateTime": "2017-02-27T04:12:31.430595-08:00",
+		"url": "/vi/docs/Mozilla/B2G_OS/Platform/Gaia/Hacking",
+		"title": "Hacking Gaia",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -3280,10 +3216,10 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/B2G_OS/Platform$revision/1201955",
-		"dateTime": "2017-02-27T04:12:30.885989-08:00",
-		"url": "/vi/docs/Mozilla/B2G_OS/Platform",
-		"title": "The Firefox OS platform",
+		"revisionURL": "/vi/docs/Mozilla/B2G_OS/Platform/Gaia$revision/1201959",
+		"dateTime": "2017-02-27T04:12:31.158627-08:00",
+		"url": "/vi/docs/Mozilla/B2G_OS/Platform/Gaia",
+		"title": "Gaia",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -3296,10 +3232,10 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/B2G_OS$revision/1201951",
-		"dateTime": "2017-02-27T04:12:30.463945-08:00",
-		"url": "/vi/docs/Mozilla/B2G_OS",
-		"title": "B2G OS",
+		"revisionURL": "/vi/docs/Mozilla/B2G_OS/Platform$revision/1201955",
+		"dateTime": "2017-02-27T04:12:30.885989-08:00",
+		"url": "/vi/docs/Mozilla/B2G_OS/Platform",
+		"title": "The Firefox OS platform",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -3312,12 +3248,28 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
+		"revisionURL": "/vi/docs/Mozilla/B2G_OS$revision/1201951",
+		"dateTime": "2017-02-27T04:12:30.463945-08:00",
+		"url": "/vi/docs/Mozilla/B2G_OS",
+		"title": "B2G OS",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
 		"revisionURL": "/vi/docs/Archive$revision/1201947",
 		"dateTime": "2017-02-27T04:12:18.614753-08:00",
 		"url": "/vi/docs/Archive",
 		"title": "Archive of obsolete content",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/SVG$revision/1267517",
+		"dateTime": "2017-02-23T17:57:46.254406-08:00",
+		"url": "/vi/docs/Web/SVG",
+		"title": "SVG",
+		"authorName": "lrh3321",
+		"authorProfileURL": "/vi/profiles/lrh3321"
 	},
 	{
 		"revisionURL": "/vi/docs/Web/Reference/API$revision/1191397",
@@ -3368,12 +3320,20 @@
 		"authorProfileURL": "/vi/profiles/wapcuckhung"
 	},
 	{
-		"revisionURL": "/vi/docs/Web/Reference$revision/1191225",
-		"dateTime": "2016-05-04T07:22:50-07:00",
-		"url": "/vi/docs/Web/Reference",
-		"title": "Web technology reference",
-		"authorName": "andrealeone",
-		"authorProfileURL": "/vi/profiles/andrealeone"
+		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Functions$revision/1217095",
+		"dateTime": "2017-02-14T01:47:08.134461-08:00",
+		"url": "/vi/docs/Web/JavaScript/Reference/Functions",
+		"title": "Functions",
+		"authorName": "wilfreddesert",
+		"authorProfileURL": "/vi/profiles/wilfreddesert"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/HTTP$revision/1229829",
+		"dateTime": "2017-02-12T08:25:54.437839-08:00",
+		"url": "/vi/docs/Web/HTTP",
+		"title": "HTTP",
+		"authorName": "fscholz",
+		"authorProfileURL": "/vi/profiles/fscholz"
 	},
 	{
 		"revisionURL": "/vi/docs/Web/JavaScript/Guide$revision/1173225",
@@ -3448,6 +3408,14 @@
 		"authorProfileURL": "/vi/profiles/MaiDoan"
 	},
 	{
+		"revisionURL": "/vi/docs/Web/SVG/Tutorial$revision/1267519",
+		"dateTime": "2017-01-16T13:58:04.607739-08:00",
+		"url": "/vi/docs/Web/SVG/Tutorial",
+		"title": "SVG Tutorial",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
 		"revisionURL": "/vi/docs/Mozilla/Add-ons/Distribution$revision/1165843",
 		"dateTime": "2017-01-06T08:13:16.771724-08:00",
 		"url": "/vi/docs/Mozilla/Add-ons/Distribution",
@@ -3510,6 +3478,14 @@
 		"title": "HTML",
 		"authorName": "wantibui",
 		"authorProfileURL": "/vi/profiles/wantibui"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Errors$revision/1260605",
+		"dateTime": "2016-12-01T16:42:58-08:00",
+		"url": "/vi/docs/Web/JavaScript/Reference/Errors",
+		"title": "JavaScript error reference",
+		"authorName": "Sheppy",
+		"authorProfileURL": "/vi/profiles/Sheppy"
 	},
 	{
 		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse$revision/1143755",
@@ -3600,6 +3576,14 @@
 		"authorProfileURL": "/vi/profiles/dominhhai"
 	},
 	{
+		"revisionURL": "/vi/docs/Web/API/Document_Object_Model$revision/1225153",
+		"dateTime": "2016-10-23T22:00:52-07:00",
+		"url": "/vi/docs/Web/API/Document_Object_Model",
+		"title": "Document Object Model (DOM)",
+		"authorName": "arai",
+		"authorProfileURL": "/vi/profiles/arai"
+	},
+	{
 		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/String/substring$revision/1126913",
 		"dateTime": "2016-10-04T07:48:24-07:00",
 		"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/String/substring",
@@ -3614,14 +3598,6 @@
 		"title": "super",
 		"authorName": "thanhvk",
 		"authorProfileURL": "/vi/profiles/thanhvk"
-	},
-	{
-		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Operators$revision/1124103",
-		"dateTime": "2016-07-10T06:43:45-07:00",
-		"url": "/vi/docs/Web/JavaScript/Reference/Operators",
-		"title": "Expressions and operators",
-		"authorName": "myakura",
-		"authorProfileURL": "/vi/profiles/myakura"
 	},
 	{
 		"revisionURL": "/vi/docs/MDN$revision/1120255",
@@ -3712,10 +3688,10 @@
 		"authorProfileURL": "/vi/profiles/tieppt"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Phone_guide$revision/1095251",
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Using_the_App_Manager$revision/1095247",
 		"dateTime": "2016-07-28T01:32:05-07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS/Phone_guide",
-		"title": "Firefox OS phone guide",
+		"url": "/vi/docs/Mozilla/Firefox_OS/Using_the_App_Manager",
+		"title": "Sử dụng App Manager",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -3728,18 +3704,18 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Using_the_App_Manager$revision/1095247",
+		"revisionURL": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager$revision/1095245",
 		"dateTime": "2016-07-28T01:32:05-07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS/Using_the_App_Manager",
+		"url": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager",
 		"title": "Sử dụng App Manager",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager$revision/1095245",
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Phone_guide$revision/1095251",
 		"dateTime": "2016-07-28T01:32:05-07:00",
-		"url": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager",
-		"title": "Sử dụng App Manager",
+		"url": "/vi/docs/Mozilla/Firefox_OS/Phone_guide",
+		"title": "Firefox OS phone guide",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -3784,14 +3760,6 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform$revision/1095233",
-		"dateTime": "2016-07-28T01:32:03-07:00",
-		"url": "/vi/docs/Archive/B2G_OS/Platform",
-		"title": "The Firefox OS platform",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
 		"revisionURL": "/vi/docs/Mozilla/Firefox_OS$revision/1095231",
 		"dateTime": "2016-07-28T01:32:03-07:00",
 		"url": "/vi/docs/Mozilla/Firefox_OS",
@@ -3804,6 +3772,14 @@
 		"dateTime": "2016-07-28T01:32:03-07:00",
 		"url": "/vi/docs/Archive/B2G_OS",
 		"title": "Firefox OS",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
+		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform$revision/1095233",
+		"dateTime": "2016-07-28T01:32:03-07:00",
+		"url": "/vi/docs/Archive/B2G_OS/Platform",
+		"title": "The Firefox OS platform",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -3840,6 +3816,14 @@
 		"authorProfileURL": "/vi/profiles/torn4dom4n"
 	},
 	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Operators$revision/1124103",
+		"dateTime": "2016-07-10T06:43:45-07:00",
+		"url": "/vi/docs/Web/JavaScript/Reference/Operators",
+		"title": "Expressions and operators",
+		"authorName": "myakura",
+		"authorProfileURL": "/vi/profiles/myakura"
+	},
+	{
 		"revisionURL": "/vi/docs/Web/CSS/length$revision/1080720",
 		"dateTime": "2016-07-07T10:19:26-07:00",
 		"url": "/vi/docs/Web/CSS/length",
@@ -3862,14 +3846,6 @@
 		"title": "Bug writing guidelines",
 		"authorName": "Firefox2005",
 		"authorProfileURL": "/vi/profiles/Firefox2005"
-	},
-	{
-		"revisionURL": "/vi/docs/Mozilla/QA$revision/1076754",
-		"dateTime": "2016-03-04T12:44:22-08:00",
-		"url": "/vi/docs/Mozilla/QA",
-		"title": "QA: Quality assurance at Mozilla",
-		"authorName": "sydpolk",
-		"authorProfileURL": "/vi/profiles/sydpolk"
 	},
 	{
 		"revisionURL": "/vi/docs/Web/API$revision/1072098",
@@ -3928,12 +3904,28 @@
 		"authorProfileURL": "/vi/profiles/dominhhai"
 	},
 	{
+		"revisionURL": "/vi/docs/Web/Reference$revision/1191225",
+		"dateTime": "2016-05-04T07:22:50-07:00",
+		"url": "/vi/docs/Web/Reference",
+		"title": "Web technology reference",
+		"authorName": "andrealeone",
+		"authorProfileURL": "/vi/profiles/andrealeone"
+	},
+	{
 		"revisionURL": "/vi/docs/Web/JavaScript/About_JavaScript$revision/1049234",
 		"dateTime": "2016-04-30T07:19:18-07:00",
 		"url": "/vi/docs/Web/JavaScript/About_JavaScript",
 		"title": "About JavaScript",
 		"authorName": "tvphuc",
 		"authorProfileURL": "/vi/profiles/tvphuc"
+	},
+	{
+		"revisionURL": "/vi/docs/Mozilla/QA$revision/1076754",
+		"dateTime": "2016-03-04T12:44:22-08:00",
+		"url": "/vi/docs/Mozilla/QA",
+		"title": "QA: Quality assurance at Mozilla",
+		"authorName": "sydpolk",
+		"authorProfileURL": "/vi/profiles/sydpolk"
 	},
 	{
 		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Number/isInteger$revision/1017892",
@@ -3958,14 +3950,6 @@
 		"title": "Number.isNaN()",
 		"authorName": "pierreneter",
 		"authorProfileURL": "/vi/profiles/pierreneter"
-	},
-	{
-		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Number$revision/1017886",
-		"dateTime": "2015-12-30T10:54:46-08:00",
-		"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Number",
-		"title": "Number",
-		"authorName": "fscholz",
-		"authorProfileURL": "/vi/profiles/fscholz"
 	},
 	{
 		"revisionURL": "/vi/docs/Web/CSS/CSS3$revision/1000627",
@@ -4072,6 +4056,14 @@
 		"authorProfileURL": "/vi/profiles/buitrungnghia"
 	},
 	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Number$revision/1017886",
+		"dateTime": "2015-12-30T10:54:46-08:00",
+		"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Number",
+		"title": "Number",
+		"authorName": "fscholz",
+		"authorProfileURL": "/vi/profiles/fscholz"
+	},
+	{
 		"revisionURL": "/vi/docs/Web/CSS/CSS3$revision/981665",
 		"dateTime": "2015-12-29T02:02:02-08:00",
 		"url": "/vi/docs/Web/CSS/CSS3",
@@ -4136,44 +4128,12 @@
 		"authorProfileURL": "/vi/profiles/HierenFeb"
 	},
 	{
-		"revisionURL": "/vi/docs/MDN/Contribute/Localize$revision/973839",
-		"dateTime": "2015-09-18T12:53:35-07:00",
-		"url": "/vi/docs/MDN/Contribute/Localize",
-		"title": "Localizing MDN",
-		"authorName": "jswisher",
-		"authorProfileURL": "/vi/profiles/jswisher"
-	},
-	{
 		"revisionURL": "/vi/docs/Web/Guide/CSS/Getting_started/What_is_CSS$revision/972169",
 		"dateTime": "2015-12-10T02:30:09-08:00",
 		"url": "/vi/docs/Web/Guide/CSS/Getting_started/What_is_CSS",
 		"title": "What is CSS",
 		"authorName": "dongocson999",
 		"authorProfileURL": "/vi/profiles/dongocson999"
-	},
-	{
-		"revisionURL": "/vi/docs/Web/Guide/CSS/Getting_started$revision/972167",
-		"dateTime": "2014-06-01T18:11:37-07:00",
-		"url": "/vi/docs/Web/Guide/CSS/Getting_started",
-		"title": "Getting started with CSS",
-		"authorName": "wjinca",
-		"authorProfileURL": "/vi/profiles/wjinca"
-	},
-	{
-		"revisionURL": "/vi/docs/Web/Guide/CSS$revision/972165",
-		"dateTime": "2014-03-08T06:35:57-08:00",
-		"url": "/vi/docs/Web/Guide/CSS",
-		"title": "CSS developer guide",
-		"authorName": "fscholz",
-		"authorProfileURL": "/vi/profiles/fscholz"
-	},
-	{
-		"revisionURL": "/vi/docs/Web/Guide$revision/972163",
-		"dateTime": "2015-10-05T09:32:39-07:00",
-		"url": "/vi/docs/Web/Guide",
-		"title": "Web developer guide",
-		"authorName": "jswisher",
-		"authorProfileURL": "/vi/profiles/jswisher"
 	},
 	{
 		"revisionURL": "/vi/docs/Web/CSS/background-color$revision/967901",
@@ -4352,6 +4312,14 @@
 		"authorProfileURL": "/vi/profiles/linh7778"
 	},
 	{
+		"revisionURL": "/vi/docs/Web/Guide$revision/972163",
+		"dateTime": "2015-10-05T09:32:39-07:00",
+		"url": "/vi/docs/Web/Guide",
+		"title": "Web developer guide",
+		"authorName": "jswisher",
+		"authorProfileURL": "/vi/profiles/jswisher"
+	},
+	{
 		"revisionURL": "/vi/docs/Web/JavaScript/Guide/Functions$revision/923463",
 		"dateTime": "2015-09-25T09:13:51-07:00",
 		"url": "/vi/docs/Web/JavaScript/Guide/Functions",
@@ -4366,6 +4334,22 @@
 		"title": "Functions",
 		"authorName": "vietthangml3",
 		"authorProfileURL": "/vi/profiles/vietthangml3"
+	},
+	{
+		"revisionURL": "/vi/docs/MDN/Contribute/Howto$revision/1328490",
+		"dateTime": "2015-09-18T12:58:00-07:00",
+		"url": "/vi/docs/MDN/Contribute/Howto",
+		"title": "How-to guides",
+		"authorName": "jswisher",
+		"authorProfileURL": "/vi/profiles/jswisher"
+	},
+	{
+		"revisionURL": "/vi/docs/MDN/Contribute/Localize$revision/973839",
+		"dateTime": "2015-09-18T12:53:35-07:00",
+		"url": "/vi/docs/MDN/Contribute/Localize",
+		"title": "Localizing MDN",
+		"authorName": "jswisher",
+		"authorProfileURL": "/vi/profiles/jswisher"
 	},
 	{
 		"revisionURL": "/vi/docs/Web/JavaScript/Data_structures$revision/912955",
@@ -4440,28 +4424,12 @@
 		"authorProfileURL": "/vi/profiles/AlfredoLlaquet"
 	},
 	{
-		"revisionURL": "/vi/docs/Web/API$revision/908291",
-		"dateTime": "2015-04-29T05:59:39-07:00",
-		"url": "/vi/docs/Web/API",
-		"title": "Web API Interfaces",
-		"authorName": "kuldipem",
-		"authorProfileURL": "/vi/profiles/kuldipem"
-	},
-	{
 		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object/observe$revision/901285",
 		"dateTime": "2015-08-14T06:59:10-07:00",
 		"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object/observe",
 		"title": "Object.observe()",
 		"authorName": "Khai96_",
 		"authorProfileURL": "/vi/profiles/Khai96_"
-	},
-	{
-		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object$revision/901283",
-		"dateTime": "2015-07-08T10:33:48-07:00",
-		"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object",
-		"title": "Object",
-		"authorName": "fscholz",
-		"authorProfileURL": "/vi/profiles/fscholz"
 	},
 	{
 		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/String/slice$revision/899519",
@@ -4472,20 +4440,20 @@
 		"authorProfileURL": "/vi/profiles/hellsing1986"
 	},
 	{
-		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/String$revision/899517",
-		"dateTime": "2015-07-27T11:05:41-07:00",
-		"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/String",
-		"title": "String",
-		"authorName": "fscholz",
-		"authorProfileURL": "/vi/profiles/fscholz"
-	},
-	{
 		"revisionURL": "/vi/docs/Mozilla/Firefox$revision/893835",
 		"dateTime": "2015-07-29T15:00:33-07:00",
 		"url": "/vi/docs/Mozilla/Firefox",
 		"title": "Firefox",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/String$revision/899517",
+		"dateTime": "2015-07-27T11:05:41-07:00",
+		"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/String",
+		"title": "String",
+		"authorName": "fscholz",
+		"authorProfileURL": "/vi/profiles/fscholz"
 	},
 	{
 		"revisionURL": "/vi/docs/Tools/Browser_Toolbox$revision/845517",
@@ -4534,6 +4502,14 @@
 		"title": "Web technology for developers",
 		"authorName": "pierreneter",
 		"authorProfileURL": "/vi/profiles/pierreneter"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object$revision/901283",
+		"dateTime": "2015-07-08T10:33:48-07:00",
+		"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object",
+		"title": "Object",
+		"authorName": "fscholz",
+		"authorProfileURL": "/vi/profiles/fscholz"
 	},
 	{
 		"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/How_the_Web_works$revision/841811",
@@ -4640,14 +4616,6 @@
 		"authorProfileURL": "/vi/profiles/lethanhtuanhcm1982"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/Performance$revision/825039",
-		"dateTime": "2015-03-31T12:11:27-07:00",
-		"url": "/vi/docs/Mozilla/Performance",
-		"title": "Performance",
-		"authorName": "jrmuizel",
-		"authorProfileURL": "/vi/profiles/jrmuizel"
-	},
-	{
 		"revisionURL": "/vi/docs/Web/JavaScript$revision/823189",
 		"dateTime": "2015-06-17T05:36:17-07:00",
 		"url": "/vi/docs/Web/JavaScript",
@@ -4710,14 +4678,6 @@
 		"title": "Getting started with the Web",
 		"authorName": "nnhv1981",
 		"authorProfileURL": "/vi/profiles/nnhv1981"
-	},
-	{
-		"revisionURL": "/vi/docs/Learn$revision/814573",
-		"dateTime": "2015-03-18T19:10:09-07:00",
-		"url": "/vi/docs/Learn",
-		"title": "Learning the Web",
-		"authorName": "kscarfone",
-		"authorProfileURL": "/vi/profiles/kscarfone"
 	},
 	{
 		"revisionURL": "/vi/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE$revision/803531",
@@ -4792,36 +4752,12 @@
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
-		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects$revision/800597",
-		"dateTime": "2015-04-28T06:45:34-07:00",
-		"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects",
-		"title": "Standard built-in objects",
-		"authorName": "teoli",
-		"authorProfileURL": "/vi/profiles/teoli"
-	},
-	{
-		"revisionURL": "/vi/docs/Web/JavaScript/Reference$revision/800595",
-		"dateTime": "2015-01-14T21:08:45-08:00",
-		"url": "/vi/docs/Web/JavaScript/Reference",
-		"title": "JavaScript reference",
-		"authorName": "Minat",
-		"authorProfileURL": "/vi/profiles/Minat"
-	},
-	{
 		"revisionURL": "/vi/docs/Web/Apps/Reference_apps$revision/800409",
 		"dateTime": "2015-05-09T14:59:08-07:00",
 		"url": "/vi/docs/Web/Apps/Reference_apps",
 		"title": "Reference apps",
 		"authorName": "DuyNe",
 		"authorProfileURL": "/vi/profiles/DuyNe"
-	},
-	{
-		"revisionURL": "/vi/docs/Persona$revision/800199",
-		"dateTime": "2015-05-09T03:07:41-07:00",
-		"url": "/vi/docs/Persona",
-		"title": "Persona",
-		"authorName": "teoli",
-		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
 		"revisionURL": "/vi/docs/Mozilla/Persona$revision/800197",
@@ -4832,10 +4768,26 @@
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
+		"revisionURL": "/vi/docs/Persona$revision/800199",
+		"dateTime": "2015-05-09T03:07:41-07:00",
+		"url": "/vi/docs/Persona",
+		"title": "Persona",
+		"authorName": "teoli",
+		"authorProfileURL": "/vi/profiles/teoli"
+	},
+	{
 		"revisionURL": "/vi/docs/Mozilla/Persona$revision/800195",
 		"dateTime": "2015-05-09T03:06:33-07:00",
 		"url": "/vi/docs/Mozilla/Persona",
 		"title": "Persona",
+		"authorName": "teoli",
+		"authorProfileURL": "/vi/profiles/teoli"
+	},
+	{
+		"revisionURL": "/vi/docs/Apps$revision/797999",
+		"dateTime": "2015-05-06T02:40:51-07:00",
+		"url": "/vi/docs/Apps",
+		"title": "Apps",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
@@ -4852,14 +4804,6 @@
 		"dateTime": "2015-05-06T02:40:51-07:00",
 		"url": "/vi/docs/Web/Apps/Quickstart",
 		"title": "Quickstart",
-		"authorName": "teoli",
-		"authorProfileURL": "/vi/profiles/teoli"
-	},
-	{
-		"revisionURL": "/vi/docs/Apps$revision/797999",
-		"dateTime": "2015-05-06T02:40:51-07:00",
-		"url": "/vi/docs/Apps",
-		"title": "Apps",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
@@ -4888,12 +4832,20 @@
 		"authorProfileURL": "/vi/profiles/nguyentuyen"
 	},
 	{
-		"revisionURL": "/vi/docs/MDN/Contribute$revision/796769",
-		"dateTime": "2015-04-01T02:31:22-07:00",
-		"url": "/vi/docs/MDN/Contribute",
-		"title": "Contributing to MDN",
-		"authorName": "klez",
-		"authorProfileURL": "/vi/profiles/klez"
+		"revisionURL": "/vi/docs/Web/API$revision/908291",
+		"dateTime": "2015-04-29T05:59:39-07:00",
+		"url": "/vi/docs/Web/API",
+		"title": "Web API Interfaces",
+		"authorName": "kuldipem",
+		"authorProfileURL": "/vi/profiles/kuldipem"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects$revision/800597",
+		"dateTime": "2015-04-28T06:45:34-07:00",
+		"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects",
+		"title": "Standard built-in objects",
+		"authorName": "teoli",
+		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
 		"revisionURL": "/vi/docs/MDN/Community$revision/794369",
@@ -4984,20 +4936,36 @@
 		"authorProfileURL": "/vi/profiles/dominhhai"
 	},
 	{
-		"revisionURL": "/vi/docs/Web/JavaScript/Guide$revision/781971",
-		"dateTime": "2015-03-28T02:11:45-07:00",
-		"url": "/vi/docs/Web/JavaScript/Guide",
-		"title": "JavaScript Guide",
-		"authorName": "teoli",
-		"authorProfileURL": "/vi/profiles/teoli"
-	},
-	{
 		"revisionURL": "/vi/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE$revision/781903",
 		"dateTime": "2015-04-06T19:06:52-07:00",
 		"url": "/vi/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE",
 		"title": "Debugging Firefox for Android with WebIDE",
 		"authorName": "Hoaianhle",
 		"authorProfileURL": "/vi/profiles/Hoaianhle"
+	},
+	{
+		"revisionURL": "/vi/docs/MDN/Contribute$revision/796769",
+		"dateTime": "2015-04-01T02:31:22-07:00",
+		"url": "/vi/docs/MDN/Contribute",
+		"title": "Contributing to MDN",
+		"authorName": "klez",
+		"authorProfileURL": "/vi/profiles/klez"
+	},
+	{
+		"revisionURL": "/vi/docs/Mozilla/Performance$revision/825039",
+		"dateTime": "2015-03-31T12:11:27-07:00",
+		"url": "/vi/docs/Mozilla/Performance",
+		"title": "Performance",
+		"authorName": "jrmuizel",
+		"authorProfileURL": "/vi/profiles/jrmuizel"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Guide$revision/781971",
+		"dateTime": "2015-03-28T02:11:45-07:00",
+		"url": "/vi/docs/Web/JavaScript/Guide",
+		"title": "JavaScript Guide",
+		"authorName": "teoli",
+		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
 		"revisionURL": "/vi/docs/Mozilla/Add-ons$revision/775221",
@@ -5040,6 +5008,14 @@
 		"authorProfileURL": "/vi/profiles/dominhhai"
 	},
 	{
+		"revisionURL": "/vi/docs/Learn$revision/814573",
+		"dateTime": "2015-03-18T19:10:09-07:00",
+		"url": "/vi/docs/Learn",
+		"title": "Learning the Web",
+		"authorName": "kscarfone",
+		"authorProfileURL": "/vi/profiles/kscarfone"
+	},
+	{
 		"revisionURL": "/vi/docs/Web/HTML/Element$revision/771209",
 		"dateTime": "2015-03-13T00:54:12-07:00",
 		"url": "/vi/docs/Web/HTML/Element",
@@ -5054,38 +5030,6 @@
 		"title": "xpcshell",
 		"authorName": "T0mmypro2001",
 		"authorProfileURL": "/vi/profiles/T0mmypro2001"
-	},
-	{
-		"revisionURL": "/vi/docs/Mozilla/Tech/XPCOM/Language_bindings/XPConnect$revision/766227",
-		"dateTime": "2014-10-27T14:43:02-07:00",
-		"url": "/vi/docs/Mozilla/Tech/XPCOM/Language_bindings/XPConnect",
-		"title": "XPConnect",
-		"authorName": "tomasz",
-		"authorProfileURL": "/vi/profiles/tomasz"
-	},
-	{
-		"revisionURL": "/vi/docs/Mozilla/Tech/XPCOM/Language_Bindings$revision/766225",
-		"dateTime": "2014-04-23T09:59:15-07:00",
-		"url": "/vi/docs/Mozilla/Tech/XPCOM/Language_Bindings",
-		"title": "Language bindings",
-		"authorName": "Sheppy",
-		"authorProfileURL": "/vi/profiles/Sheppy"
-	},
-	{
-		"revisionURL": "/vi/docs/Mozilla/Tech/XPCOM$revision/766223",
-		"dateTime": "2014-12-23T13:24:36-08:00",
-		"url": "/vi/docs/Mozilla/Tech/XPCOM",
-		"title": "XPCOM",
-		"authorName": "Sheppy",
-		"authorProfileURL": "/vi/profiles/Sheppy"
-	},
-	{
-		"revisionURL": "/vi/docs/Mozilla/Tech$revision/766221",
-		"dateTime": "2014-04-14T10:33:41-07:00",
-		"url": "/vi/docs/Mozilla/Tech",
-		"title": "Mozilla technologies",
-		"authorName": "Sheppy",
-		"authorProfileURL": "/vi/profiles/Sheppy"
 	},
 	{
 		"revisionURL": "/vi/docs/Tools/Valence$revision/766187",
@@ -5120,20 +5064,20 @@
 		"authorProfileURL": "/vi/profiles/tinxalem1988"
 	},
 	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Reference$revision/800595",
+		"dateTime": "2015-01-14T21:08:45-08:00",
+		"url": "/vi/docs/Web/JavaScript/Reference",
+		"title": "JavaScript reference",
+		"authorName": "Minat",
+		"authorProfileURL": "/vi/profiles/Minat"
+	},
+	{
 		"revisionURL": "/vi/docs/Mozilla/Projects/Social_API$revision/722203",
 		"dateTime": "2015-01-14T02:48:10-08:00",
 		"url": "/vi/docs/Mozilla/Projects/Social_API",
 		"title": "Social API",
 		"authorName": "Draconica5",
 		"authorProfileURL": "/vi/profiles/Draconica5"
-	},
-	{
-		"revisionURL": "/vi/docs/Mozilla/Projects$revision/722201",
-		"dateTime": "2014-04-14T10:52:12-07:00",
-		"url": "/vi/docs/Mozilla/Projects",
-		"title": "Projects",
-		"authorName": "Sheppy",
-		"authorProfileURL": "/vi/profiles/Sheppy"
 	},
 	{
 		"revisionURL": "/vi/docs/Web/Apps/Quickstart$revision/712991",
@@ -5144,6 +5088,14 @@
 		"authorProfileURL": "/vi/profiles/dongnat_bg"
 	},
 	{
+		"revisionURL": "/vi/docs/Mozilla/Tech/XPCOM$revision/766223",
+		"dateTime": "2014-12-23T13:24:36-08:00",
+		"url": "/vi/docs/Mozilla/Tech/XPCOM",
+		"title": "XPCOM",
+		"authorName": "Sheppy",
+		"authorProfileURL": "/vi/profiles/Sheppy"
+	},
+	{
 		"revisionURL": "/vi/docs/Mozilla/Marketplace/Publishing/Submit/Submitting_an_app$revision/709519",
 		"dateTime": "2014-12-16T13:34:45-08:00",
 		"url": "/vi/docs/Mozilla/Marketplace/Publishing/Submit/Submitting_an_app",
@@ -5152,28 +5104,20 @@
 		"authorProfileURL": "/vi/profiles/TyAnh"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/Marketplace/Publishing/Submit$revision/709517",
-		"dateTime": "2014-07-05T05:57:28-07:00",
-		"url": "/vi/docs/Mozilla/Marketplace/Publishing/Submit",
-		"title": "Submit",
-		"authorName": "rebloor",
-		"authorProfileURL": "/vi/profiles/rebloor"
-	},
-	{
-		"revisionURL": "/vi/docs/Mozilla/Marketplace/Publishing$revision/709515",
-		"dateTime": "2014-08-07T05:30:34-07:00",
-		"url": "/vi/docs/Mozilla/Marketplace/Publishing",
-		"title": "Publishing",
-		"authorName": "rebloor",
-		"authorProfileURL": "/vi/profiles/rebloor"
-	},
-	{
 		"revisionURL": "/vi/docs/Mozilla/Marketplace$revision/709513",
 		"dateTime": "2014-11-21T03:19:57-08:00",
 		"url": "/vi/docs/Mozilla/Marketplace",
 		"title": "Firefox Marketplace",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
+		"revisionURL": "/vi/docs/Mozilla/Tech/XPCOM/Language_bindings/XPConnect$revision/766227",
+		"dateTime": "2014-10-27T14:43:02-07:00",
+		"url": "/vi/docs/Mozilla/Tech/XPCOM/Language_bindings/XPConnect",
+		"title": "XPConnect",
+		"authorName": "tomasz",
+		"authorProfileURL": "/vi/profiles/tomasz"
 	},
 	{
 		"revisionURL": "/vi/docs/Tools/Remote_Debugging$revision/673315",
@@ -5264,22 +5208,6 @@
 		"authorProfileURL": "/vi/profiles/bogiaphone"
 	},
 	{
-		"revisionURL": "/vi/docs/Project:MDN/Plans_and_status$revision/657903",
-		"dateTime": "2014-02-04T00:28:21-08:00",
-		"url": "/vi/docs/Project:MDN/Plans_and_status",
-		"title": "Plans and status",
-		"authorName": "teoli",
-		"authorProfileURL": "/vi/profiles/teoli"
-	},
-	{
-		"revisionURL": "/vi/docs/Project:MDN$revision/657901",
-		"dateTime": "2014-04-07T17:59:25-07:00",
-		"url": "/vi/docs/Project:MDN",
-		"title": "The MDN project",
-		"authorName": "Sheppy",
-		"authorProfileURL": "/vi/profiles/Sheppy"
-	},
-	{
 		"revisionURL": "/vi/docs/Tools/Remote_Debugging$revision/657319",
 		"dateTime": "2014-08-26T10:26:45-07:00",
 		"url": "/vi/docs/Tools/Remote_Debugging",
@@ -5302,6 +5230,14 @@
 		"title": "Building an extension",
 		"authorName": "luuthanhtung",
 		"authorProfileURL": "/vi/profiles/luuthanhtung"
+	},
+	{
+		"revisionURL": "/vi/docs/Mozilla/Marketplace/Publishing$revision/709515",
+		"dateTime": "2014-08-07T05:30:34-07:00",
+		"url": "/vi/docs/Mozilla/Marketplace/Publishing",
+		"title": "Publishing",
+		"authorName": "rebloor",
+		"authorProfileURL": "/vi/profiles/rebloor"
 	},
 	{
 		"revisionURL": "/vi/docs/Mozilla/Add-ons/Add-on_guidelines$revision/649489",
@@ -5336,14 +5272,6 @@
 		"authorProfileURL": "/vi/profiles/tuan76"
 	},
 	{
-		"revisionURL": "/vi/docs/Security$revision/647907",
-		"dateTime": "2014-04-17T07:52:24-07:00",
-		"url": "/vi/docs/Security",
-		"title": "Security",
-		"authorName": "Sheppy",
-		"authorProfileURL": "/vi/profiles/Sheppy"
-	},
-	{
 		"revisionURL": "/vi/docs/Mozilla/Add-ons/Add-on_guidelines$revision/645639",
 		"dateTime": "2014-07-27T10:34:15-07:00",
 		"url": "/vi/docs/Mozilla/Add-ons/Add-on_guidelines",
@@ -5360,10 +5288,18 @@
 		"authorProfileURL": "/vi/profiles/thehoangsdtq"
 	},
 	{
-		"revisionURL": "/vi/docs/CSS/background-color$revision/629671",
+		"revisionURL": "/vi/docs/Mozilla/Marketplace/Publishing/Submit$revision/709517",
+		"dateTime": "2014-07-05T05:57:28-07:00",
+		"url": "/vi/docs/Mozilla/Marketplace/Publishing/Submit",
+		"title": "Submit",
+		"authorName": "rebloor",
+		"authorProfileURL": "/vi/profiles/rebloor"
+	},
+	{
+		"revisionURL": "/vi/docs/CSS$revision/629667",
 		"dateTime": "2014-07-01T00:45:22-07:00",
-		"url": "/vi/docs/CSS/background-color",
-		"title": "background-color",
+		"url": "/vi/docs/CSS",
+		"title": "CSS",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
@@ -5376,14 +5312,6 @@
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
-		"revisionURL": "/vi/docs/CSS$revision/629667",
-		"dateTime": "2014-07-01T00:45:22-07:00",
-		"url": "/vi/docs/CSS",
-		"title": "CSS",
-		"authorName": "teoli",
-		"authorProfileURL": "/vi/profiles/teoli"
-	},
-	{
 		"revisionURL": "/vi/docs/Web/CSS$revision/629665",
 		"dateTime": "2014-07-01T00:45:22-07:00",
 		"url": "/vi/docs/Web/CSS",
@@ -5392,10 +5320,10 @@
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
-		"revisionURL": "/vi/docs/HTML$revision/629663",
-		"dateTime": "2014-07-01T00:35:35-07:00",
-		"url": "/vi/docs/HTML",
-		"title": "HTML",
+		"revisionURL": "/vi/docs/CSS/background-color$revision/629671",
+		"dateTime": "2014-07-01T00:45:22-07:00",
+		"url": "/vi/docs/CSS/background-color",
+		"title": "background-color",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
@@ -5403,6 +5331,14 @@
 		"revisionURL": "/vi/docs/Web/HTML$revision/629661",
 		"dateTime": "2014-07-01T00:35:35-07:00",
 		"url": "/vi/docs/Web/HTML",
+		"title": "HTML",
+		"authorName": "teoli",
+		"authorProfileURL": "/vi/profiles/teoli"
+	},
+	{
+		"revisionURL": "/vi/docs/HTML$revision/629663",
+		"dateTime": "2014-07-01T00:35:35-07:00",
+		"url": "/vi/docs/HTML",
 		"title": "HTML",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
@@ -5432,6 +5368,14 @@
 		"authorProfileURL": "/vi/profiles/bsmedberg"
 	},
 	{
+		"revisionURL": "/vi/docs/Web/Guide/CSS/Getting_started$revision/972167",
+		"dateTime": "2014-06-01T18:11:37-07:00",
+		"url": "/vi/docs/Web/Guide/CSS/Getting_started",
+		"title": "Getting started with CSS",
+		"authorName": "wjinca",
+		"authorProfileURL": "/vi/profiles/wjinca"
+	},
+	{
 		"revisionURL": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager$revision/580459",
 		"dateTime": "2014-05-07T18:55:55-07:00",
 		"url": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager",
@@ -5448,6 +5392,38 @@
 		"authorProfileURL": "/vi/profiles/ThuKelly23"
 	},
 	{
+		"revisionURL": "/vi/docs/Mozilla/Tech/XPCOM/Language_Bindings$revision/766225",
+		"dateTime": "2014-04-23T09:59:15-07:00",
+		"url": "/vi/docs/Mozilla/Tech/XPCOM/Language_Bindings",
+		"title": "Language bindings",
+		"authorName": "Sheppy",
+		"authorProfileURL": "/vi/profiles/Sheppy"
+	},
+	{
+		"revisionURL": "/vi/docs/Security$revision/647907",
+		"dateTime": "2014-04-17T07:52:24-07:00",
+		"url": "/vi/docs/Security",
+		"title": "Security",
+		"authorName": "Sheppy",
+		"authorProfileURL": "/vi/profiles/Sheppy"
+	},
+	{
+		"revisionURL": "/vi/docs/Mozilla/Projects$revision/722201",
+		"dateTime": "2014-04-14T10:52:12-07:00",
+		"url": "/vi/docs/Mozilla/Projects",
+		"title": "Projects",
+		"authorName": "Sheppy",
+		"authorProfileURL": "/vi/profiles/Sheppy"
+	},
+	{
+		"revisionURL": "/vi/docs/Mozilla/Tech$revision/766221",
+		"dateTime": "2014-04-14T10:33:41-07:00",
+		"url": "/vi/docs/Mozilla/Tech",
+		"title": "Mozilla technologies",
+		"authorName": "Sheppy",
+		"authorProfileURL": "/vi/profiles/Sheppy"
+	},
+	{
 		"revisionURL": "/vi/docs/MDN/About$revision/549935",
 		"dateTime": "2014-04-13T17:52:29-07:00",
 		"url": "/vi/docs/MDN/About",
@@ -5459,6 +5435,14 @@
 		"revisionURL": "/vi/docs/MDN$revision/549933",
 		"dateTime": "2014-04-10T09:45:21-07:00",
 		"url": "/vi/docs/MDN",
+		"title": "The MDN project",
+		"authorName": "Sheppy",
+		"authorProfileURL": "/vi/profiles/Sheppy"
+	},
+	{
+		"revisionURL": "/vi/docs/Project:MDN$revision/657901",
+		"dateTime": "2014-04-07T17:59:25-07:00",
+		"url": "/vi/docs/Project:MDN",
 		"title": "The MDN project",
 		"authorName": "Sheppy",
 		"authorProfileURL": "/vi/profiles/Sheppy"
@@ -5480,22 +5464,6 @@
 		"authorProfileURL": "/vi/profiles/nthanhha26"
 	},
 	{
-		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform/Gaia$revision/541551",
-		"dateTime": "2014-03-26T04:44:47-07:00",
-		"url": "/vi/docs/Archive/B2G_OS/Platform/Gaia",
-		"title": "Gaia",
-		"authorName": "aleoaninda",
-		"authorProfileURL": "/vi/profiles/aleoaninda"
-	},
-	{
-		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform$revision/541549",
-		"dateTime": "2013-08-20T14:37:02-07:00",
-		"url": "/vi/docs/Archive/B2G_OS/Platform",
-		"title": "The Firefox OS platform",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
 		"revisionURL": "/vi/docs/Archive/B2G_OS$revision/541547",
 		"dateTime": "2014-03-27T10:43:11-07:00",
 		"url": "/vi/docs/Archive/B2G_OS",
@@ -5504,12 +5472,36 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
+		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform/Gaia$revision/541551",
+		"dateTime": "2014-03-26T04:44:47-07:00",
+		"url": "/vi/docs/Archive/B2G_OS/Platform/Gaia",
+		"title": "Gaia",
+		"authorName": "aleoaninda",
+		"authorProfileURL": "/vi/profiles/aleoaninda"
+	},
+	{
 		"revisionURL": "/vi/docs/Archive/B2G_OS/Simulator$revision/532397",
 		"dateTime": "2014-03-09T21:00:16-07:00",
 		"url": "/vi/docs/Archive/B2G_OS/Simulator",
 		"title": "Môi trường giả lập Firefox OS",
 		"authorName": "dangsonbk",
 		"authorProfileURL": "/vi/profiles/dangsonbk"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/Guide/CSS$revision/972165",
+		"dateTime": "2014-03-08T06:35:57-08:00",
+		"url": "/vi/docs/Web/Guide/CSS",
+		"title": "CSS developer guide",
+		"authorName": "fscholz",
+		"authorProfileURL": "/vi/profiles/fscholz"
+	},
+	{
+		"revisionURL": "/vi/docs/Project:MDN/Plans_and_status$revision/657903",
+		"dateTime": "2014-02-04T00:28:21-08:00",
+		"url": "/vi/docs/Project:MDN/Plans_and_status",
+		"title": "Plans and status",
+		"authorName": "teoli",
+		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
 		"revisionURL": "/vi/docs/Tools$revision/507699",
@@ -5552,12 +5544,12 @@
 		"authorProfileURL": "/vi/profiles/cubi.koj"
 	},
 	{
-		"revisionURL": "/vi/docs/Web$revision/463423",
-		"dateTime": "2013-06-12T04:46:00-07:00",
-		"url": "/vi/docs/Web",
-		"title": "Web technology for developers",
-		"authorName": "ethertank",
-		"authorProfileURL": "/vi/profiles/ethertank"
+		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform$revision/541549",
+		"dateTime": "2013-08-20T14:37:02-07:00",
+		"url": "/vi/docs/Archive/B2G_OS/Platform",
+		"title": "The Firefox OS platform",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
 		"revisionURL": "/vi/docs/Mozilla$revision/463383",
@@ -5574,6 +5566,14 @@
 		"title": "Network Security Services",
 		"authorName": "halan",
 		"authorProfileURL": "/vi/profiles/halan"
+	},
+	{
+		"revisionURL": "/vi/docs/Web$revision/463423",
+		"dateTime": "2013-06-12T04:46:00-07:00",
+		"url": "/vi/docs/Web",
+		"title": "Web technology for developers",
+		"authorName": "ethertank",
+		"authorProfileURL": "/vi/profiles/ethertank"
 	},
 	{
 		"revisionURL": "/vi/docs/User:ethertank/Test$revision/414997",
@@ -5624,20 +5624,20 @@
 		"authorProfileURL": "/vi/profiles/nguyenthanhtrong"
 	},
 	{
-		"revisionURL": "/vi/docs/Web/CSS$revision/354589",
-		"dateTime": "2012-12-25T14:31:35-08:00",
-		"url": "/vi/docs/Web/CSS",
-		"title": "CSS",
-		"authorName": "teoli",
-		"authorProfileURL": "/vi/profiles/teoli"
-	},
-	{
 		"revisionURL": "/vi/docs/Web/Apps$revision/349075",
 		"dateTime": "2013-01-25T11:04:49-08:00",
 		"url": "/vi/docs/Web/Apps",
 		"title": "Apps",
 		"authorName": "buiquocanh56",
 		"authorProfileURL": "/vi/profiles/buiquocanh56"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/CSS$revision/354589",
+		"dateTime": "2012-12-25T14:31:35-08:00",
+		"url": "/vi/docs/Web/CSS",
+		"title": "CSS",
+		"authorName": "teoli",
+		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
 		"revisionURL": "/vi/docs/User:ethertank/Test$revision/341315",
@@ -5728,28 +5728,12 @@
 		"authorProfileURL": "/vi/profiles/dovy"
 	},
 	{
-		"revisionURL": "/vi/docs/Project:en$revision/322763",
-		"dateTime": "2011-06-09T23:53:41-07:00",
-		"url": "/vi/docs/Project:en",
-		"title": "Project:en",
-		"authorName": "SamB",
-		"authorProfileURL": "/vi/profiles/SamB"
-	},
-	{
 		"revisionURL": "/vi/docs/Mozilla/Persona$revision/321753",
 		"dateTime": "2012-10-20T14:24:40-07:00",
 		"url": "/vi/docs/Mozilla/Persona",
 		"title": "Persona",
 		"authorName": "ductroc",
 		"authorProfileURL": "/vi/profiles/ductroc"
-	},
-	{
-		"revisionURL": "/vi/docs/en$revision/319307",
-		"dateTime": "2012-07-06T08:45:51-07:00",
-		"url": "/vi/docs/en",
-		"title": "MDN",
-		"authorName": "lmorchard",
-		"authorProfileURL": "/vi/profiles/lmorchard"
 	},
 	{
 		"revisionURL": "/vi/docs/Tools$revision/306047",
@@ -5768,20 +5752,12 @@
 		"authorProfileURL": "/vi/profiles/noidautimem"
 	},
 	{
-		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/288924",
-		"dateTime": "2010-07-01T02:42:49-07:00",
-		"url": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t",
-		"title": "Bản Kê Khai Cài Đặt",
-		"authorName": "kimkha",
-		"authorProfileURL": "/vi/profiles/kimkha"
-	},
-	{
-		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/270815",
-		"dateTime": "2010-07-01T02:42:49-07:00",
-		"url": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t",
-		"title": "Bản Kê Khai Cài Đặt",
-		"authorName": "kimkha",
-		"authorProfileURL": "/vi/profiles/kimkha"
+		"revisionURL": "/vi/docs/en$revision/319307",
+		"dateTime": "2012-07-06T08:45:51-07:00",
+		"url": "/vi/docs/en",
+		"title": "MDN",
+		"authorName": "lmorchard",
+		"authorProfileURL": "/vi/profiles/lmorchard"
 	},
 	{
 		"revisionURL": "/vi/docs/DOM_Inspector$revision/235135",
@@ -5830,5 +5806,29 @@
 		"title": "Labs-tab",
 		"authorName": "Hakuna",
 		"authorProfileURL": "/vi/profiles/Hakuna"
+	},
+	{
+		"revisionURL": "/vi/docs/Project:en$revision/322763",
+		"dateTime": "2011-06-09T23:53:41-07:00",
+		"url": "/vi/docs/Project:en",
+		"title": "Project:en",
+		"authorName": "SamB",
+		"authorProfileURL": "/vi/profiles/SamB"
+	},
+	{
+		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/288924",
+		"dateTime": "2010-07-01T02:42:49-07:00",
+		"url": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t",
+		"title": "Bản Kê Khai Cài Đặt",
+		"authorName": "kimkha",
+		"authorProfileURL": "/vi/profiles/kimkha"
+	},
+	{
+		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/270815",
+		"dateTime": "2010-07-01T02:42:49-07:00",
+		"url": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t",
+		"title": "Bản Kê Khai Cài Đặt",
+		"authorName": "kimkha",
+		"authorProfileURL": "/vi/profiles/kimkha"
 	}
 ]

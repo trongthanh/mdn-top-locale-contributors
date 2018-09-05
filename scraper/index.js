@@ -10,17 +10,30 @@ const fs = require('fs');
 const path = require('path');
 const { fetchProfile } = require('./profile');
 const metaJson = require('../data/meta.json');
+const authorsJson = require('../data/authors.json');
+const entriesJson = require('../data/entries.json');
 
 const checkTime = _.find(metaJson, { key: 'checkTime' });
+
+function getStartDate(dateStr = '') {
+	// the str replacer is to remove timezone conversion of Date parser
+	// as per: https://stackoverflow.com/questions/12076212/format-a-date-in-javascript-without-converting-to-local-timezone
+	let date = new Date(dateStr.replace(/[TZ]/g, ' ').replace(/-/g, '/'));
+	// invalid date
+	if (!date.getTime()) {
+		date = new Date(0); // since epoc
+	}
+	return `${date.getMonth() + 1}/${date.getDate()}/${date.getFullYear()}`;
+}
 
 function fetchPage(page = 1) {
 	const query = {
 		page,
 		locale: 'vi',
 		authors: 0,
+		start_date: getStartDate(checkTime.value),
 		// user,
 		// topic,
-		// start_date,
 		// end_date,
 		// preceding_period,
 	};
@@ -44,19 +57,6 @@ function fetchPage(page = 1) {
 			// console.log(html);
 			return parsePage(html);
 		});
-}
-
-// for testing locally
-function readSampleFile() {
-	return new Promise((resolve, reject) => {
-		fs.readFile(path.resolve(__dirname, '../private/response-example.html'), 'utf8', (err, data) => {
-			if (!err) {
-				resolve(data);
-			} else {
-				reject(err);
-			}
-		});
-	});
 }
 
 function parsePage(html) {
@@ -99,12 +99,20 @@ function parsePage(html) {
 	};
 }
 
-function normalizeEntries(entries) {
-	// const byAuthors = _.groupBy(entries, 'authorName');
-	// console.log('byAuthors:', byAuthors);
-	// const byAuthors2 = _.map(author, ())
+/**
+ * Main data processor, parsing new entries and merge with existing entries
+ * @param  {[type]} entries [description]
+ * @return {[type]}         [description]
+ */
+function processEntries(entries = []) {
+	const currentEntries = Array.isArray(entriesJson) && entriesJson.length ? entriesJson : [];
+
+	// step 1. Filter and keep only new entries
+	const newEntries = entries.filter(entry => !_.find(currentEntries, { revisionURL: entry.revisionURL }));
+	console.log('newEntries', newEntries);
+	// step 2. Reduce new entries to group by authors
 	const objAuthors = _.reduce(
-		entries,
+		newEntries,
 		(authors, entry) => {
 			const authorEntry = _.pick(entry, ['revisionURL', 'dateTime', 'url', 'title']);
 			if (!authors[entry.authorName]) {
@@ -121,17 +129,30 @@ function normalizeEntries(entries) {
 		},
 		{}
 	);
-	const authors = Object.keys(objAuthors).map(authorName => {
+
+	// step 3. Create or update authors in the authors database
+	const allAuthors = Array.isArray(authorsJson) && authorsJson.length ? authorsJson : [];
+	const recentAuthors = Object.keys(objAuthors).map(authorName => {
 		const author = objAuthors[authorName];
+		let currentAuthor = _.find(allAuthors, { authorName });
+
+		// author already existed:
+		if (currentAuthor) {
+			currentAuthor.entries = currentAuthor.entries.concat(author.entries);
+		} else {
+			// new author
+			allAuthors.unshift(author);
+			currentAuthor = author;
+		}
 		// sort entry by dateTime descending
-		author.entries.sort((a, b) => {
+		currentAuthor.entries.sort((a, b) => {
 			return new Date(b.dateTime).getTime() - new Date(a.dateTime).getTime();
 		});
-		const latestEntry = author.entries[0];
-		const articles = _.groupBy(author.entries, 'url');
 
-		author.articles = Object.keys(articles).map(url => {
-			const articleEntries = articles[url];
+		// getting author summary
+		const authorArticles = _.groupBy(currentAuthor.entries, 'url');
+		currentAuthor.articles = Object.keys(authorArticles).map(url => {
+			const articleEntries = authorArticles[url];
 
 			return {
 				url,
@@ -139,17 +160,29 @@ function normalizeEntries(entries) {
 				revisions: articleEntries.length,
 			};
 		});
-		author.articlesCount = author.articles.length;
-		author.lastestEntryTime = latestEntry.dateTime;
-		// console.log(authorName, ':', author.articles);
+		currentAuthor.articlesCount = currentAuthor.articles.length;
+		currentAuthor.lastestEntryTime = currentAuthor.entries[0].dateTime;
 
-		return author;
+		return currentAuthor;
 	});
-	// console.log('objAuthors:', authors);
+
+	// step 4. Sort and ranking
+	// first sort by entry time
+	allAuthors.sort((a, b) => new Date(b.lastestEntryTime).getTime() - new Date(a.lastestEntryTime).getTime());
+	// then sort by articlesCount
+	allAuthors.sort((a, b) => b.articlesCount - a.articlesCount);
+	// calculate ranking
+	allAuthors.forEach((author, index) => {
+		author.rank = index + 1;
+	});
+
+	const allEntries = currentEntries.concat(newEntries);
+	allEntries.sort((a, b) => new Date(b.dateTime).getTime() - new Date(a.dateTime).getTime());
 
 	return {
-		entries,
-		authors,
+		recentAuthors, // for fetching updated profile
+		authors: allAuthors,
+		entries: allEntries,
 	};
 }
 
@@ -158,23 +191,6 @@ async function asyncForEach(array, callback) {
 		await callback(array[index], index, array);
 	}
 }
-
-// eslint-disable-next-line
-async function test() {
-	const html = await readSampleFile();
-	const pageData = parsePage(html);
-
-	const parsedEntries = normalizeEntries(pageData.entries);
-	console.log(parsedEntries.authors[0]);
-	if (checkTime) {
-		checkTime.value = new Date();
-	}
-	console.log('metaJson', metaJson);
-	fs.writeFile(path.resolve(__dirname, '../data/meta.json'), JSON.stringify(metaJson, null, '\t'), 'utf8', () => {
-		console.log('Write meta.json done');
-	});
-}
-// test();
 
 function writeFiles(parsedEntries) {
 	// console.log(parsedEntries.authors);
@@ -210,11 +226,11 @@ async function main() {
 	// const pageData = parsePage(html);
 	let next = true;
 	let currentPage = 1;
-	let allEntries = [];
+	let recentEntries = [];
 
 	while (next) {
 		const pageData = await fetchPage(currentPage);
-		allEntries = allEntries.concat(pageData.entries);
+		recentEntries = recentEntries.concat(pageData.entries);
 		currentPage += 1;
 		if (!pageData.hasNext) {
 			next = false;
@@ -222,13 +238,61 @@ async function main() {
 		console.log('Page fetched: ', currentPage, ', items:', pageData.entries.length);
 	}
 
-	const parsedEntries = normalizeEntries(allEntries);
-	await asyncForEach(parsedEntries.authors, async author => {
+	const data = processEntries(recentEntries);
+	await asyncForEach(data.recentAuthors, async author => {
 		// we get new profile every time we visit this author to update latest info
-		author.profile = await fetchProfile(`https://developer.mozilla.org/${author.authorProfileURL}`);
+		const profile = await fetchProfile(`https://developer.mozilla.org/${author.authorProfileURL}`);
+		const currentAuthor = _.find(data.authors, { authorName: author.authorName });
+		currentAuthor.profile = profile;
+		console.log('updated author profile:', profile);
 	});
-	writeFiles(parsedEntries);
+	console.log('data.entries:', data.entries.length);
+	console.log('data.recentAuthors:', data.recentAuthors.length);
+	console.log('data.authors:', data.authors.length);
+	if (data.recentAuthors.length) {
+		writeFiles(data);
+	} else {
+		console.log('No new entries. Skip writing JSON');
+	}
 	console.log('****** ALL DONE ******');
 }
 
 main();
+
+// for testing locally
+// eslint-disable-next-line
+function readSampleFile() {
+	return new Promise((resolve, reject) => {
+		fs.readFile(path.resolve(__dirname, '../private/response-example.html'), 'utf8', (err, data) => {
+			if (!err) {
+				resolve(data);
+			} else {
+				reject(err);
+			}
+		});
+	});
+}
+
+// eslint-disable-next-line
+async function test() {
+	/*
+	const html = await readSampleFile();
+	const pageData = parsePage(html);
+	/*/
+	const pageData = await fetchPage();
+	console.log('pageData', pageData);
+	//*/
+	const parsedEntries = processEntries(pageData.entries);
+
+	console.log('parsedEntries.entries:', parsedEntries.entries.length);
+	console.log('parsedEntries.recentAuthors:', parsedEntries.recentAuthors.length);
+	console.log('parsedEntries.authors:', parsedEntries.authors.length);
+	// if (checkTime) {
+	// 	checkTime.value = new Date();
+	// }
+	// console.log('metaJson', metaJson);
+	// fs.writeFile(path.resolve(__dirname, '../data/meta.json'), JSON.stringify(metaJson, null, '\t'), 'utf8', () => {
+	// 	console.log('Write meta.json done');
+	// });
+}
+// test();

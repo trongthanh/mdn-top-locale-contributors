@@ -37,11 +37,7 @@ const LandingPage = ({ pageContext, data }) => {
 							</thead>
 							<tbody>
 								{data.allAuthorsJson.edges.map((author, index) => (
-									<ProfileRow
-										key={index}
-										author={author.node}
-										rank={index + 1 + (page - 1) * limit}
-									/>
+									<ProfileRow key={index} author={author.node} />
 								))}
 							</tbody>
 						</table>
@@ -69,6 +65,7 @@ export const query = graphql`
 				node {
 					authorName
 					authorProfileURL
+					rank
 					articlesCount
 					lastestEntryTime
 					profile {
