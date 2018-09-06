@@ -167,10 +167,17 @@ function processEntries(entries = []) {
 	});
 
 	// step 4. Sort and ranking
-	// first sort by entry time
-	allAuthors.sort((a, b) => new Date(b.lastestEntryTime).getTime() - new Date(a.lastestEntryTime).getTime());
-	// then sort by articlesCount
-	allAuthors.sort((a, b) => b.articlesCount - a.articlesCount);
+	allAuthors.sort((a, b) => {
+		// first sort by entry time
+		const byArticleCounts = b.articlesCount - a.articlesCount;
+
+		if (byArticleCounts !== 0) {
+			// not equal, sort by articleCounts
+			return byArticleCounts;
+		}
+		// if equal, then sort by lastestEntryTime
+		return new Date(b.lastestEntryTime).getTime() - new Date(a.lastestEntryTime).getTime();
+	});
 	// calculate ranking
 	allAuthors.forEach((author, index) => {
 		author.rank = index + 1;
@@ -287,6 +294,30 @@ async function test() {
 	console.log('parsedEntries.entries:', parsedEntries.entries.length);
 	console.log('parsedEntries.recentAuthors:', parsedEntries.recentAuthors.length);
 	console.log('parsedEntries.authors:', parsedEntries.authors.length);
+	// testing sort
+	/*
+	const allAuthors = authorsJson;
+	allAuthors.sort((a, b) => {
+		const byArticleCounts = b.articlesCount - a.articlesCount;
+
+		if (byArticleCounts !== 0) {
+			// not equal, we have a clear sort by articleCounts
+			return byArticleCounts;
+		}
+		// if not, sort by lastestEntryTime
+		const byLatestEntryTime = new Date(b.lastestEntryTime).getTime() - new Date(a.lastestEntryTime).getTime();
+		return byLatestEntryTime;
+	});
+	fs.writeFile(
+		path.resolve(__dirname, '../data/authors2.json'),
+		JSON.stringify(allAuthors, null, '\t'),
+		'utf8',
+		() => {
+			console.log('Write authors2.json done');
+		}
+	);
+	//*/
+
 	// if (checkTime) {
 	// 	checkTime.value = new Date();
 	// }
