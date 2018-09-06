@@ -25,7 +25,11 @@ const ProfileRow = ({ author }) => {
 			<td className="align-middle">{author.articlesCount}</td>
 			<td className="align-middle">
 				<a href={'https://developer.mozilla.org' + author.authorProfileURL}>
-					<img src={profile.avatar || 'https://developer.mozilla.org/static/img/avatar.png'} height="50" />
+					<img
+						alt={`${author.authorName}'s avatar`}
+						src={profile.avatar || 'https://developer.mozilla.org/static/img/avatar.png'}
+						height="50"
+					/>
 				</a>
 			</td>
 		</tr>
