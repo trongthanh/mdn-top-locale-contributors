@@ -11,6 +11,10 @@ const Layout = ({ children }) => (
 	<StaticQuery
 		query={graphql`
 			query SiteTitleQuery {
+				metaJson(key: { eq: "checkTime" }) {
+					key
+					value
+				}
 				site {
 					siteMetadata {
 						title
@@ -23,8 +27,25 @@ const Layout = ({ children }) => (
 				<Helmet
 					title={data.site.siteMetadata.title}
 					meta={[
-						{ name: 'description', content: 'Sample' },
-						{ name: 'keywords', content: 'sample, something' },
+						{
+							name: 'description',
+							content: `List of top contributors to Vietnamese articles on MDN. This list was updated at ${new Date(
+								data.metaJson.value
+							).toUTCString()}`,
+						},
+						{
+							name: 'keywords',
+							content: 'mdn, mozilla dev docs, top contributors, locale, vietnamese, vi, translate',
+						},
+						{
+							property: 'og:description',
+							content: `List of top contributors to Vietnamese articles on MDN. This list was updated at ${new Date(
+								data.metaJson.value
+							).toUTCString()}`,
+						},
+						{ property: 'og:type', content: 'website' },
+						{ property: 'og:title', content: data.site.siteMetadata.title },
+						{ property: 'og:image', content: '/cover.png' },
 					]}
 				>
 					<html lang="en" />

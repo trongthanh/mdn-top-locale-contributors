@@ -22,9 +22,9 @@ const AboutPage = () => (
 			<h2>How?</h2>
 			<p>
 				This website will scrape{' '}
-				<a href="https://developer.mozilla.org/en-US/dashboards/revisions">MDN revisions dashboard</a> to get
-				the list of changes to a specific locale (e.g VI - Vietnamese) and generate a list of top authors based
-				on their number of contributed articles.
+				<a href="https://developer.mozilla.org/en-US/dashboards/revisions">MDN revisions dashboard</a> (publicly
+				available) to get the list of changes to a specific locale (e.g VI - Vietnamese) and generate a list of
+				top authors based on their number of contributed articles.
 			</p>
 			<p>
 				Why <strong>rank on number of articles</strong> and not on revisions, you may ask? I have reviewed many
