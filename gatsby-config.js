@@ -16,7 +16,7 @@ module.exports = {
 				icon: 'src/images/appicon.png', // This path is relative to the root of the site.
 			},
 		},
-		'gatsby-plugin-offline',
+		// 'gatsby-plugin-offline',
 		'gatsby-transformer-json',
 		{
 			resolve: 'gatsby-source-filesystem',

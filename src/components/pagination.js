@@ -20,7 +20,7 @@ const Pagination = ({ page, nextPath, prevPath, pagesCount }) => {
 						const linkTo = pageNum === 1 ? '/' : '/page/' + pageNum;
 
 						return (
-							<li className={'page-item' + isActive}>
+							<li key={pageNum} className={'page-item' + isActive}>
 								<Link className="page-link" to={linkTo}>
 									{pageNum}
 								</Link>
