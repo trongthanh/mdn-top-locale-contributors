@@ -2237,6 +2237,18 @@
 		"authorProfileURL": "/vi/profiles/trongthanh",
 		"entries": [
 			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map$revision/1412886",
+				"dateTime": "2018-09-10T09:51:55.516709-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
+				"title": "Array.prototype.map()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map$revision/1412795",
+				"dateTime": "2018-09-10T04:52:10.584413-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
+				"title": "Array.prototype.map()"
+			},
+			{
 				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map$revision/1411764",
 				"dateTime": "2018-09-06T04:33:02.690682-07:00",
 				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
@@ -2295,7 +2307,7 @@
 			{
 				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
 				"title": "Array.prototype.map()",
-				"revisions": 2
+				"revisions": 4
 			},
 			{
 				"url": "/vi/docs/MDN/Contribute",
@@ -2329,7 +2341,7 @@
 			}
 		],
 		"articlesCount": 7,
-		"lastestEntryTime": "2018-09-06T04:33:02.690682-07:00",
+		"lastestEntryTime": "2018-09-10T09:51:55.516709-07:00",
 		"rank": 11,
 		"profile": {
 			"fullName": "Thanh Tran",
