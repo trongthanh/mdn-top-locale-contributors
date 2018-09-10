@@ -1,5 +1,109 @@
 [
 	{
+		"revisionURL": "/vi/docs/Web/CSS/CSS_Grid_Layout/tong_quan_ve_grid_layout$revision/1412741",
+		"dateTime": "2018-09-10T00:21:19.889028-07:00",
+		"url": "/vi/docs/Web/CSS/CSS_Grid_Layout/tong_quan_ve_grid_layout",
+		"title": "Tổng quan về Bố cục Lưới",
+		"authorName": "graceoflives",
+		"authorProfileURL": "/vi/profiles/graceoflives"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/CSS/CSS_Grid_Layout/tong_quan_ve_grid_layout$revision/1412739",
+		"dateTime": "2018-09-10T00:16:33.642887-07:00",
+		"url": "/vi/docs/Web/CSS/CSS_Grid_Layout/tong_quan_ve_grid_layout",
+		"title": "Tổng quan về Bố cục Lưới",
+		"authorName": "graceoflives",
+		"authorProfileURL": "/vi/profiles/graceoflives"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/CSS/CSS_Grid_Layout/tong_quan_ve_grid_layout$revision/1412736",
+		"dateTime": "2018-09-09T23:58:04.087422-07:00",
+		"url": "/vi/docs/Web/CSS/CSS_Grid_Layout/tong_quan_ve_grid_layout",
+		"title": "Tổng quan về Bố cục Lưới",
+		"authorName": "graceoflives",
+		"authorProfileURL": "/vi/profiles/graceoflives"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/CSS/CSS_Grid_Layout/tong_quan_ve_grid_layout$revision/1412735",
+		"dateTime": "2018-09-09T23:57:28.639410-07:00",
+		"url": "/vi/docs/Web/CSS/CSS_Grid_Layout/tong_quan_ve_grid_layout",
+		"title": "Tổng quan về Bố cục Lưới",
+		"authorName": "graceoflives",
+		"authorProfileURL": "/vi/profiles/graceoflives"
+	},
+	{
+		"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1412661",
+		"dateTime": "2018-09-09T08:55:06.014719-07:00",
+		"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
+		"title": "JavaScript basics",
+		"authorName": "quytran",
+		"authorProfileURL": "/vi/profiles/quytran"
+	},
+	{
+		"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1412575",
+		"dateTime": "2018-09-08T22:12:52.798243-07:00",
+		"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
+		"title": "JavaScript basics",
+		"authorName": "quytran",
+		"authorProfileURL": "/vi/profiles/quytran"
+	},
+	{
+		"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1412574",
+		"dateTime": "2018-09-08T22:02:59.849194-07:00",
+		"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
+		"title": "JavaScript basics",
+		"authorName": "quytran",
+		"authorProfileURL": "/vi/profiles/quytran"
+	},
+	{
+		"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1412573",
+		"dateTime": "2018-09-08T22:02:30.396301-07:00",
+		"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
+		"title": "JavaScript basics",
+		"authorName": "quytran",
+		"authorProfileURL": "/vi/profiles/quytran"
+	},
+	{
+		"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1412572",
+		"dateTime": "2018-09-08T22:02:04.573191-07:00",
+		"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
+		"title": "JavaScript basics",
+		"authorName": "quytran",
+		"authorProfileURL": "/vi/profiles/quytran"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/HTML/Element/meta$revision/1411943",
+		"dateTime": "2018-09-06T19:53:46.690719-07:00",
+		"url": "/vi/docs/Web/HTML/Element/meta",
+		"title": "<meta>: The Document-level Metadata element",
+		"authorName": "linhtrn21",
+		"authorProfileURL": "/vi/profiles/linhtrn21"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map$revision/1411764",
+		"dateTime": "2018-09-06T04:33:02.690682-07:00",
+		"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
+		"title": "Array.prototype.map()",
+		"authorName": "trongthanh",
+		"authorProfileURL": "/vi/profiles/trongthanh"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map$revision/1411763",
+		"dateTime": "2018-09-06T04:29:11.531443-07:00",
+		"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
+		"title": "Array.prototype.map()",
+		"authorName": "trongthanh",
+		"authorProfileURL": "/vi/profiles/trongthanh"
+	},
+	{
+		"revisionURL": "/vi/docs/MDN/Contribute$revision/1411744",
+		"dateTime": "2018-09-06T01:41:23.492025-07:00",
+		"url": "/vi/docs/MDN/Contribute",
+		"title": "Contributing to MDN",
+		"authorName": "trongthanh",
+		"authorProfileURL": "/vi/profiles/trongthanh"
+	},
+	{
 		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/%08length$revision/1411690",
 		"dateTime": "2018-09-05T18:33:05.493276-07:00",
 		"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/%08length",
@@ -3720,17 +3824,17 @@
 		"authorProfileURL": "/vi/profiles/tieppt"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Phone_guide$revision/1095251",
+		"revisionURL": "/vi/docs/Archive/B2G_OS/Phone_guide$revision/1095249",
 		"dateTime": "2016-07-28T01:32:05-07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS/Phone_guide",
+		"url": "/vi/docs/Archive/B2G_OS/Phone_guide",
 		"title": "Firefox OS phone guide",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Archive/B2G_OS/Phone_guide$revision/1095249",
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Phone_guide$revision/1095251",
 		"dateTime": "2016-07-28T01:32:05-07:00",
-		"url": "/vi/docs/Archive/B2G_OS/Phone_guide",
+		"url": "/vi/docs/Mozilla/Firefox_OS/Phone_guide",
 		"title": "Firefox OS phone guide",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
@@ -3784,6 +3888,14 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
+		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform$revision/1095233",
+		"dateTime": "2016-07-28T01:32:03-07:00",
+		"url": "/vi/docs/Archive/B2G_OS/Platform",
+		"title": "The Firefox OS platform",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
 		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform$revision/1095235",
 		"dateTime": "2016-07-28T01:32:03-07:00",
 		"url": "/vi/docs/Mozilla/Firefox_OS/Platform",
@@ -3804,14 +3916,6 @@
 		"dateTime": "2016-07-28T01:32:03-07:00",
 		"url": "/vi/docs/Archive/B2G_OS",
 		"title": "Firefox OS",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
-		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform$revision/1095233",
-		"dateTime": "2016-07-28T01:32:03-07:00",
-		"url": "/vi/docs/Archive/B2G_OS/Platform",
-		"title": "The Firefox OS platform",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -4792,17 +4896,17 @@
 		"authorProfileURL": "/vi/profiles/DuyNe"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/Persona$revision/800197",
+		"revisionURL": "/vi/docs/Persona$revision/800199",
 		"dateTime": "2015-05-09T03:07:41-07:00",
-		"url": "/vi/docs/Mozilla/Persona",
+		"url": "/vi/docs/Persona",
 		"title": "Persona",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
-		"revisionURL": "/vi/docs/Persona$revision/800199",
+		"revisionURL": "/vi/docs/Mozilla/Persona$revision/800197",
 		"dateTime": "2015-05-09T03:07:41-07:00",
-		"url": "/vi/docs/Persona",
+		"url": "/vi/docs/Mozilla/Persona",
 		"title": "Persona",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
@@ -4816,10 +4920,10 @@
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
-		"revisionURL": "/vi/docs/Apps$revision/797999",
+		"revisionURL": "/vi/docs/Web/Apps/Quickstart$revision/798001",
 		"dateTime": "2015-05-06T02:40:51-07:00",
-		"url": "/vi/docs/Apps",
-		"title": "Apps",
+		"url": "/vi/docs/Web/Apps/Quickstart",
+		"title": "Quickstart",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
@@ -4832,10 +4936,10 @@
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
-		"revisionURL": "/vi/docs/Web/Apps/Quickstart$revision/798001",
+		"revisionURL": "/vi/docs/Apps$revision/797999",
 		"dateTime": "2015-05-06T02:40:51-07:00",
-		"url": "/vi/docs/Web/Apps/Quickstart",
-		"title": "Quickstart",
+		"url": "/vi/docs/Apps",
+		"title": "Apps",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
@@ -5328,6 +5432,14 @@
 		"authorProfileURL": "/vi/profiles/rebloor"
 	},
 	{
+		"revisionURL": "/vi/docs/CSS/background-color$revision/629671",
+		"dateTime": "2014-07-01T00:45:22-07:00",
+		"url": "/vi/docs/CSS/background-color",
+		"title": "background-color",
+		"authorName": "teoli",
+		"authorProfileURL": "/vi/profiles/teoli"
+	},
+	{
 		"revisionURL": "/vi/docs/Web/CSS/background-color$revision/629669",
 		"dateTime": "2014-07-01T00:45:22-07:00",
 		"url": "/vi/docs/Web/CSS/background-color",
@@ -5348,14 +5460,6 @@
 		"dateTime": "2014-07-01T00:45:22-07:00",
 		"url": "/vi/docs/Web/CSS",
 		"title": "CSS",
-		"authorName": "teoli",
-		"authorProfileURL": "/vi/profiles/teoli"
-	},
-	{
-		"revisionURL": "/vi/docs/CSS/background-color$revision/629671",
-		"dateTime": "2014-07-01T00:45:22-07:00",
-		"url": "/vi/docs/CSS/background-color",
-		"title": "background-color",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
@@ -5848,7 +5952,7 @@
 		"authorProfileURL": "/vi/profiles/SamB"
 	},
 	{
-		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/270815",
+		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/288924",
 		"dateTime": "2010-07-01T02:42:49-07:00",
 		"url": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t",
 		"title": "Bản Kê Khai Cài Đặt",
@@ -5856,7 +5960,7 @@
 		"authorProfileURL": "/vi/profiles/kimkha"
 	},
 	{
-		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/288924",
+		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/270815",
 		"dateTime": "2010-07-01T02:42:49-07:00",
 		"url": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t",
 		"title": "Bản Kê Khai Cài Đặt",
