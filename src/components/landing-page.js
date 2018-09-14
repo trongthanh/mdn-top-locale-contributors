@@ -32,7 +32,7 @@ const LandingPage = ({ pageContext, data }) => {
 									<th>Rank</th>
 									<th>Author</th>
 									<th>Articles</th>
-									<th>Photo</th>
+									<th>Last entry</th>
 								</tr>
 							</thead>
 							<tbody>
