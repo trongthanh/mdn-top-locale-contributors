@@ -1870,6 +1870,12 @@
 		"authorProfileURL": "/vi/profiles/trongthanh",
 		"entries": [
 			{
+				"revisionURL": "/vi/docs/MDN/Contribute/Localize/dich_trang$revision/1414210",
+				"dateTime": "2018-09-16T02:24:31.839575-07:00",
+				"url": "/vi/docs/MDN/Contribute/Localize/dich_trang",
+				"title": "Dịch trang MDN"
+			},
+			{
 				"revisionURL": "/vi/docs/MDN/Contribute/Localize/dich_trang$revision/1413786",
 				"dateTime": "2018-09-14T00:33:22.763013-07:00",
 				"url": "/vi/docs/MDN/Contribute/Localize/dich_trang",
@@ -1952,7 +1958,7 @@
 			{
 				"url": "/vi/docs/MDN/Contribute/Localize/dich_trang",
 				"title": "Dịch trang MDN",
-				"revisions": 1
+				"revisions": 2
 			},
 			{
 				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach",
@@ -1996,7 +2002,7 @@
 			}
 		],
 		"articlesCount": 9,
-		"lastestEntryTime": "2018-09-14T00:33:22.763013-07:00",
+		"lastestEntryTime": "2018-09-16T02:24:31.839575-07:00",
 		"rank": 8,
 		"profile": {
 			"fullName": "Thanh Tran",
