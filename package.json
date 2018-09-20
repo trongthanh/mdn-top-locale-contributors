@@ -5,17 +5,18 @@
   "author": "Tran Trong Thanh <trongthanh@gmail.com>",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
-    "gatsby": "next",
-    "gatsby-plugin-google-analytics": "^1.0.31",
+    "date-fns": "^1.29.0",
+    "gatsby": "^2.0.6",
+    "gatsby-plugin-google-analytics": "^2.0.6",
     "gatsby-plugin-manifest": "next",
     "gatsby-plugin-offline": "next",
     "gatsby-plugin-react-helmet": "next",
-    "gatsby-source-filesystem": "^1.5.39",
-    "gatsby-transformer-json": "^1.0.20",
+    "gatsby-source-filesystem": "^2.0.1",
+    "gatsby-transformer-json": "^2.1.1",
     "isomorphic-fetch": "^2.2.1",
-    "lodash": "^4.17.10",
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2",
+    "lodash": "^4.17.11",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
     "react-helmet": "^5.2.0"
   },
   "keywords": [
@@ -37,7 +38,7 @@
   "devDependencies": {
     "babel-eslint": "^9.0.0",
     "eslint-plugin-react": "^7.11.1",
-    "prettier": "^1.14.2"
+    "prettier": "^1.14.3"
   },
   "repository": {
     "type": "git",
