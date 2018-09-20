@@ -5788,6 +5788,12 @@
 		"authorProfileURL": "/vi/profiles/daonhut",
 		"entries": [
 			{
+				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/CSS_basics$revision/1414920",
+				"dateTime": "2018-09-19T04:17:40.659557-07:00",
+				"url": "/vi/docs/Learn/Getting_started_with_the_web/CSS_basics",
+				"title": "CSS Cơ bản"
+			},
+			{
 				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/CSS_basics$revision/1414676",
 				"dateTime": "2018-09-18T04:13:41.692499-07:00",
 				"url": "/vi/docs/Learn/Getting_started_with_the_web/CSS_basics",
@@ -5822,11 +5828,11 @@
 			{
 				"url": "/vi/docs/Learn/Getting_started_with_the_web/CSS_basics",
 				"title": "CSS Cơ bản",
-				"revisions": 5
+				"revisions": 6
 			}
 		],
 		"articlesCount": 1,
-		"lastestEntryTime": "2018-09-18T04:13:41.692499-07:00",
+		"lastestEntryTime": "2018-09-19T04:17:40.659557-07:00",
 		"rank": 62,
 		"profile": {
 			"fullName": "",
