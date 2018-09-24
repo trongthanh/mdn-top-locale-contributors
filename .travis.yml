@@ -3,7 +3,7 @@ node_js:
   - "8"
 script:
   # Convert shallow clone to full repo so that we can push
-  - git fetch --unshallow
+  - git fetch --unshallow || true
   - git checkout master
   # Scrape for changes, if there are changes, new json files are written
   - yarn scrape
