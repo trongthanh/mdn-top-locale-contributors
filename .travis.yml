@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+  - "8"
+script:
+  # Scrape for changes, if there are changes, new json files are written
+  - yarn scrape
+  # Stage changed files and commit (if any)
+  - git commit -a -m "Scraped on `date`"
+  # Push changes to remote (if any)
+  - git push
+sudo: false
