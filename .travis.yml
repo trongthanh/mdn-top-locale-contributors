@@ -8,12 +8,13 @@ script:
   # Scrape for changes, if there are changes, new json files are written
   - yarn scrape
   # Stage changed files and commit (if any)
-  - git commit -a -m "Scraped on `date`" || true
+  - git commit -a -m "Scraped on `date`"
 deploy:
   provider: pages
   skip-cleanup: true
   github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep-history: true
+  target-branch: master
   on:
     branch: master
 sudo: false
