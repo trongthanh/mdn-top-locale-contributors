@@ -750,6 +750,12 @@
 		"authorProfileURL": "/vi/profiles/wbamberg",
 		"entries": [
 			{
+				"revisionURL": "/vi/docs/Learn/Tools_and_testing/Cross_browser_testing$revision/1419550",
+				"dateTime": "2018-09-23T08:41:49.805817-07:00",
+				"url": "/vi/docs/Learn/Tools_and_testing/Cross_browser_testing",
+				"title": "Kiểm tra trình duyệt chéo"
+			},
+			{
 				"revisionURL": "/vi/docs/NPN_GetValue$revision/1418448",
 				"dateTime": "2018-09-21T00:27:30.855057-07:00",
 				"url": "/vi/docs/NPN_GetValue",
@@ -866,6 +872,11 @@
 		],
 		"articles": [
 			{
+				"url": "/vi/docs/Learn/Tools_and_testing/Cross_browser_testing",
+				"title": "Kiểm tra trình duyệt chéo",
+				"revisions": 1
+			},
+			{
 				"url": "/vi/docs/NPN_GetValue",
 				"title": "NPN_GetValue",
 				"revisions": 1
@@ -961,8 +972,8 @@
 				"revisions": 1
 			}
 		],
-		"articlesCount": 19,
-		"lastestEntryTime": "2018-09-21T00:27:30.855057-07:00",
+		"articlesCount": 20,
+		"lastestEntryTime": "2018-09-23T08:41:49.805817-07:00",
 		"rank": 3,
 		"profile": {
 			"fullName": "",
@@ -6008,44 +6019,21 @@
 		}
 	},
 	{
-		"authorName": "huytocdo",
-		"authorProfileURL": "/vi/profiles/huytocdo",
-		"entries": [
-			{
-				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1418826",
-				"dateTime": "2018-09-22T00:05:58.893342-07:00",
-				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
-				"title": "JavaScript basics"
-			}
-		],
-		"articles": [
-			{
-				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
-				"title": "JavaScript basics",
-				"revisions": 1
-			}
-		],
-		"articlesCount": 1,
-		"lastestEntryTime": "2018-09-22T00:05:58.893342-07:00",
-		"rank": 63,
-		"profile": {
-			"fullName": "",
-			"location": "",
-			"org": "",
-			"avatar": "https://secure.gravatar.com/avatar/81ff7847bcd610462db20fca12774d32?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
-			"joinDate": "2018-09-21T23:26:09.385000-07:00",
-			"links": [
-				{
-					"type": "github",
-					"url": "https://github.com/huytocdo"
-				}
-			]
-		}
-	},
-	{
 		"authorName": "phd2d",
 		"authorProfileURL": "/vi/profiles/phd2d",
 		"entries": [
+			{
+				"revisionURL": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works$revision/1419711",
+				"dateTime": "2018-09-23T20:52:48.972395-07:00",
+				"url": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works",
+				"title": "CSS hoạt động ra sao?"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works$revision/1419707",
+				"dateTime": "2018-09-23T20:44:52.218382-07:00",
+				"url": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works",
+				"title": "CSS hoạt động ra sao?"
+			},
 			{
 				"revisionURL": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works$revision/1418583",
 				"dateTime": "2018-09-21T01:31:32.349844-07:00",
@@ -6069,12 +6057,12 @@
 			{
 				"url": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works",
 				"title": "CSS hoạt động ra sao?",
-				"revisions": 3
+				"revisions": 5
 			}
 		],
 		"articlesCount": 1,
-		"lastestEntryTime": "2018-09-21T01:31:32.349844-07:00",
-		"rank": 64,
+		"lastestEntryTime": "2018-09-23T20:52:48.972395-07:00",
+		"rank": 63,
 		"profile": {
 			"fullName": "Brian",
 			"location": "Vietnam",
@@ -6097,6 +6085,41 @@
 				{
 					"type": "linkedin",
 					"url": "https://www.linkedin.com/in/phivh"
+				}
+			]
+		}
+	},
+	{
+		"authorName": "huytocdo",
+		"authorProfileURL": "/vi/profiles/huytocdo",
+		"entries": [
+			{
+				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1418826",
+				"dateTime": "2018-09-22T00:05:58.893342-07:00",
+				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
+				"title": "JavaScript basics"
+			}
+		],
+		"articles": [
+			{
+				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
+				"title": "JavaScript basics",
+				"revisions": 1
+			}
+		],
+		"articlesCount": 1,
+		"lastestEntryTime": "2018-09-22T00:05:58.893342-07:00",
+		"rank": 64,
+		"profile": {
+			"fullName": "",
+			"location": "",
+			"org": "",
+			"avatar": "https://secure.gravatar.com/avatar/81ff7847bcd610462db20fca12774d32?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
+			"joinDate": "2018-09-21T23:26:09.385000-07:00",
+			"links": [
+				{
+					"type": "github",
+					"url": "https://github.com/huytocdo"
 				}
 			]
 		}
