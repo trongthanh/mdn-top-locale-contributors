@@ -32,10 +32,10 @@ function fetchPage(page = 1) {
 		locale: 'vi',
 		authors: 0,
 		start_date: getStartDate(checkTime.value),
+		preceding_period: 'day',
 		// user,
 		// topic,
 		// end_date,
-		// preceding_period,
 	};
 	const url = new URL('https://developer.mozilla.org/vi/dashboards/revisions');
 	Object.keys(query).forEach(key => url.searchParams.append(key, query[key]));
