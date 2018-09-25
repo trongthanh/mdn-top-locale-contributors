@@ -1539,6 +1539,196 @@
 		}
 	},
 	{
+		"authorName": "trongthanh",
+		"authorProfileURL": "/vi/profiles/trongthanh",
+		"entries": [
+			{
+				"revisionURL": "/vi/docs/MDN/Contribute/Localize$revision/1419733",
+				"dateTime": "2018-09-23T23:12:47.279553-07:00",
+				"url": "/vi/docs/MDN/Contribute/Localize",
+				"title": "Bản địa hóa MDN"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Contribute/Localize$revision/1419731",
+				"dateTime": "2018-09-23T23:09:43.213137-07:00",
+				"url": "/vi/docs/MDN/Contribute/Localize",
+				"title": "Bản địa hóa MDN"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Contribute/Localize$revision/1419729",
+				"dateTime": "2018-09-23T22:33:42.375623-07:00",
+				"url": "/vi/docs/MDN/Contribute/Localize",
+				"title": "Bản địa hóa MDN"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Contribute/Localize$revision/1419728",
+				"dateTime": "2018-09-23T22:00:50.193492-07:00",
+				"url": "/vi/docs/MDN/Contribute/Localize",
+				"title": "Bản địa hóa MDN"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Contribute/Localize/dich_trang$revision/1414210",
+				"dateTime": "2018-09-16T02:24:31.839575-07:00",
+				"url": "/vi/docs/MDN/Contribute/Localize/dich_trang",
+				"title": "Dịch trang MDN"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Contribute/Localize/dich_trang$revision/1413786",
+				"dateTime": "2018-09-14T00:33:22.763013-07:00",
+				"url": "/vi/docs/MDN/Contribute/Localize/dich_trang",
+				"title": "Dịch trang MDN"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach$revision/1413267",
+				"dateTime": "2018-09-12T04:09:02.968008-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach",
+				"title": "Array.prototype.forEach()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map$revision/1412886",
+				"dateTime": "2018-09-10T09:51:55.516709-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
+				"title": "Array.prototype.map()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map$revision/1412795",
+				"dateTime": "2018-09-10T04:52:10.584413-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
+				"title": "Array.prototype.map()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map$revision/1411764",
+				"dateTime": "2018-09-06T04:33:02.690682-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
+				"title": "Array.prototype.map()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map$revision/1411763",
+				"dateTime": "2018-09-06T04:29:11.531443-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
+				"title": "Array.prototype.map()"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Contribute$revision/1411744",
+				"dateTime": "2018-09-06T01:41:23.492025-07:00",
+				"url": "/vi/docs/MDN/Contribute",
+				"title": "Contributing to MDN"
+			},
+			{
+				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/trinh-duyet$revision/1409659",
+				"dateTime": "2018-08-30T22:02:26.537614-07:00",
+				"url": "/vi/docs/Tu-dien-thuat-ngu/trinh-duyet",
+				"title": "Trình Duyệt"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce$revision/1409451",
+				"dateTime": "2018-08-30T00:45:10.854335-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce",
+				"title": "Array.prototype.reduce()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce$revision/1409432",
+				"dateTime": "2018-08-29T21:32:52.377349-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce",
+				"title": "Array.prototype.reduce()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/S%E1%BA%AFp_x%E1%BA%BFp$revision/1408610",
+				"dateTime": "2018-08-27T09:47:46.499984-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/S%E1%BA%AFp_x%E1%BA%BFp",
+				"title": "Array.prototype.sort()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf$revision/1408414",
+				"dateTime": "2018-08-27T04:27:48.447254-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf",
+				"title": "Array.prototype.indexOf()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter$revision/1408321",
+				"dateTime": "2018-08-27T01:20:06.633406-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter",
+				"title": "Array.prototype.filter()"
+			}
+		],
+		"articles": [
+			{
+				"url": "/vi/docs/MDN/Contribute/Localize",
+				"title": "Bản địa hóa MDN",
+				"revisions": 4
+			},
+			{
+				"url": "/vi/docs/MDN/Contribute/Localize/dich_trang",
+				"title": "Dịch trang MDN",
+				"revisions": 2
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach",
+				"title": "Array.prototype.forEach()",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
+				"title": "Array.prototype.map()",
+				"revisions": 4
+			},
+			{
+				"url": "/vi/docs/MDN/Contribute",
+				"title": "Contributing to MDN",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Tu-dien-thuat-ngu/trinh-duyet",
+				"title": "Trình Duyệt",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce",
+				"title": "Array.prototype.reduce()",
+				"revisions": 2
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/S%E1%BA%AFp_x%E1%BA%BFp",
+				"title": "Array.prototype.sort()",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf",
+				"title": "Array.prototype.indexOf()",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter",
+				"title": "Array.prototype.filter()",
+				"revisions": 1
+			}
+		],
+		"articlesCount": 10,
+		"lastestEntryTime": "2018-09-23T23:12:47.279553-07:00",
+		"rank": 6,
+		"profile": {
+			"fullName": "Thanh Tran",
+			"location": "Ho Chi Minh city, Vietnam",
+			"org": "",
+			"avatar": "https://secure.gravatar.com/avatar/b6ba7fb649620a4ff150a968371d8ef9?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
+			"joinDate": "2018-08-26T20:06:06.699000-07:00",
+			"links": [
+				{
+					"type": "twitter",
+					"url": "https://twitter.com/trongthanh"
+				},
+				{
+					"type": "github",
+					"url": "https://github.com/trongthanh"
+				},
+				{
+					"type": "discourse",
+					"url": "https://discourse.mozilla.org/u/trongthanh"
+				}
+			]
+		}
+	},
+	{
 		"authorName": "trannguyenhb",
 		"authorProfileURL": "/vi/profiles/trannguyenhb",
 		"entries": [
@@ -1705,7 +1895,7 @@
 		],
 		"articlesCount": 10,
 		"lastestEntryTime": "2018-03-01T11:22:50.727394-08:00",
-		"rank": 6,
+		"rank": 7,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -1882,7 +2072,7 @@
 		],
 		"articlesCount": 10,
 		"lastestEntryTime": "2017-08-11T13:50:49.602240-07:00",
-		"rank": 7,
+		"rank": 8,
 		"profile": {
 			"fullName": "Perre Neter",
 			"location": "Vietnam",
@@ -1905,167 +2095,6 @@
 				{
 					"type": "mozillians",
 					"url": "https://mozillians.org/u/pierreneter"
-				}
-			]
-		}
-	},
-	{
-		"authorName": "trongthanh",
-		"authorProfileURL": "/vi/profiles/trongthanh",
-		"entries": [
-			{
-				"revisionURL": "/vi/docs/MDN/Contribute/Localize/dich_trang$revision/1414210",
-				"dateTime": "2018-09-16T02:24:31.839575-07:00",
-				"url": "/vi/docs/MDN/Contribute/Localize/dich_trang",
-				"title": "Dịch trang MDN"
-			},
-			{
-				"revisionURL": "/vi/docs/MDN/Contribute/Localize/dich_trang$revision/1413786",
-				"dateTime": "2018-09-14T00:33:22.763013-07:00",
-				"url": "/vi/docs/MDN/Contribute/Localize/dich_trang",
-				"title": "Dịch trang MDN"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach$revision/1413267",
-				"dateTime": "2018-09-12T04:09:02.968008-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach",
-				"title": "Array.prototype.forEach()"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map$revision/1412886",
-				"dateTime": "2018-09-10T09:51:55.516709-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
-				"title": "Array.prototype.map()"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map$revision/1412795",
-				"dateTime": "2018-09-10T04:52:10.584413-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
-				"title": "Array.prototype.map()"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map$revision/1411764",
-				"dateTime": "2018-09-06T04:33:02.690682-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
-				"title": "Array.prototype.map()"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map$revision/1411763",
-				"dateTime": "2018-09-06T04:29:11.531443-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
-				"title": "Array.prototype.map()"
-			},
-			{
-				"revisionURL": "/vi/docs/MDN/Contribute$revision/1411744",
-				"dateTime": "2018-09-06T01:41:23.492025-07:00",
-				"url": "/vi/docs/MDN/Contribute",
-				"title": "Contributing to MDN"
-			},
-			{
-				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/trinh-duyet$revision/1409659",
-				"dateTime": "2018-08-30T22:02:26.537614-07:00",
-				"url": "/vi/docs/Tu-dien-thuat-ngu/trinh-duyet",
-				"title": "Trình Duyệt"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce$revision/1409451",
-				"dateTime": "2018-08-30T00:45:10.854335-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce",
-				"title": "Array.prototype.reduce()"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce$revision/1409432",
-				"dateTime": "2018-08-29T21:32:52.377349-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce",
-				"title": "Array.prototype.reduce()"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/S%E1%BA%AFp_x%E1%BA%BFp$revision/1408610",
-				"dateTime": "2018-08-27T09:47:46.499984-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/S%E1%BA%AFp_x%E1%BA%BFp",
-				"title": "Array.prototype.sort()"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf$revision/1408414",
-				"dateTime": "2018-08-27T04:27:48.447254-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf",
-				"title": "Array.prototype.indexOf()"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter$revision/1408321",
-				"dateTime": "2018-08-27T01:20:06.633406-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter",
-				"title": "Array.prototype.filter()"
-			}
-		],
-		"articles": [
-			{
-				"url": "/vi/docs/MDN/Contribute/Localize/dich_trang",
-				"title": "Dịch trang MDN",
-				"revisions": 2
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach",
-				"title": "Array.prototype.forEach()",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
-				"title": "Array.prototype.map()",
-				"revisions": 4
-			},
-			{
-				"url": "/vi/docs/MDN/Contribute",
-				"title": "Contributing to MDN",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Tu-dien-thuat-ngu/trinh-duyet",
-				"title": "Trình Duyệt",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce",
-				"title": "Array.prototype.reduce()",
-				"revisions": 2
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/S%E1%BA%AFp_x%E1%BA%BFp",
-				"title": "Array.prototype.sort()",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf",
-				"title": "Array.prototype.indexOf()",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter",
-				"title": "Array.prototype.filter()",
-				"revisions": 1
-			}
-		],
-		"articlesCount": 9,
-		"lastestEntryTime": "2018-09-16T02:24:31.839575-07:00",
-		"rank": 8,
-		"profile": {
-			"fullName": "Thanh Tran",
-			"location": "Ho Chi Minh city, Vietnam",
-			"org": "",
-			"avatar": "https://secure.gravatar.com/avatar/b6ba7fb649620a4ff150a968371d8ef9?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
-			"joinDate": "2018-08-26T20:06:06.699000-07:00",
-			"links": [
-				{
-					"type": "twitter",
-					"url": "https://twitter.com/trongthanh"
-				},
-				{
-					"type": "github",
-					"url": "https://github.com/trongthanh"
-				},
-				{
-					"type": "discourse",
-					"url": "https://discourse.mozilla.org/u/trongthanh"
 				}
 			]
 		}

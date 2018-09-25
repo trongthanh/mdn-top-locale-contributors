@@ -1,5 +1,37 @@
 [
 	{
+		"revisionURL": "/vi/docs/MDN/Contribute/Localize$revision/1419733",
+		"dateTime": "2018-09-23T23:12:47.279553-07:00",
+		"url": "/vi/docs/MDN/Contribute/Localize",
+		"title": "Bản địa hóa MDN",
+		"authorName": "trongthanh",
+		"authorProfileURL": "/vi/profiles/trongthanh"
+	},
+	{
+		"revisionURL": "/vi/docs/MDN/Contribute/Localize$revision/1419731",
+		"dateTime": "2018-09-23T23:09:43.213137-07:00",
+		"url": "/vi/docs/MDN/Contribute/Localize",
+		"title": "Bản địa hóa MDN",
+		"authorName": "trongthanh",
+		"authorProfileURL": "/vi/profiles/trongthanh"
+	},
+	{
+		"revisionURL": "/vi/docs/MDN/Contribute/Localize$revision/1419729",
+		"dateTime": "2018-09-23T22:33:42.375623-07:00",
+		"url": "/vi/docs/MDN/Contribute/Localize",
+		"title": "Bản địa hóa MDN",
+		"authorName": "trongthanh",
+		"authorProfileURL": "/vi/profiles/trongthanh"
+	},
+	{
+		"revisionURL": "/vi/docs/MDN/Contribute/Localize$revision/1419728",
+		"dateTime": "2018-09-23T22:00:50.193492-07:00",
+		"url": "/vi/docs/MDN/Contribute/Localize",
+		"title": "Bản địa hóa MDN",
+		"authorName": "trongthanh",
+		"authorProfileURL": "/vi/profiles/trongthanh"
+	},
+	{
 		"revisionURL": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works$revision/1419711",
 		"dateTime": "2018-09-23T20:52:48.972395-07:00",
 		"url": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works",
@@ -4208,14 +4240,6 @@
 		"authorProfileURL": "/vi/profiles/tieppt"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Using_the_App_Manager$revision/1095247",
-		"dateTime": "2016-07-28T01:32:05-07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS/Using_the_App_Manager",
-		"title": "Sử dụng App Manager",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
 		"revisionURL": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager$revision/1095245",
 		"dateTime": "2016-07-28T01:32:05-07:00",
 		"url": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager",
@@ -4228,6 +4252,14 @@
 		"dateTime": "2016-07-28T01:32:05-07:00",
 		"url": "/vi/docs/Mozilla/Firefox_OS/Phone_guide",
 		"title": "Firefox OS phone guide",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Using_the_App_Manager$revision/1095247",
+		"dateTime": "2016-07-28T01:32:05-07:00",
+		"url": "/vi/docs/Mozilla/Firefox_OS/Using_the_App_Manager",
+		"title": "Sử dụng App Manager",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -4272,18 +4304,18 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform$revision/1095233",
-		"dateTime": "2016-07-28T01:32:03-07:00",
-		"url": "/vi/docs/Archive/B2G_OS/Platform",
-		"title": "The Firefox OS platform",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
 		"revisionURL": "/vi/docs/Mozilla/Firefox_OS$revision/1095231",
 		"dateTime": "2016-07-28T01:32:03-07:00",
 		"url": "/vi/docs/Mozilla/Firefox_OS",
 		"title": "Firefox OS",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform$revision/1095235",
+		"dateTime": "2016-07-28T01:32:03-07:00",
+		"url": "/vi/docs/Mozilla/Firefox_OS/Platform",
+		"title": "The Firefox OS platform",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -4296,9 +4328,9 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform$revision/1095235",
+		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform$revision/1095233",
 		"dateTime": "2016-07-28T01:32:03-07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS/Platform",
+		"url": "/vi/docs/Archive/B2G_OS/Platform",
 		"title": "The Firefox OS platform",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
@@ -5304,6 +5336,14 @@
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
+		"revisionURL": "/vi/docs/Apps$revision/797999",
+		"dateTime": "2015-05-06T02:40:51-07:00",
+		"url": "/vi/docs/Apps",
+		"title": "Apps",
+		"authorName": "teoli",
+		"authorProfileURL": "/vi/profiles/teoli"
+	},
+	{
 		"revisionURL": "/vi/docs/Web/Apps/Quickstart$revision/798001",
 		"dateTime": "2015-05-06T02:40:51-07:00",
 		"url": "/vi/docs/Web/Apps/Quickstart",
@@ -5316,14 +5356,6 @@
 		"dateTime": "2015-05-06T02:40:51-07:00",
 		"url": "/vi/docs/Apps/Quickstart",
 		"title": "Quickstart",
-		"authorName": "teoli",
-		"authorProfileURL": "/vi/profiles/teoli"
-	},
-	{
-		"revisionURL": "/vi/docs/Apps$revision/797999",
-		"dateTime": "2015-05-06T02:40:51-07:00",
-		"url": "/vi/docs/Apps",
-		"title": "Apps",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
@@ -5816,22 +5848,6 @@
 		"authorProfileURL": "/vi/profiles/rebloor"
 	},
 	{
-		"revisionURL": "/vi/docs/CSS$revision/629667",
-		"dateTime": "2014-07-01T00:45:22-07:00",
-		"url": "/vi/docs/CSS",
-		"title": "CSS",
-		"authorName": "teoli",
-		"authorProfileURL": "/vi/profiles/teoli"
-	},
-	{
-		"revisionURL": "/vi/docs/Web/CSS/background-color$revision/629669",
-		"dateTime": "2014-07-01T00:45:22-07:00",
-		"url": "/vi/docs/Web/CSS/background-color",
-		"title": "background-color",
-		"authorName": "teoli",
-		"authorProfileURL": "/vi/profiles/teoli"
-	},
-	{
 		"revisionURL": "/vi/docs/CSS/background-color$revision/629671",
 		"dateTime": "2014-07-01T00:45:22-07:00",
 		"url": "/vi/docs/CSS/background-color",
@@ -5848,10 +5864,18 @@
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
-		"revisionURL": "/vi/docs/HTML$revision/629663",
-		"dateTime": "2014-07-01T00:35:35-07:00",
-		"url": "/vi/docs/HTML",
-		"title": "HTML",
+		"revisionURL": "/vi/docs/CSS$revision/629667",
+		"dateTime": "2014-07-01T00:45:22-07:00",
+		"url": "/vi/docs/CSS",
+		"title": "CSS",
+		"authorName": "teoli",
+		"authorProfileURL": "/vi/profiles/teoli"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/CSS/background-color$revision/629669",
+		"dateTime": "2014-07-01T00:45:22-07:00",
+		"url": "/vi/docs/Web/CSS/background-color",
+		"title": "background-color",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
@@ -5859,6 +5883,14 @@
 		"revisionURL": "/vi/docs/Web/HTML$revision/629661",
 		"dateTime": "2014-07-01T00:35:35-07:00",
 		"url": "/vi/docs/Web/HTML",
+		"title": "HTML",
+		"authorName": "teoli",
+		"authorProfileURL": "/vi/profiles/teoli"
+	},
+	{
+		"revisionURL": "/vi/docs/HTML$revision/629663",
+		"dateTime": "2014-07-01T00:35:35-07:00",
+		"url": "/vi/docs/HTML",
 		"title": "HTML",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
@@ -6336,7 +6368,7 @@
 		"authorProfileURL": "/vi/profiles/SamB"
 	},
 	{
-		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/270815",
+		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/288924",
 		"dateTime": "2010-07-01T02:42:49-07:00",
 		"url": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t",
 		"title": "Bản Kê Khai Cài Đặt",
@@ -6344,7 +6376,7 @@
 		"authorProfileURL": "/vi/profiles/kimkha"
 	},
 	{
-		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/288924",
+		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/270815",
 		"dateTime": "2010-07-01T02:42:49-07:00",
 		"url": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t",
 		"title": "Bản Kê Khai Cài Đặt",
