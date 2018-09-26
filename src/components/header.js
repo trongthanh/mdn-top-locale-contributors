@@ -27,13 +27,18 @@ const Header = () => (
 					</Link>
 				</li>
 				<li className="nav-item">
+					<Link className="nav-link" to="/how-to">
+						How-to
+					</Link>
+				</li>
+				<li className="nav-item">
 					<a
 						className="nav-link"
-						href="https://developer.mozilla.org/vi/docs/MDN/Community"
+						href="https://developer.mozilla.org/vi/docs/MDN/Contribute/Localize"
 						target="_blank"
 						rel="noopener noreferrer"
 					>
-						Hướng dẫn đóng góp cho MDN
+						Trang bản địa hóa MDN
 					</a>
 				</li>
 			</ul>

@@ -1,4 +1,5 @@
 # MDN VI l10n Top Contributors
+![Periodically scraped by Travis CI](https://api.travis-ci.org/trongthanh/mdn-top-locale-contributors.svg?branch=master)
 
 Inspired by git-awards.com and commits.top websites, I created this microsite to honor top contributors to [MDN](https://developer.mozilla.org/) for the [Vietnamese locale](https://developer.mozilla.org/en-US/dashboards/revisions?locale=vi), to encourage more Vietnamese language speakers will join the effort to make MDN the best reference and guide for Web development among Vietnamese developers community.
 
