@@ -1565,6 +1565,18 @@
 		"authorProfileURL": "/vi/profiles/trongthanh",
 		"entries": [
 			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray$revision/1421502",
+				"dateTime": "2018-09-29T09:35:00.549883-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray",
+				"title": "Array.isArray()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/from$revision/1421501",
+				"dateTime": "2018-09-29T09:18:47.851000-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/from",
+				"title": "Array.from()"
+			},
+			{
 				"revisionURL": "/vi/docs/MDN/Contribute/Localize$revision/1420132",
 				"dateTime": "2018-09-24T22:14:30.682816-07:00",
 				"url": "/vi/docs/MDN/Contribute/Localize",
@@ -1681,6 +1693,16 @@
 		],
 		"articles": [
 			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray",
+				"title": "Array.isArray()",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/from",
+				"title": "Array.from()",
+				"revisions": 1
+			},
+			{
 				"url": "/vi/docs/MDN/Contribute/Localize",
 				"title": "Bản địa hóa MDN",
 				"revisions": 5
@@ -1731,8 +1753,8 @@
 				"revisions": 1
 			}
 		],
-		"articlesCount": 10,
-		"lastestEntryTime": "2018-09-24T22:14:30.682816-07:00",
+		"articlesCount": 12,
+		"lastestEntryTime": "2018-09-29T09:35:00.549883-07:00",
 		"rank": 6,
 		"profile": {
 			"fullName": "Thanh Tran",
