@@ -750,6 +750,12 @@
 		"authorProfileURL": "/vi/profiles/wbamberg",
 		"entries": [
 			{
+				"revisionURL": "/vi/docs/MDN$revision/1422025",
+				"dateTime": "2018-10-01T15:43:35.629612-07:00",
+				"url": "/vi/docs/MDN",
+				"title": "The MDN project"
+			},
+			{
 				"revisionURL": "/vi/docs/Project:en$revision/1421248",
 				"dateTime": "2018-09-28T16:04:41.749435-07:00",
 				"url": "/vi/docs/Project:en",
@@ -884,6 +890,11 @@
 		],
 		"articles": [
 			{
+				"url": "/vi/docs/MDN",
+				"title": "The MDN project",
+				"revisions": 2
+			},
+			{
 				"url": "/vi/docs/Project:en",
 				"title": "Project:en",
 				"revisions": 1
@@ -969,11 +980,6 @@
 				"revisions": 1
 			},
 			{
-				"url": "/vi/docs/MDN",
-				"title": "The MDN project",
-				"revisions": 1
-			},
-			{
 				"url": "/vi/docs/Mozilla/Firefox",
 				"title": "Firefox",
 				"revisions": 1
@@ -995,7 +1001,7 @@
 			}
 		],
 		"articlesCount": 22,
-		"lastestEntryTime": "2018-09-28T16:04:41.749435-07:00",
+		"lastestEntryTime": "2018-10-01T15:43:35.629612-07:00",
 		"rank": 3,
 		"profile": {
 			"fullName": "",
