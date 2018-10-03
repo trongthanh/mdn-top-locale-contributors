@@ -1013,6 +1013,337 @@
 		}
 	},
 	{
+		"authorName": "trongthanh",
+		"authorProfileURL": "/vi/profiles/trongthanh",
+		"entries": [
+			{
+				"revisionURL": "/vi/docs/MDN/Doc_status/JavaScript$revision/1422496",
+				"dateTime": "2018-10-02T22:12:08.872142-07:00",
+				"url": "/vi/docs/MDN/Doc_status/JavaScript",
+				"title": "Tiến độ dịch chủ đề JavaScript"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Doc_status/Guide$revision/1422495",
+				"dateTime": "2018-10-02T22:10:31.309409-07:00",
+				"url": "/vi/docs/MDN/Doc_status/Guide",
+				"title": "Tiến độ dịch các trang Hướng dẫn"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Doc_status/Guide$revision/1422494",
+				"dateTime": "2018-10-02T22:09:59.134678-07:00",
+				"url": "/vi/docs/MDN/Doc_status/Guide",
+				"title": "Tiến độ dịch các trang Hương dẫn"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Doc_status/Guide$revision/1422492",
+				"dateTime": "2018-10-02T22:00:08.718803-07:00",
+				"url": "/vi/docs/MDN/Doc_status/Guide",
+				"title": "Guide documentation status"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Doc_status/Overview$revision/1422238",
+				"dateTime": "2018-10-02T03:38:17.743151-07:00",
+				"url": "/vi/docs/MDN/Doc_status/Overview",
+				"title": "Tiến độ bản địa hóa"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Doc_status$revision/1422234",
+				"dateTime": "2018-10-02T03:35:34.063679-07:00",
+				"url": "/vi/docs/MDN/Doc_status",
+				"title": "Tiến độ bản địa hóa theo chủ đề"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Doc_status/CSS$revision/1422232",
+				"dateTime": "2018-10-02T03:32:27.893620-07:00",
+				"url": "/vi/docs/MDN/Doc_status/CSS",
+				"title": "CSS"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Doc_status/HTML$revision/1422228",
+				"dateTime": "2018-10-02T03:25:03.246479-07:00",
+				"url": "/vi/docs/MDN/Doc_status/HTML",
+				"title": "HTML"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/HTML/Element/dialog$revision/1422204",
+				"dateTime": "2018-10-02T01:41:55.626762-07:00",
+				"url": "/vi/docs/Web/HTML/Element/dialog",
+				"title": "<dialog>: Phần tử Hộp thoại"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Doc_status/Overview$revision/1422193",
+				"dateTime": "2018-10-02T01:30:24.210018-07:00",
+				"url": "/vi/docs/MDN/Doc_status/Overview",
+				"title": "Tiến độ bản địa hóa"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Doc_status/Overview$revision/1422191",
+				"dateTime": "2018-10-02T01:18:04.922098-07:00",
+				"url": "/vi/docs/MDN/Doc_status/Overview",
+				"title": "Tiến độ bản địa hóa"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/HTML/Element/dialog$revision/1422187",
+				"dateTime": "2018-10-02T00:57:50.158976-07:00",
+				"url": "/vi/docs/Web/HTML/Element/dialog",
+				"title": "<dialog>: Phần tử Hộp thoại"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/HTML/Element/dialog$revision/1422181",
+				"dateTime": "2018-10-02T00:50:37.892480-07:00",
+				"url": "/vi/docs/Web/HTML/Element/dialog",
+				"title": "<dialog>: Phần tử Hộp thoại"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray$revision/1421502",
+				"dateTime": "2018-09-29T09:35:00.549883-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray",
+				"title": "Array.isArray()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/from$revision/1421501",
+				"dateTime": "2018-09-29T09:18:47.851000-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/from",
+				"title": "Array.from()"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Contribute/Localize$revision/1420132",
+				"dateTime": "2018-09-24T22:14:30.682816-07:00",
+				"url": "/vi/docs/MDN/Contribute/Localize",
+				"title": "Bản địa hóa MDN"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Contribute/Localize$revision/1419733",
+				"dateTime": "2018-09-23T23:12:47.279553-07:00",
+				"url": "/vi/docs/MDN/Contribute/Localize",
+				"title": "Bản địa hóa MDN"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Contribute/Localize$revision/1419731",
+				"dateTime": "2018-09-23T23:09:43.213137-07:00",
+				"url": "/vi/docs/MDN/Contribute/Localize",
+				"title": "Bản địa hóa MDN"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Contribute/Localize$revision/1419729",
+				"dateTime": "2018-09-23T22:33:42.375623-07:00",
+				"url": "/vi/docs/MDN/Contribute/Localize",
+				"title": "Bản địa hóa MDN"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Contribute/Localize$revision/1419728",
+				"dateTime": "2018-09-23T22:00:50.193492-07:00",
+				"url": "/vi/docs/MDN/Contribute/Localize",
+				"title": "Bản địa hóa MDN"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Contribute/Localize/dich_trang$revision/1414210",
+				"dateTime": "2018-09-16T02:24:31.839575-07:00",
+				"url": "/vi/docs/MDN/Contribute/Localize/dich_trang",
+				"title": "Dịch trang MDN"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Contribute/Localize/dich_trang$revision/1413786",
+				"dateTime": "2018-09-14T00:33:22.763013-07:00",
+				"url": "/vi/docs/MDN/Contribute/Localize/dich_trang",
+				"title": "Dịch trang MDN"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach$revision/1413267",
+				"dateTime": "2018-09-12T04:09:02.968008-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach",
+				"title": "Array.prototype.forEach()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map$revision/1412886",
+				"dateTime": "2018-09-10T09:51:55.516709-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
+				"title": "Array.prototype.map()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map$revision/1412795",
+				"dateTime": "2018-09-10T04:52:10.584413-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
+				"title": "Array.prototype.map()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map$revision/1411764",
+				"dateTime": "2018-09-06T04:33:02.690682-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
+				"title": "Array.prototype.map()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map$revision/1411763",
+				"dateTime": "2018-09-06T04:29:11.531443-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
+				"title": "Array.prototype.map()"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Contribute$revision/1411744",
+				"dateTime": "2018-09-06T01:41:23.492025-07:00",
+				"url": "/vi/docs/MDN/Contribute",
+				"title": "Contributing to MDN"
+			},
+			{
+				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/trinh-duyet$revision/1409659",
+				"dateTime": "2018-08-30T22:02:26.537614-07:00",
+				"url": "/vi/docs/Tu-dien-thuat-ngu/trinh-duyet",
+				"title": "Trình Duyệt"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce$revision/1409451",
+				"dateTime": "2018-08-30T00:45:10.854335-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce",
+				"title": "Array.prototype.reduce()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce$revision/1409432",
+				"dateTime": "2018-08-29T21:32:52.377349-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce",
+				"title": "Array.prototype.reduce()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/S%E1%BA%AFp_x%E1%BA%BFp$revision/1408610",
+				"dateTime": "2018-08-27T09:47:46.499984-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/S%E1%BA%AFp_x%E1%BA%BFp",
+				"title": "Array.prototype.sort()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf$revision/1408414",
+				"dateTime": "2018-08-27T04:27:48.447254-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf",
+				"title": "Array.prototype.indexOf()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter$revision/1408321",
+				"dateTime": "2018-08-27T01:20:06.633406-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter",
+				"title": "Array.prototype.filter()"
+			}
+		],
+		"articles": [
+			{
+				"url": "/vi/docs/MDN/Doc_status/JavaScript",
+				"title": "Tiến độ dịch chủ đề JavaScript",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/MDN/Doc_status/Guide",
+				"title": "Tiến độ dịch các trang Hướng dẫn",
+				"revisions": 3
+			},
+			{
+				"url": "/vi/docs/MDN/Doc_status/Overview",
+				"title": "Tiến độ bản địa hóa",
+				"revisions": 3
+			},
+			{
+				"url": "/vi/docs/MDN/Doc_status",
+				"title": "Tiến độ bản địa hóa theo chủ đề",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/MDN/Doc_status/CSS",
+				"title": "CSS",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/MDN/Doc_status/HTML",
+				"title": "HTML",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/HTML/Element/dialog",
+				"title": "<dialog>: Phần tử Hộp thoại",
+				"revisions": 3
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray",
+				"title": "Array.isArray()",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/from",
+				"title": "Array.from()",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/MDN/Contribute/Localize",
+				"title": "Bản địa hóa MDN",
+				"revisions": 5
+			},
+			{
+				"url": "/vi/docs/MDN/Contribute/Localize/dich_trang",
+				"title": "Dịch trang MDN",
+				"revisions": 2
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach",
+				"title": "Array.prototype.forEach()",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
+				"title": "Array.prototype.map()",
+				"revisions": 4
+			},
+			{
+				"url": "/vi/docs/MDN/Contribute",
+				"title": "Contributing to MDN",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Tu-dien-thuat-ngu/trinh-duyet",
+				"title": "Trình Duyệt",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce",
+				"title": "Array.prototype.reduce()",
+				"revisions": 2
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/S%E1%BA%AFp_x%E1%BA%BFp",
+				"title": "Array.prototype.sort()",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf",
+				"title": "Array.prototype.indexOf()",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter",
+				"title": "Array.prototype.filter()",
+				"revisions": 1
+			}
+		],
+		"articlesCount": 19,
+		"lastestEntryTime": "2018-10-02T22:12:08.872142-07:00",
+		"rank": 4,
+		"profile": {
+			"fullName": "Thanh Tran",
+			"location": "Ho Chi Minh city, Vietnam",
+			"org": "",
+			"avatar": "https://secure.gravatar.com/avatar/b6ba7fb649620a4ff150a968371d8ef9?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
+			"joinDate": "2018-08-26T20:06:06-07:00",
+			"links": [
+				{
+					"type": "twitter",
+					"url": "https://twitter.com/trongthanh"
+				},
+				{
+					"type": "github",
+					"url": "https://github.com/trongthanh"
+				},
+				{
+					"type": "discourse",
+					"url": "https://discourse.mozilla.org/u/trongthanh"
+				}
+			]
+		}
+	},
+	{
 		"authorName": "PurpleLover",
 		"authorProfileURL": "/vi/profiles/PurpleLover",
 		"entries": [
@@ -1297,7 +1628,7 @@
 		],
 		"articlesCount": 18,
 		"lastestEntryTime": "2018-08-20T00:05:53.718931-07:00",
-		"rank": 4,
+		"rank": 5,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -1551,7 +1882,7 @@
 		],
 		"articlesCount": 17,
 		"lastestEntryTime": "2018-07-27T02:20:40.949862-07:00",
-		"rank": 5,
+		"rank": 6,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -1567,219 +1898,156 @@
 		}
 	},
 	{
-		"authorName": "trongthanh",
-		"authorProfileURL": "/vi/profiles/trongthanh",
+		"authorName": "SphinxKnight",
+		"authorProfileURL": "/vi/profiles/SphinxKnight",
 		"entries": [
 			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray$revision/1421502",
-				"dateTime": "2018-09-29T09:35:00.549883-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray",
-				"title": "Array.isArray()"
+				"revisionURL": "/vi/docs/MDN/Doc_status/Overview$revision/1422216",
+				"dateTime": "2018-10-02T02:34:26.246012-07:00",
+				"url": "/vi/docs/MDN/Doc_status/Overview",
+				"title": "Tiến độ bản địa hóa"
 			},
 			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/from$revision/1421501",
-				"dateTime": "2018-09-29T09:18:47.851000-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/from",
-				"title": "Array.from()"
+				"revisionURL": "/vi/docs/MDN/Doc_status/tong-quan$revision/1422217",
+				"dateTime": "2018-10-02T02:34:26.222546-07:00",
+				"url": "/vi/docs/MDN/Doc_status/tong-quan",
+				"title": "Tiến độ bản địa hóa"
 			},
 			{
-				"revisionURL": "/vi/docs/MDN/Contribute/Localize$revision/1420132",
-				"dateTime": "2018-09-24T22:14:30.682816-07:00",
-				"url": "/vi/docs/MDN/Contribute/Localize",
-				"title": "Bản địa hóa MDN"
+				"revisionURL": "/vi/docs/MDN/Doc_status/JavaScript$revision/1422213",
+				"dateTime": "2018-10-02T02:19:22.538947-07:00",
+				"url": "/vi/docs/MDN/Doc_status/JavaScript",
+				"title": "JavaScript documentation status"
 			},
 			{
-				"revisionURL": "/vi/docs/MDN/Contribute/Localize$revision/1419733",
-				"dateTime": "2018-09-23T23:12:47.279553-07:00",
-				"url": "/vi/docs/MDN/Contribute/Localize",
-				"title": "Bản địa hóa MDN"
+				"revisionURL": "/vi/docs/MDN/Doc_status/JavaScript$revision/1422210",
+				"dateTime": "2018-10-02T02:18:31.437464-07:00",
+				"url": "/vi/docs/MDN/Doc_status/JavaScript",
+				"title": "JavaScript documentation status"
 			},
 			{
-				"revisionURL": "/vi/docs/MDN/Contribute/Localize$revision/1419731",
-				"dateTime": "2018-09-23T23:09:43.213137-07:00",
-				"url": "/vi/docs/MDN/Contribute/Localize",
-				"title": "Bản địa hóa MDN"
+				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/HTML$revision/1396317",
+				"dateTime": "2018-07-15T23:28:41.683655-07:00",
+				"url": "/vi/docs/Tu-dien-thuat-ngu/HTML",
+				"title": "HTML"
 			},
 			{
-				"revisionURL": "/vi/docs/MDN/Contribute/Localize$revision/1419729",
-				"dateTime": "2018-09-23T22:33:42.375623-07:00",
-				"url": "/vi/docs/MDN/Contribute/Localize",
-				"title": "Bản địa hóa MDN"
+				"revisionURL": "/vi/docs/MDN/Contribute/Howto/Do_a_technical_review$revision/1382608",
+				"dateTime": "2018-05-20T01:18:20.718794-07:00",
+				"url": "/vi/docs/MDN/Contribute/Howto/Do_a_technical_review",
+				"title": "How to do a technical review"
 			},
 			{
-				"revisionURL": "/vi/docs/MDN/Contribute/Localize$revision/1419728",
-				"dateTime": "2018-09-23T22:00:50.193492-07:00",
-				"url": "/vi/docs/MDN/Contribute/Localize",
-				"title": "Bản địa hóa MDN"
+				"revisionURL": "/vi/docs/MDN/Getting_started$revision/1382070",
+				"dateTime": "2018-05-17T22:48:08.922107-07:00",
+				"url": "/vi/docs/MDN/Getting_started",
+				"title": "Getting started on MDN"
 			},
 			{
-				"revisionURL": "/vi/docs/MDN/Contribute/Localize/dich_trang$revision/1414210",
-				"dateTime": "2018-09-16T02:24:31.839575-07:00",
-				"url": "/vi/docs/MDN/Contribute/Localize/dich_trang",
-				"title": "Dịch trang MDN"
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/String/startsWith$revision/1379362",
+				"dateTime": "2018-05-05T10:13:25.065905-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/String/startsWith",
+				"title": "String.prototype.startsWith()"
 			},
 			{
-				"revisionURL": "/vi/docs/MDN/Contribute/Localize/dich_trang$revision/1413786",
-				"dateTime": "2018-09-14T00:33:22.763013-07:00",
-				"url": "/vi/docs/MDN/Contribute/Localize/dich_trang",
-				"title": "Dịch trang MDN"
+				"revisionURL": "/vi/docs/Mozilla/Connect$revision/1360130",
+				"dateTime": "2018-02-18T07:30:49.821187-08:00",
+				"url": "/vi/docs/Mozilla/Connect",
+				"title": "Connect with Mozilla"
 			},
 			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach$revision/1413267",
-				"dateTime": "2018-09-12T04:09:02.968008-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach",
-				"title": "Array.prototype.forEach()"
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Regular_Expressions$revision/1358379",
+				"dateTime": "2018-02-12T12:30:58.682266-08:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Regular_Expressions",
+				"title": "Biểu thức chính quy"
 			},
 			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map$revision/1412886",
-				"dateTime": "2018-09-10T09:51:55.516709-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
-				"title": "Array.prototype.map()"
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Errors/Missing_semicolon_before_statement$revision/1352484",
+				"dateTime": "2018-01-30T11:11:17.251576-08:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Errors/Missing_semicolon_before_statement",
+				"title": "Lỗi cú pháp: Thiếu dấu ; trước câu lệnh"
 			},
 			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map$revision/1412795",
-				"dateTime": "2018-09-10T04:52:10.584413-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
-				"title": "Array.prototype.map()"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map$revision/1411764",
-				"dateTime": "2018-09-06T04:33:02.690682-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
-				"title": "Array.prototype.map()"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map$revision/1411763",
-				"dateTime": "2018-09-06T04:29:11.531443-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
-				"title": "Array.prototype.map()"
-			},
-			{
-				"revisionURL": "/vi/docs/MDN/Contribute$revision/1411744",
-				"dateTime": "2018-09-06T01:41:23.492025-07:00",
-				"url": "/vi/docs/MDN/Contribute",
-				"title": "Contributing to MDN"
-			},
-			{
-				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/trinh-duyet$revision/1409659",
-				"dateTime": "2018-08-30T22:02:26.537614-07:00",
-				"url": "/vi/docs/Tu-dien-thuat-ngu/trinh-duyet",
-				"title": "Trình Duyệt"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce$revision/1409451",
-				"dateTime": "2018-08-30T00:45:10.854335-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce",
-				"title": "Array.prototype.reduce()"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce$revision/1409432",
-				"dateTime": "2018-08-29T21:32:52.377349-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce",
-				"title": "Array.prototype.reduce()"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/S%E1%BA%AFp_x%E1%BA%BFp$revision/1408610",
-				"dateTime": "2018-08-27T09:47:46.499984-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/S%E1%BA%AFp_x%E1%BA%BFp",
-				"title": "Array.prototype.sort()"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf$revision/1408414",
-				"dateTime": "2018-08-27T04:27:48.447254-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf",
-				"title": "Array.prototype.indexOf()"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter$revision/1408321",
-				"dateTime": "2018-08-27T01:20:06.633406-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter",
-				"title": "Array.prototype.filter()"
+				"revisionURL": "/vi/docs/Web/CSS/background-color$revision/967901",
+				"dateTime": "2015-12-03T13:21:24-08:00",
+				"url": "/vi/docs/Web/CSS/background-color",
+				"title": "background-color"
 			}
 		],
 		"articles": [
 			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray",
-				"title": "Array.isArray()",
+				"url": "/vi/docs/MDN/Doc_status/Overview",
+				"title": "Tiến độ bản địa hóa",
 				"revisions": 1
 			},
 			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/from",
-				"title": "Array.from()",
+				"url": "/vi/docs/MDN/Doc_status/tong-quan",
+				"title": "Tiến độ bản địa hóa",
 				"revisions": 1
 			},
 			{
-				"url": "/vi/docs/MDN/Contribute/Localize",
-				"title": "Bản địa hóa MDN",
-				"revisions": 5
-			},
-			{
-				"url": "/vi/docs/MDN/Contribute/Localize/dich_trang",
-				"title": "Dịch trang MDN",
+				"url": "/vi/docs/MDN/Doc_status/JavaScript",
+				"title": "JavaScript documentation status",
 				"revisions": 2
 			},
 			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach",
-				"title": "Array.prototype.forEach()",
+				"url": "/vi/docs/Tu-dien-thuat-ngu/HTML",
+				"title": "HTML",
 				"revisions": 1
 			},
 			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
-				"title": "Array.prototype.map()",
-				"revisions": 4
-			},
-			{
-				"url": "/vi/docs/MDN/Contribute",
-				"title": "Contributing to MDN",
+				"url": "/vi/docs/MDN/Contribute/Howto/Do_a_technical_review",
+				"title": "How to do a technical review",
 				"revisions": 1
 			},
 			{
-				"url": "/vi/docs/Tu-dien-thuat-ngu/trinh-duyet",
-				"title": "Trình Duyệt",
+				"url": "/vi/docs/MDN/Getting_started",
+				"title": "Getting started on MDN",
 				"revisions": 1
 			},
 			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce",
-				"title": "Array.prototype.reduce()",
-				"revisions": 2
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/S%E1%BA%AFp_x%E1%BA%BFp",
-				"title": "Array.prototype.sort()",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/String/startsWith",
+				"title": "String.prototype.startsWith()",
 				"revisions": 1
 			},
 			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf",
-				"title": "Array.prototype.indexOf()",
+				"url": "/vi/docs/Mozilla/Connect",
+				"title": "Connect with Mozilla",
 				"revisions": 1
 			},
 			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter",
-				"title": "Array.prototype.filter()",
+				"url": "/vi/docs/Web/JavaScript/Guide/Regular_Expressions",
+				"title": "Biểu thức chính quy",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Errors/Missing_semicolon_before_statement",
+				"title": "Lỗi cú pháp: Thiếu dấu ; trước câu lệnh",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/CSS/background-color",
+				"title": "background-color",
 				"revisions": 1
 			}
 		],
-		"articlesCount": 12,
-		"lastestEntryTime": "2018-09-29T09:35:00.549883-07:00",
-		"rank": 6,
+		"articlesCount": 11,
+		"lastestEntryTime": "2018-10-02T02:34:26.246012-07:00",
+		"rank": 7,
 		"profile": {
-			"fullName": "Thanh Tran",
-			"location": "Ho Chi Minh city, Vietnam",
+			"fullName": "Sphinx",
+			"location": "France",
 			"org": "",
-			"avatar": "https://secure.gravatar.com/avatar/b6ba7fb649620a4ff150a968371d8ef9?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
-			"joinDate": "2018-08-26T20:06:06.699000-07:00",
+			"avatar": "https://secure.gravatar.com/avatar/8fb358ea9b7af22f5021a29e122ea069?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
+			"joinDate": "2013-04-22T04:32:53-07:00",
 			"links": [
 				{
 					"type": "twitter",
-					"url": "https://twitter.com/trongthanh"
-				},
-				{
-					"type": "github",
-					"url": "https://github.com/trongthanh"
+					"url": "https://twitter.com/Sphinx_Twitt"
 				},
 				{
 					"type": "discourse",
-					"url": "https://discourse.mozilla.org/u/trongthanh"
+					"url": "https://discourse.mozilla.org/u/sphinx_knight"
 				}
 			]
 		}
@@ -1951,7 +2219,7 @@
 		],
 		"articlesCount": 10,
 		"lastestEntryTime": "2018-03-01T11:22:50.727394-08:00",
-		"rank": 7,
+		"rank": 8,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -2128,7 +2396,7 @@
 		],
 		"articlesCount": 10,
 		"lastestEntryTime": "2017-08-11T13:50:49.602240-07:00",
-		"rank": 8,
+		"rank": 9,
 		"profile": {
 			"fullName": "Perre Neter",
 			"location": "Vietnam",
@@ -2156,376 +2424,39 @@
 		}
 	},
 	{
-		"authorName": "Sheppy",
-		"authorProfileURL": "/vi/profiles/Sheppy",
-		"entries": [
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Errors$revision/1260605",
-				"dateTime": "2016-12-01T16:42:58-08:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Errors",
-				"title": "JavaScript error reference"
-			},
-			{
-				"revisionURL": "/vi/docs/Mozilla/Tech/XPCOM$revision/766223",
-				"dateTime": "2014-12-23T13:24:36-08:00",
-				"url": "/vi/docs/Mozilla/Tech/XPCOM",
-				"title": "XPCOM"
-			},
-			{
-				"revisionURL": "/vi/docs/Mozilla/Tech/XPCOM/Language_Bindings$revision/766225",
-				"dateTime": "2014-04-23T09:59:15-07:00",
-				"url": "/vi/docs/Mozilla/Tech/XPCOM/Language_Bindings",
-				"title": "Language bindings"
-			},
-			{
-				"revisionURL": "/vi/docs/Security$revision/647907",
-				"dateTime": "2014-04-17T07:52:24-07:00",
-				"url": "/vi/docs/Security",
-				"title": "Security"
-			},
-			{
-				"revisionURL": "/vi/docs/Mozilla/Projects$revision/722201",
-				"dateTime": "2014-04-14T10:52:12-07:00",
-				"url": "/vi/docs/Mozilla/Projects",
-				"title": "Projects"
-			},
-			{
-				"revisionURL": "/vi/docs/Mozilla/Tech$revision/766221",
-				"dateTime": "2014-04-14T10:33:41-07:00",
-				"url": "/vi/docs/Mozilla/Tech",
-				"title": "Mozilla technologies"
-			},
-			{
-				"revisionURL": "/vi/docs/MDN$revision/549933",
-				"dateTime": "2014-04-10T09:45:21-07:00",
-				"url": "/vi/docs/MDN",
-				"title": "The MDN project"
-			},
-			{
-				"revisionURL": "/vi/docs/Project:MDN$revision/657901",
-				"dateTime": "2014-04-07T17:59:25-07:00",
-				"url": "/vi/docs/Project:MDN",
-				"title": "The MDN project"
-			},
-			{
-				"revisionURL": "/vi/docs/Mozilla$revision/463383",
-				"dateTime": "2013-07-17T05:55:35-07:00",
-				"url": "/vi/docs/Mozilla",
-				"title": "Mozilla"
-			}
-		],
-		"articles": [
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Errors",
-				"title": "JavaScript error reference",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Mozilla/Tech/XPCOM",
-				"title": "XPCOM",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Mozilla/Tech/XPCOM/Language_Bindings",
-				"title": "Language bindings",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Security",
-				"title": "Security",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Mozilla/Projects",
-				"title": "Projects",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Mozilla/Tech",
-				"title": "Mozilla technologies",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/MDN",
-				"title": "The MDN project",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Project:MDN",
-				"title": "The MDN project",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Mozilla",
-				"title": "Mozilla",
-				"revisions": 1
-			}
-		],
-		"articlesCount": 9,
-		"lastestEntryTime": "2016-12-01T16:42:58-08:00",
-		"rank": 9,
-		"profile": {
-			"fullName": "Eric Shepherd",
-			"location": "Maryville, Tennessee",
-			"org": "Mozilla",
-			"avatar": "https://secure.gravatar.com/avatar/945076feb88f2d7003891ffbf06f32bf?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
-			"joinDate": "2011-03-04T10:40:26-08:00",
-			"links": [
-				{
-					"type": "twitter",
-					"url": "http://twitter.com/sheppy"
-				},
-				{
-					"type": "stack overflow",
-					"url": "http://stackoverflow.com/users/2224737/eric-shepherd"
-				},
-				{
-					"type": "linkedin",
-					"url": "http://www.linkedin.com/in/sheppy"
-				},
-				{
-					"type": "mozillians",
-					"url": "http://mozillians.org/u/sheppy/"
-				}
-			]
-		}
-	},
-	{
-		"authorName": "SphinxKnight",
-		"authorProfileURL": "/vi/profiles/SphinxKnight",
-		"entries": [
-			{
-				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/HTML$revision/1396317",
-				"dateTime": "2018-07-15T23:28:41.683655-07:00",
-				"url": "/vi/docs/Tu-dien-thuat-ngu/HTML",
-				"title": "HTML"
-			},
-			{
-				"revisionURL": "/vi/docs/MDN/Contribute/Howto/Do_a_technical_review$revision/1382608",
-				"dateTime": "2018-05-20T01:18:20.718794-07:00",
-				"url": "/vi/docs/MDN/Contribute/Howto/Do_a_technical_review",
-				"title": "How to do a technical review"
-			},
-			{
-				"revisionURL": "/vi/docs/MDN/Getting_started$revision/1382070",
-				"dateTime": "2018-05-17T22:48:08.922107-07:00",
-				"url": "/vi/docs/MDN/Getting_started",
-				"title": "Getting started on MDN"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/String/startsWith$revision/1379362",
-				"dateTime": "2018-05-05T10:13:25.065905-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/String/startsWith",
-				"title": "String.prototype.startsWith()"
-			},
-			{
-				"revisionURL": "/vi/docs/Mozilla/Connect$revision/1360130",
-				"dateTime": "2018-02-18T07:30:49.821187-08:00",
-				"url": "/vi/docs/Mozilla/Connect",
-				"title": "Connect with Mozilla"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Regular_Expressions$revision/1358379",
-				"dateTime": "2018-02-12T12:30:58.682266-08:00",
-				"url": "/vi/docs/Web/JavaScript/Guide/Regular_Expressions",
-				"title": "Biểu thức chính quy"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Errors/Missing_semicolon_before_statement$revision/1352484",
-				"dateTime": "2018-01-30T11:11:17.251576-08:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Errors/Missing_semicolon_before_statement",
-				"title": "Lỗi cú pháp: Thiếu dấu ; trước câu lệnh"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/CSS/background-color$revision/967901",
-				"dateTime": "2015-12-03T13:21:24-08:00",
-				"url": "/vi/docs/Web/CSS/background-color",
-				"title": "background-color"
-			}
-		],
-		"articles": [
-			{
-				"url": "/vi/docs/Tu-dien-thuat-ngu/HTML",
-				"title": "HTML",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/MDN/Contribute/Howto/Do_a_technical_review",
-				"title": "How to do a technical review",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/MDN/Getting_started",
-				"title": "Getting started on MDN",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/String/startsWith",
-				"title": "String.prototype.startsWith()",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Mozilla/Connect",
-				"title": "Connect with Mozilla",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Guide/Regular_Expressions",
-				"title": "Biểu thức chính quy",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Errors/Missing_semicolon_before_statement",
-				"title": "Lỗi cú pháp: Thiếu dấu ; trước câu lệnh",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/CSS/background-color",
-				"title": "background-color",
-				"revisions": 1
-			}
-		],
-		"articlesCount": 8,
-		"lastestEntryTime": "2018-07-15T23:28:41.683655-07:00",
-		"rank": 10,
-		"profile": {
-			"fullName": "Sphinx",
-			"location": "France",
-			"org": "",
-			"avatar": "https://secure.gravatar.com/avatar/8fb358ea9b7af22f5021a29e122ea069?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
-			"joinDate": "2013-04-22T04:32:53-07:00",
-			"links": [
-				{
-					"type": "twitter",
-					"url": "https://twitter.com/Sphinx_Twitt"
-				}
-			]
-		}
-	},
-	{
-		"authorName": "fscholz",
-		"authorProfileURL": "/vi/profiles/fscholz",
-		"entries": [
-			{
-				"revisionURL": "/vi/docs/Web/CSS/flex-wrap$revision/1336815",
-				"dateTime": "2017-12-14T18:09:18.934896-08:00",
-				"url": "/vi/docs/Web/CSS/flex-wrap",
-				"title": "flex-wrap"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Function$revision/1326582",
-				"dateTime": "2017-09-26T04:34:33.416326-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Function",
-				"title": "Function"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/HTTP$revision/1229829",
-				"dateTime": "2017-02-12T08:25:54.437839-08:00",
-				"url": "/vi/docs/Web/HTTP",
-				"title": "HTTP"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Number$revision/1017886",
-				"dateTime": "2015-12-30T10:54:46-08:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Number",
-				"title": "Number"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/CSS/background-color$revision/950587",
-				"dateTime": "2015-11-13T10:58:56-08:00",
-				"url": "/vi/docs/Web/CSS/background-color",
-				"title": "background-color"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/String$revision/899517",
-				"dateTime": "2015-07-27T11:05:41-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/String",
-				"title": "String"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object$revision/901283",
-				"dateTime": "2015-07-08T10:33:48-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object",
-				"title": "Object"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/Guide/CSS$revision/972165",
-				"dateTime": "2014-03-08T06:35:57-08:00",
-				"url": "/vi/docs/Web/Guide/CSS",
-				"title": "CSS developer guide"
-			}
-		],
-		"articles": [
-			{
-				"url": "/vi/docs/Web/CSS/flex-wrap",
-				"title": "flex-wrap",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Function",
-				"title": "Function",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/HTTP",
-				"title": "HTTP",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Number",
-				"title": "Number",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/CSS/background-color",
-				"title": "background-color",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/String",
-				"title": "String",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object",
-				"title": "Object",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/Guide/CSS",
-				"title": "CSS developer guide",
-				"revisions": 1
-			}
-		],
-		"articlesCount": 8,
-		"lastestEntryTime": "2017-12-14T18:09:18.934896-08:00",
-		"rank": 11,
-		"profile": {
-			"fullName": "Florian Scholz",
-			"location": "Bremen, Germany",
-			"org": "Mozilla",
-			"avatar": "https://secure.gravatar.com/avatar/e24391c9174352988d819a9b9ea77c9e?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
-			"joinDate": "2009-12-31T03:21:04-08:00",
-			"links": [
-				{
-					"type": "twitter",
-					"url": "http://twitter.com/floscholz"
-				},
-				{
-					"type": "linkedin",
-					"url": "https://linkedin.com/in/florianscholz"
-				},
-				{
-					"type": "mozillians",
-					"url": "https://mozillians.org/u/fscholz"
-				}
-			]
-		}
-	},
-	{
 		"authorName": "daonhut",
 		"authorProfileURL": "/vi/profiles/daonhut",
 		"entries": [
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide$revision/1422504",
+				"dateTime": "2018-10-02T23:38:31.868842-07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide",
+				"title": "JavaScript Guide"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript$revision/1422503",
+				"dateTime": "2018-10-02T23:34:41.165892-07:00",
+				"url": "/vi/docs/Web/JavaScript",
+				"title": "JavaScript"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/CSS$revision/1422468",
+				"dateTime": "2018-10-02T19:42:20.055881-07:00",
+				"url": "/vi/docs/Web/CSS",
+				"title": "CSS"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/CSS$revision/1422422",
+				"dateTime": "2018-10-02T15:41:14.103436-07:00",
+				"url": "/vi/docs/Web/CSS",
+				"title": "CSS"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/CSS$revision/1422298",
+				"dateTime": "2018-10-02T06:51:15.716590-07:00",
+				"url": "/vi/docs/Web/CSS",
+				"title": "CSS"
+			},
 			{
 				"revisionURL": "/vi/docs/Web/CSS$revision/1421208",
 				"dateTime": "2018-09-28T14:59:10.786435-07:00",
@@ -2685,9 +2616,19 @@
 		],
 		"articles": [
 			{
+				"url": "/vi/docs/Web/JavaScript/Guide",
+				"title": "JavaScript Guide",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript",
+				"title": "JavaScript",
+				"revisions": 1
+			},
+			{
 				"url": "/vi/docs/Web/CSS",
 				"title": "CSS",
-				"revisions": 4
+				"revisions": 7
 			},
 			{
 				"url": "/vi/docs/Web",
@@ -2720,9 +2661,9 @@
 				"revisions": 9
 			}
 		],
-		"articlesCount": 7,
-		"lastestEntryTime": "2018-09-28T14:59:10.786435-07:00",
-		"rank": 12,
+		"articlesCount": 9,
+		"lastestEntryTime": "2018-10-02T23:38:31.868842-07:00",
+		"rank": 10,
 		"profile": {
 			"fullName": "Nhut",
 			"location": "Viet Nam",
@@ -2730,6 +2671,398 @@
 			"avatar": "https://secure.gravatar.com/avatar/05046a731707087a96916250e16014ea?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
 			"joinDate": "2016-08-18T16:03:52-07:00",
 			"links": []
+		}
+	},
+	{
+		"authorName": "Sheppy",
+		"authorProfileURL": "/vi/profiles/Sheppy",
+		"entries": [
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Errors$revision/1260605",
+				"dateTime": "2016-12-01T16:42:58-08:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Errors",
+				"title": "JavaScript error reference"
+			},
+			{
+				"revisionURL": "/vi/docs/Mozilla/Tech/XPCOM$revision/766223",
+				"dateTime": "2014-12-23T13:24:36-08:00",
+				"url": "/vi/docs/Mozilla/Tech/XPCOM",
+				"title": "XPCOM"
+			},
+			{
+				"revisionURL": "/vi/docs/Mozilla/Tech/XPCOM/Language_Bindings$revision/766225",
+				"dateTime": "2014-04-23T09:59:15-07:00",
+				"url": "/vi/docs/Mozilla/Tech/XPCOM/Language_Bindings",
+				"title": "Language bindings"
+			},
+			{
+				"revisionURL": "/vi/docs/Security$revision/647907",
+				"dateTime": "2014-04-17T07:52:24-07:00",
+				"url": "/vi/docs/Security",
+				"title": "Security"
+			},
+			{
+				"revisionURL": "/vi/docs/Mozilla/Projects$revision/722201",
+				"dateTime": "2014-04-14T10:52:12-07:00",
+				"url": "/vi/docs/Mozilla/Projects",
+				"title": "Projects"
+			},
+			{
+				"revisionURL": "/vi/docs/Mozilla/Tech$revision/766221",
+				"dateTime": "2014-04-14T10:33:41-07:00",
+				"url": "/vi/docs/Mozilla/Tech",
+				"title": "Mozilla technologies"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN$revision/549933",
+				"dateTime": "2014-04-10T09:45:21-07:00",
+				"url": "/vi/docs/MDN",
+				"title": "The MDN project"
+			},
+			{
+				"revisionURL": "/vi/docs/Project:MDN$revision/657901",
+				"dateTime": "2014-04-07T17:59:25-07:00",
+				"url": "/vi/docs/Project:MDN",
+				"title": "The MDN project"
+			},
+			{
+				"revisionURL": "/vi/docs/Mozilla$revision/463383",
+				"dateTime": "2013-07-17T05:55:35-07:00",
+				"url": "/vi/docs/Mozilla",
+				"title": "Mozilla"
+			}
+		],
+		"articles": [
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Errors",
+				"title": "JavaScript error reference",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Mozilla/Tech/XPCOM",
+				"title": "XPCOM",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Mozilla/Tech/XPCOM/Language_Bindings",
+				"title": "Language bindings",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Security",
+				"title": "Security",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Mozilla/Projects",
+				"title": "Projects",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Mozilla/Tech",
+				"title": "Mozilla technologies",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/MDN",
+				"title": "The MDN project",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Project:MDN",
+				"title": "The MDN project",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Mozilla",
+				"title": "Mozilla",
+				"revisions": 1
+			}
+		],
+		"articlesCount": 9,
+		"lastestEntryTime": "2016-12-01T16:42:58-08:00",
+		"rank": 11,
+		"profile": {
+			"fullName": "Eric Shepherd",
+			"location": "Maryville, Tennessee",
+			"org": "Mozilla",
+			"avatar": "https://secure.gravatar.com/avatar/945076feb88f2d7003891ffbf06f32bf?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
+			"joinDate": "2011-03-04T10:40:26-08:00",
+			"links": [
+				{
+					"type": "twitter",
+					"url": "http://twitter.com/sheppy"
+				},
+				{
+					"type": "stack overflow",
+					"url": "http://stackoverflow.com/users/2224737/eric-shepherd"
+				},
+				{
+					"type": "linkedin",
+					"url": "http://www.linkedin.com/in/sheppy"
+				},
+				{
+					"type": "mozillians",
+					"url": "http://mozillians.org/u/sheppy/"
+				}
+			]
+		}
+	},
+	{
+		"authorName": "fscholz",
+		"authorProfileURL": "/vi/profiles/fscholz",
+		"entries": [
+			{
+				"revisionURL": "/vi/docs/Web/CSS/flex-wrap$revision/1336815",
+				"dateTime": "2017-12-14T18:09:18.934896-08:00",
+				"url": "/vi/docs/Web/CSS/flex-wrap",
+				"title": "flex-wrap"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Function$revision/1326582",
+				"dateTime": "2017-09-26T04:34:33.416326-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Function",
+				"title": "Function"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/HTTP$revision/1229829",
+				"dateTime": "2017-02-12T08:25:54.437839-08:00",
+				"url": "/vi/docs/Web/HTTP",
+				"title": "HTTP"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Number$revision/1017886",
+				"dateTime": "2015-12-30T10:54:46-08:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Number",
+				"title": "Number"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/CSS/background-color$revision/950587",
+				"dateTime": "2015-11-13T10:58:56-08:00",
+				"url": "/vi/docs/Web/CSS/background-color",
+				"title": "background-color"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/String$revision/899517",
+				"dateTime": "2015-07-27T11:05:41-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/String",
+				"title": "String"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object$revision/901283",
+				"dateTime": "2015-07-08T10:33:48-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object",
+				"title": "Object"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/Guide/CSS$revision/972165",
+				"dateTime": "2014-03-08T06:35:57-08:00",
+				"url": "/vi/docs/Web/Guide/CSS",
+				"title": "CSS developer guide"
+			}
+		],
+		"articles": [
+			{
+				"url": "/vi/docs/Web/CSS/flex-wrap",
+				"title": "flex-wrap",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Function",
+				"title": "Function",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/HTTP",
+				"title": "HTTP",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Number",
+				"title": "Number",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/CSS/background-color",
+				"title": "background-color",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/String",
+				"title": "String",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object",
+				"title": "Object",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/Guide/CSS",
+				"title": "CSS developer guide",
+				"revisions": 1
+			}
+		],
+		"articlesCount": 8,
+		"lastestEntryTime": "2017-12-14T18:09:18.934896-08:00",
+		"rank": 12,
+		"profile": {
+			"fullName": "Florian Scholz",
+			"location": "Bremen, Germany",
+			"org": "Mozilla",
+			"avatar": "https://secure.gravatar.com/avatar/e24391c9174352988d819a9b9ea77c9e?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
+			"joinDate": "2009-12-31T03:21:04-08:00",
+			"links": [
+				{
+					"type": "twitter",
+					"url": "http://twitter.com/floscholz"
+				},
+				{
+					"type": "linkedin",
+					"url": "https://linkedin.com/in/florianscholz"
+				},
+				{
+					"type": "mozillians",
+					"url": "https://mozillians.org/u/fscholz"
+				}
+			]
+		}
+	},
+	{
+		"authorName": "quytran",
+		"authorProfileURL": "/vi/profiles/quytran",
+		"entries": [
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1422483",
+				"dateTime": "2018-10-02T21:23:56.427352-07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
+				"title": "Working with objects"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/from$revision/1421751",
+				"dateTime": "2018-09-30T20:06:10.507929-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/from",
+				"title": "Array.from()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray$revision/1421750",
+				"dateTime": "2018-09-30T20:01:54.192049-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray",
+				"title": "Array.isArray()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object/observe$revision/1418265",
+				"dateTime": "2018-09-20T10:17:20.949067-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object/observe",
+				"title": "Object.observe()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Closures$revision/1414113",
+				"dateTime": "2018-09-15T09:27:21.288570-07:00",
+				"url": "/vi/docs/Web/JavaScript/Closures",
+				"title": "Closures"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Closures$revision/1414105",
+				"dateTime": "2018-09-15T09:15:24.858192-07:00",
+				"url": "/vi/docs/Web/JavaScript/Closures",
+				"title": "Closures"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1413843",
+				"dateTime": "2018-09-14T04:34:52.816431-07:00",
+				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
+				"title": "JavaScript basics"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1412661",
+				"dateTime": "2018-09-09T08:55:06.014719-07:00",
+				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
+				"title": "JavaScript basics"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1412575",
+				"dateTime": "2018-09-08T22:12:52.798243-07:00",
+				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
+				"title": "JavaScript basics"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1412574",
+				"dateTime": "2018-09-08T22:02:59.849194-07:00",
+				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
+				"title": "JavaScript basics"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1412573",
+				"dateTime": "2018-09-08T22:02:30.396301-07:00",
+				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
+				"title": "JavaScript basics"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1412572",
+				"dateTime": "2018-09-08T22:02:04.573191-07:00",
+				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
+				"title": "JavaScript basics"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter$revision/1408981",
+				"dateTime": "2018-08-28T17:09:05.718944-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter",
+				"title": "Array.prototype.filter()"
+			}
+		],
+		"articles": [
+			{
+				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
+				"title": "Working with objects",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/from",
+				"title": "Array.from()",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray",
+				"title": "Array.isArray()",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object/observe",
+				"title": "Object.observe()",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Closures",
+				"title": "Closures",
+				"revisions": 2
+			},
+			{
+				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
+				"title": "JavaScript basics",
+				"revisions": 6
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter",
+				"title": "Array.prototype.filter()",
+				"revisions": 1
+			}
+		],
+		"articlesCount": 7,
+		"lastestEntryTime": "2018-10-02T21:23:56.427352-07:00",
+		"rank": 13,
+		"profile": {
+			"fullName": "Quy",
+			"location": "",
+			"org": "",
+			"avatar": "https://secure.gravatar.com/avatar/07f5397d2c7f46f7d50370dff5e5b4a0?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
+			"joinDate": "2016-08-18T08:12:21-07:00",
+			"links": [
+				{
+					"type": "twitter",
+					"url": "https://twitter.com/tuanquynet"
+				}
+			]
 		}
 	},
 	{
@@ -2854,7 +3187,7 @@
 		],
 		"articlesCount": 7,
 		"lastestEntryTime": "2018-03-10T22:14:55.041190-08:00",
-		"rank": 13,
+		"rank": 14,
 		"profile": {
 			"fullName": "Ozu",
 			"location": "",
@@ -2865,129 +3198,94 @@
 		}
 	},
 	{
-		"authorName": "quytran",
-		"authorProfileURL": "/vi/profiles/quytran",
+		"authorName": "luubinhan",
+		"authorProfileURL": "/vi/profiles/luubinhan",
 		"entries": [
 			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/from$revision/1421751",
-				"dateTime": "2018-09-30T20:06:10.507929-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/from",
-				"title": "Array.from()"
+				"revisionURL": "/vi/docs/Web/API/Touch_events/Supporting_both_TouchEvent_and_MouseEvent$revision/1422461",
+				"dateTime": "2018-10-02T19:15:00.527258-07:00",
+				"url": "/vi/docs/Web/API/Touch_events/Supporting_both_TouchEvent_and_MouseEvent",
+				"title": "Supporting both TouchEvent and MouseEvent"
 			},
 			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray$revision/1421750",
-				"dateTime": "2018-09-30T20:01:54.192049-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray",
-				"title": "Array.isArray()"
+				"revisionURL": "/vi/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content$revision/1422459",
+				"dateTime": "2018-10-02T18:49:40.688482-07:00",
+				"url": "/vi/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content",
+				"title": "Video and audio content"
 			},
 			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object/observe$revision/1418265",
-				"dateTime": "2018-09-20T10:17:20.949067-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object/observe",
-				"title": "Object.observe()"
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Statements/function*$revision/1420136",
+				"dateTime": "2018-09-24T23:04:28.148082-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Statements/function*",
+				"title": "function*"
 			},
 			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Closures$revision/1414113",
-				"dateTime": "2018-09-15T09:27:21.288570-07:00",
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Generator$revision/1420131",
+				"dateTime": "2018-09-24T22:11:04.124953-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+				"title": "Generator"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Statements/throw$revision/1414389",
+				"dateTime": "2018-09-17T01:59:56.748592-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Statements/throw",
+				"title": "throw"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Closures$revision/1414017",
+				"dateTime": "2018-09-15T01:34:42.935227-07:00",
 				"url": "/vi/docs/Web/JavaScript/Closures",
 				"title": "Closures"
 			},
 			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Closures$revision/1414105",
-				"dateTime": "2018-09-15T09:15:24.858192-07:00",
+				"revisionURL": "/vi/docs/Web/JavaScript/Closures$revision/1414016",
+				"dateTime": "2018-09-15T01:26:16.318651-07:00",
 				"url": "/vi/docs/Web/JavaScript/Closures",
 				"title": "Closures"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1413843",
-				"dateTime": "2018-09-14T04:34:52.816431-07:00",
-				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
-				"title": "JavaScript basics"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1412661",
-				"dateTime": "2018-09-09T08:55:06.014719-07:00",
-				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
-				"title": "JavaScript basics"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1412575",
-				"dateTime": "2018-09-08T22:12:52.798243-07:00",
-				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
-				"title": "JavaScript basics"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1412574",
-				"dateTime": "2018-09-08T22:02:59.849194-07:00",
-				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
-				"title": "JavaScript basics"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1412573",
-				"dateTime": "2018-09-08T22:02:30.396301-07:00",
-				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
-				"title": "JavaScript basics"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1412572",
-				"dateTime": "2018-09-08T22:02:04.573191-07:00",
-				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
-				"title": "JavaScript basics"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter$revision/1408981",
-				"dateTime": "2018-08-28T17:09:05.718944-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter",
-				"title": "Array.prototype.filter()"
 			}
 		],
 		"articles": [
 			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/from",
-				"title": "Array.from()",
+				"url": "/vi/docs/Web/API/Touch_events/Supporting_both_TouchEvent_and_MouseEvent",
+				"title": "Supporting both TouchEvent and MouseEvent",
 				"revisions": 1
 			},
 			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray",
-				"title": "Array.isArray()",
+				"url": "/vi/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content",
+				"title": "Video and audio content",
 				"revisions": 1
 			},
 			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object/observe",
-				"title": "Object.observe()",
+				"url": "/vi/docs/Web/JavaScript/Reference/Statements/function*",
+				"title": "function*",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+				"title": "Generator",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Statements/throw",
+				"title": "throw",
 				"revisions": 1
 			},
 			{
 				"url": "/vi/docs/Web/JavaScript/Closures",
 				"title": "Closures",
 				"revisions": 2
-			},
-			{
-				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
-				"title": "JavaScript basics",
-				"revisions": 6
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter",
-				"title": "Array.prototype.filter()",
-				"revisions": 1
 			}
 		],
 		"articlesCount": 6,
-		"lastestEntryTime": "2018-09-30T20:06:10.507929-07:00",
-		"rank": 14,
+		"lastestEntryTime": "2018-10-02T19:15:00.527258-07:00",
+		"rank": 15,
 		"profile": {
-			"fullName": "Quy",
+			"fullName": "",
 			"location": "",
 			"org": "",
-			"avatar": "https://secure.gravatar.com/avatar/07f5397d2c7f46f7d50370dff5e5b4a0?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
-			"joinDate": "2016-08-18T08:12:21-07:00",
-			"links": [
-				{
-					"type": "twitter",
-					"url": "https://twitter.com/tuanquynet"
-				}
-			]
+			"avatar": "https://secure.gravatar.com/avatar/6cbe89a8dd491f274c325ee3b685bf34?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
+			"joinDate": "2017-01-12T20:12:20-08:00",
+			"links": []
 		}
 	},
 	{
@@ -3071,7 +3369,7 @@
 		],
 		"articlesCount": 6,
 		"lastestEntryTime": "2017-11-07T20:50:55.633037-08:00",
-		"rank": 15,
+		"rank": 16,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -3169,7 +3467,7 @@
 		],
 		"articlesCount": 6,
 		"lastestEntryTime": "2017-07-26T13:06:21.156153-07:00",
-		"rank": 16,
+		"rank": 17,
 		"profile": {
 			"fullName": "Janet Swisher",
 			"location": "Austin, TX,  USA",
@@ -3361,7 +3659,7 @@
 		],
 		"articlesCount": 6,
 		"lastestEntryTime": "2016-10-30T22:03:48-07:00",
-		"rank": 17,
+		"rank": 18,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -3489,7 +3787,7 @@
 		],
 		"articlesCount": 5,
 		"lastestEntryTime": "2018-05-11T06:27:14.334603-07:00",
-		"rank": 18,
+		"rank": 19,
 		"profile": {
 			"fullName": "Thành ",
 			"location": "",
@@ -3502,75 +3800,6 @@
 					"url": "https://github.com/summerpupil"
 				}
 			]
-		}
-	},
-	{
-		"authorName": "luubinhan",
-		"authorProfileURL": "/vi/profiles/luubinhan",
-		"entries": [
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Statements/function*$revision/1420136",
-				"dateTime": "2018-09-24T23:04:28.148082-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Statements/function*",
-				"title": "function*"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Generator$revision/1420131",
-				"dateTime": "2018-09-24T22:11:04.124953-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Generator",
-				"title": "Generator"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Statements/throw$revision/1414389",
-				"dateTime": "2018-09-17T01:59:56.748592-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Statements/throw",
-				"title": "throw"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Closures$revision/1414017",
-				"dateTime": "2018-09-15T01:34:42.935227-07:00",
-				"url": "/vi/docs/Web/JavaScript/Closures",
-				"title": "Closures"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Closures$revision/1414016",
-				"dateTime": "2018-09-15T01:26:16.318651-07:00",
-				"url": "/vi/docs/Web/JavaScript/Closures",
-				"title": "Closures"
-			}
-		],
-		"articles": [
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Statements/function*",
-				"title": "function*",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Generator",
-				"title": "Generator",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Statements/throw",
-				"title": "throw",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Closures",
-				"title": "Closures",
-				"revisions": 2
-			}
-		],
-		"articlesCount": 4,
-		"lastestEntryTime": "2018-09-24T23:04:28.148082-07:00",
-		"rank": 19,
-		"profile": {
-			"fullName": "",
-			"location": "",
-			"org": "",
-			"avatar": "https://secure.gravatar.com/avatar/6cbe89a8dd491f274c325ee3b685bf34?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
-			"joinDate": "2017-01-12T20:12:20-08:00",
-			"links": []
 		}
 	},
 	{
