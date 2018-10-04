@@ -1017,6 +1017,18 @@
 		"authorProfileURL": "/vi/profiles/trongthanh",
 		"entries": [
 			{
+				"revisionURL": "/vi/docs/MDN/Doc_status/Learn$revision/1422783",
+				"dateTime": "2018-10-03T21:59:23.410398-07:00",
+				"url": "/vi/docs/MDN/Doc_status/Learn",
+				"title": "Tiến độ dịch phần Học tập"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/HTML/Element/dialog$revision/1422520",
+				"dateTime": "2018-10-03T02:01:51.931485-07:00",
+				"url": "/vi/docs/Web/HTML/Element/dialog",
+				"title": "<dialog>: Phần tử Hộp thoại"
+			},
+			{
 				"revisionURL": "/vi/docs/MDN/Doc_status/JavaScript$revision/1422496",
 				"dateTime": "2018-10-02T22:12:08.872142-07:00",
 				"url": "/vi/docs/MDN/Doc_status/JavaScript",
@@ -1223,6 +1235,16 @@
 		],
 		"articles": [
 			{
+				"url": "/vi/docs/MDN/Doc_status/Learn",
+				"title": "Tiến độ dịch phần Học tập",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/HTML/Element/dialog",
+				"title": "<dialog>: Phần tử Hộp thoại",
+				"revisions": 4
+			},
+			{
 				"url": "/vi/docs/MDN/Doc_status/JavaScript",
 				"title": "Tiến độ dịch chủ đề JavaScript",
 				"revisions": 1
@@ -1251,11 +1273,6 @@
 				"url": "/vi/docs/MDN/Doc_status/HTML",
 				"title": "HTML",
 				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/HTML/Element/dialog",
-				"title": "<dialog>: Phần tử Hộp thoại",
-				"revisions": 3
 			},
 			{
 				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray",
@@ -1318,8 +1335,8 @@
 				"revisions": 1
 			}
 		],
-		"articlesCount": 19,
-		"lastestEntryTime": "2018-10-02T22:12:08.872142-07:00",
+		"articlesCount": 20,
+		"lastestEntryTime": "2018-10-03T21:59:23.410398-07:00",
 		"rank": 4,
 		"profile": {
 			"fullName": "Thanh Tran",
@@ -1347,6 +1364,12 @@
 		"authorName": "PurpleLover",
 		"authorProfileURL": "/vi/profiles/PurpleLover",
 		"entries": [
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators$revision/1422772",
+				"dateTime": "2018-10-03T19:47:09.099629-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators",
+				"title": "Toán tử số học"
+			},
 			{
 				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/S%E1%BA%AFp_x%E1%BA%BFp$revision/1406282",
 				"dateTime": "2018-08-20T00:05:53.718931-07:00",
@@ -1536,6 +1559,11 @@
 		],
 		"articles": [
 			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators",
+				"title": "Toán tử số học",
+				"revisions": 2
+			},
+			{
 				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/S%E1%BA%AFp_x%E1%BA%BFp",
 				"title": "Array.prototype.sort()",
 				"revisions": 2
@@ -1548,11 +1576,6 @@
 			{
 				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Assignment_Operators",
 				"title": "Toán tử gán",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators",
-				"title": "Toán tử số học",
 				"revisions": 1
 			},
 			{
@@ -1627,7 +1650,7 @@
 			}
 		],
 		"articlesCount": 18,
-		"lastestEntryTime": "2018-08-20T00:05:53.718931-07:00",
+		"lastestEntryTime": "2018-10-03T19:47:09.099629-07:00",
 		"rank": 5,
 		"profile": {
 			"fullName": "",
@@ -2809,6 +2832,154 @@
 		}
 	},
 	{
+		"authorName": "quytran",
+		"authorProfileURL": "/vi/profiles/quytran",
+		"entries": [
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators$revision/1422775",
+				"dateTime": "2018-10-03T20:17:49.186827-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators",
+				"title": "Toán tử số học"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1422483",
+				"dateTime": "2018-10-02T21:23:56.427352-07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
+				"title": "Working with objects"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/from$revision/1421751",
+				"dateTime": "2018-09-30T20:06:10.507929-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/from",
+				"title": "Array.from()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray$revision/1421750",
+				"dateTime": "2018-09-30T20:01:54.192049-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray",
+				"title": "Array.isArray()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object/observe$revision/1418265",
+				"dateTime": "2018-09-20T10:17:20.949067-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object/observe",
+				"title": "Object.observe()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Closures$revision/1414113",
+				"dateTime": "2018-09-15T09:27:21.288570-07:00",
+				"url": "/vi/docs/Web/JavaScript/Closures",
+				"title": "Closures"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Closures$revision/1414105",
+				"dateTime": "2018-09-15T09:15:24.858192-07:00",
+				"url": "/vi/docs/Web/JavaScript/Closures",
+				"title": "Closures"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1413843",
+				"dateTime": "2018-09-14T04:34:52.816431-07:00",
+				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
+				"title": "JavaScript basics"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1412661",
+				"dateTime": "2018-09-09T08:55:06.014719-07:00",
+				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
+				"title": "JavaScript basics"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1412575",
+				"dateTime": "2018-09-08T22:12:52.798243-07:00",
+				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
+				"title": "JavaScript basics"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1412574",
+				"dateTime": "2018-09-08T22:02:59.849194-07:00",
+				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
+				"title": "JavaScript basics"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1412573",
+				"dateTime": "2018-09-08T22:02:30.396301-07:00",
+				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
+				"title": "JavaScript basics"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1412572",
+				"dateTime": "2018-09-08T22:02:04.573191-07:00",
+				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
+				"title": "JavaScript basics"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter$revision/1408981",
+				"dateTime": "2018-08-28T17:09:05.718944-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter",
+				"title": "Array.prototype.filter()"
+			}
+		],
+		"articles": [
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators",
+				"title": "Toán tử số học",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
+				"title": "Working with objects",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/from",
+				"title": "Array.from()",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray",
+				"title": "Array.isArray()",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object/observe",
+				"title": "Object.observe()",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Closures",
+				"title": "Closures",
+				"revisions": 2
+			},
+			{
+				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
+				"title": "JavaScript basics",
+				"revisions": 6
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter",
+				"title": "Array.prototype.filter()",
+				"revisions": 1
+			}
+		],
+		"articlesCount": 8,
+		"lastestEntryTime": "2018-10-03T20:17:49.186827-07:00",
+		"rank": 12,
+		"profile": {
+			"fullName": "Quy",
+			"location": "",
+			"org": "",
+			"avatar": "https://secure.gravatar.com/avatar/07f5397d2c7f46f7d50370dff5e5b4a0?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
+			"joinDate": "2016-08-18T08:12:21-07:00",
+			"links": [
+				{
+					"type": "twitter",
+					"url": "https://twitter.com/tuanquynet"
+				}
+			]
+		}
+	},
+	{
 		"authorName": "fscholz",
 		"authorProfileURL": "/vi/profiles/fscholz",
 		"entries": [
@@ -2905,7 +3076,7 @@
 		],
 		"articlesCount": 8,
 		"lastestEntryTime": "2017-12-14T18:09:18.934896-08:00",
-		"rank": 12,
+		"rank": 13,
 		"profile": {
 			"fullName": "Florian Scholz",
 			"location": "Bremen, Germany",
@@ -2924,143 +3095,6 @@
 				{
 					"type": "mozillians",
 					"url": "https://mozillians.org/u/fscholz"
-				}
-			]
-		}
-	},
-	{
-		"authorName": "quytran",
-		"authorProfileURL": "/vi/profiles/quytran",
-		"entries": [
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1422483",
-				"dateTime": "2018-10-02T21:23:56.427352-07:00",
-				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
-				"title": "Working with objects"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/from$revision/1421751",
-				"dateTime": "2018-09-30T20:06:10.507929-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/from",
-				"title": "Array.from()"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray$revision/1421750",
-				"dateTime": "2018-09-30T20:01:54.192049-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray",
-				"title": "Array.isArray()"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object/observe$revision/1418265",
-				"dateTime": "2018-09-20T10:17:20.949067-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object/observe",
-				"title": "Object.observe()"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Closures$revision/1414113",
-				"dateTime": "2018-09-15T09:27:21.288570-07:00",
-				"url": "/vi/docs/Web/JavaScript/Closures",
-				"title": "Closures"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Closures$revision/1414105",
-				"dateTime": "2018-09-15T09:15:24.858192-07:00",
-				"url": "/vi/docs/Web/JavaScript/Closures",
-				"title": "Closures"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1413843",
-				"dateTime": "2018-09-14T04:34:52.816431-07:00",
-				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
-				"title": "JavaScript basics"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1412661",
-				"dateTime": "2018-09-09T08:55:06.014719-07:00",
-				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
-				"title": "JavaScript basics"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1412575",
-				"dateTime": "2018-09-08T22:12:52.798243-07:00",
-				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
-				"title": "JavaScript basics"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1412574",
-				"dateTime": "2018-09-08T22:02:59.849194-07:00",
-				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
-				"title": "JavaScript basics"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1412573",
-				"dateTime": "2018-09-08T22:02:30.396301-07:00",
-				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
-				"title": "JavaScript basics"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics$revision/1412572",
-				"dateTime": "2018-09-08T22:02:04.573191-07:00",
-				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
-				"title": "JavaScript basics"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter$revision/1408981",
-				"dateTime": "2018-08-28T17:09:05.718944-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter",
-				"title": "Array.prototype.filter()"
-			}
-		],
-		"articles": [
-			{
-				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
-				"title": "Working with objects",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/from",
-				"title": "Array.from()",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray",
-				"title": "Array.isArray()",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object/observe",
-				"title": "Object.observe()",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Closures",
-				"title": "Closures",
-				"revisions": 2
-			},
-			{
-				"url": "/vi/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
-				"title": "JavaScript basics",
-				"revisions": 6
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter",
-				"title": "Array.prototype.filter()",
-				"revisions": 1
-			}
-		],
-		"articlesCount": 7,
-		"lastestEntryTime": "2018-10-02T21:23:56.427352-07:00",
-		"rank": 13,
-		"profile": {
-			"fullName": "Quy",
-			"location": "",
-			"org": "",
-			"avatar": "https://secure.gravatar.com/avatar/07f5397d2c7f46f7d50370dff5e5b4a0?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
-			"joinDate": "2016-08-18T08:12:21-07:00",
-			"links": [
-				{
-					"type": "twitter",
-					"url": "https://twitter.com/tuanquynet"
 				}
 			]
 		}
