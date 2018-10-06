@@ -2836,6 +2836,12 @@
 		"authorProfileURL": "/vi/profiles/quytran",
 		"entries": [
 			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1423253",
+				"dateTime": "2018-10-05T09:22:04.650059-07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
+				"title": "Working with objects"
+			},
+			{
 				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators$revision/1422775",
 				"dateTime": "2018-10-03T20:17:49.186827-07:00",
 				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators",
@@ -2922,13 +2928,13 @@
 		],
 		"articles": [
 			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators",
-				"title": "Toán tử số học",
-				"revisions": 1
-			},
-			{
 				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
 				"title": "Working with objects",
+				"revisions": 2
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators",
+				"title": "Toán tử số học",
 				"revisions": 1
 			},
 			{
@@ -2963,7 +2969,7 @@
 			}
 		],
 		"articlesCount": 8,
-		"lastestEntryTime": "2018-10-03T20:17:49.186827-07:00",
+		"lastestEntryTime": "2018-10-05T09:22:04.650059-07:00",
 		"rank": 12,
 		"profile": {
 			"fullName": "Quy",

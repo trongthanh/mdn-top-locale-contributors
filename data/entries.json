@@ -1,5 +1,13 @@
 [
 	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1423253",
+		"dateTime": "2018-10-05T09:22:04.650059-07:00",
+		"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
+		"title": "Working with objects",
+		"authorName": "quytran",
+		"authorProfileURL": "/vi/profiles/quytran"
+	},
+	{
 		"revisionURL": "/vi/docs/MDN/Doc_status/Learn$revision/1422783",
 		"dateTime": "2018-10-03T21:59:23.410398-07:00",
 		"url": "/vi/docs/MDN/Doc_status/Learn",
@@ -4672,14 +4680,6 @@
 		"authorProfileURL": "/vi/profiles/tieppt"
 	},
 	{
-		"revisionURL": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager$revision/1095245",
-		"dateTime": "2016-07-28T01:32:05-07:00",
-		"url": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager",
-		"title": "Sử dụng App Manager",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
 		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Phone_guide$revision/1095251",
 		"dateTime": "2016-07-28T01:32:05-07:00",
 		"url": "/vi/docs/Mozilla/Firefox_OS/Phone_guide",
@@ -4704,18 +4704,10 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform/Gaia$revision/1095237",
-		"dateTime": "2016-07-28T01:32:04-07:00",
-		"url": "/vi/docs/Archive/B2G_OS/Platform/Gaia",
-		"title": "Gaia",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
-		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform/Gaia/Hacking$revision/1095241",
-		"dateTime": "2016-07-28T01:32:04-07:00",
-		"url": "/vi/docs/Archive/B2G_OS/Platform/Gaia/Hacking",
-		"title": "Hacking Gaia",
+		"revisionURL": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager$revision/1095245",
+		"dateTime": "2016-07-28T01:32:05-07:00",
+		"url": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager",
+		"title": "Sử dụng App Manager",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -4736,6 +4728,30 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
+		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform/Gaia$revision/1095237",
+		"dateTime": "2016-07-28T01:32:04-07:00",
+		"url": "/vi/docs/Archive/B2G_OS/Platform/Gaia",
+		"title": "Gaia",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
+		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform/Gaia/Hacking$revision/1095241",
+		"dateTime": "2016-07-28T01:32:04-07:00",
+		"url": "/vi/docs/Archive/B2G_OS/Platform/Gaia/Hacking",
+		"title": "Hacking Gaia",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform$revision/1095235",
+		"dateTime": "2016-07-28T01:32:03-07:00",
+		"url": "/vi/docs/Mozilla/Firefox_OS/Platform",
+		"title": "The Firefox OS platform",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
 		"revisionURL": "/vi/docs/Archive/B2G_OS$revision/1095229",
 		"dateTime": "2016-07-28T01:32:03-07:00",
 		"url": "/vi/docs/Archive/B2G_OS",
@@ -4748,14 +4764,6 @@
 		"dateTime": "2016-07-28T01:32:03-07:00",
 		"url": "/vi/docs/Mozilla/Firefox_OS",
 		"title": "Firefox OS",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform$revision/1095235",
-		"dateTime": "2016-07-28T01:32:03-07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS/Platform",
-		"title": "The Firefox OS platform",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -5744,17 +5752,17 @@
 		"authorProfileURL": "/vi/profiles/DuyNe"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/Persona$revision/800197",
+		"revisionURL": "/vi/docs/Persona$revision/800199",
 		"dateTime": "2015-05-09T03:07:41-07:00",
-		"url": "/vi/docs/Mozilla/Persona",
+		"url": "/vi/docs/Persona",
 		"title": "Persona",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
-		"revisionURL": "/vi/docs/Persona$revision/800199",
+		"revisionURL": "/vi/docs/Mozilla/Persona$revision/800197",
 		"dateTime": "2015-05-09T03:07:41-07:00",
-		"url": "/vi/docs/Persona",
+		"url": "/vi/docs/Mozilla/Persona",
 		"title": "Persona",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
