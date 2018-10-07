@@ -1365,6 +1365,12 @@
 		"authorProfileURL": "/vi/profiles/PurpleLover",
 		"entries": [
 			{
+				"revisionURL": "/vi/docs/Learn/JavaScript/First_steps/Math$revision/1423483",
+				"dateTime": "2018-10-06T09:15:20.258499-07:00",
+				"url": "/vi/docs/Learn/JavaScript/First_steps/Math",
+				"title": "Toán học cơ bản trong JavaScript — số và toán tử"
+			},
+			{
 				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators$revision/1422772",
 				"dateTime": "2018-10-03T19:47:09.099629-07:00",
 				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators",
@@ -1559,6 +1565,11 @@
 		],
 		"articles": [
 			{
+				"url": "/vi/docs/Learn/JavaScript/First_steps/Math",
+				"title": "Toán học cơ bản trong JavaScript — số và toán tử",
+				"revisions": 1
+			},
+			{
 				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators",
 				"title": "Toán tử số học",
 				"revisions": 2
@@ -1649,8 +1660,8 @@
 				"revisions": 1
 			}
 		],
-		"articlesCount": 18,
-		"lastestEntryTime": "2018-10-03T19:47:09.099629-07:00",
+		"articlesCount": 19,
+		"lastestEntryTime": "2018-10-06T09:15:20.258499-07:00",
 		"rank": 5,
 		"profile": {
 			"fullName": "",
@@ -2836,6 +2847,12 @@
 		"authorProfileURL": "/vi/profiles/quytran",
 		"entries": [
 			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1423432",
+				"dateTime": "2018-10-06T06:37:30.848482-07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
+				"title": "Working with objects"
+			},
+			{
 				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1423253",
 				"dateTime": "2018-10-05T09:22:04.650059-07:00",
 				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
@@ -2930,7 +2947,7 @@
 			{
 				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
 				"title": "Working with objects",
-				"revisions": 2
+				"revisions": 3
 			},
 			{
 				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators",
@@ -2969,7 +2986,7 @@
 			}
 		],
 		"articlesCount": 8,
-		"lastestEntryTime": "2018-10-05T09:22:04.650059-07:00",
+		"lastestEntryTime": "2018-10-06T06:37:30.848482-07:00",
 		"rank": 12,
 		"profile": {
 			"fullName": "Quy",

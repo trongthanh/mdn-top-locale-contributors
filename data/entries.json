@@ -1,5 +1,21 @@
 [
 	{
+		"revisionURL": "/vi/docs/Learn/JavaScript/First_steps/Math$revision/1423483",
+		"dateTime": "2018-10-06T09:15:20.258499-07:00",
+		"url": "/vi/docs/Learn/JavaScript/First_steps/Math",
+		"title": "Toán học cơ bản trong JavaScript — số và toán tử",
+		"authorName": "PurpleLover",
+		"authorProfileURL": "/vi/profiles/PurpleLover"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1423432",
+		"dateTime": "2018-10-06T06:37:30.848482-07:00",
+		"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
+		"title": "Working with objects",
+		"authorName": "quytran",
+		"authorProfileURL": "/vi/profiles/quytran"
+	},
+	{
 		"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1423253",
 		"dateTime": "2018-10-05T09:22:04.650059-07:00",
 		"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
@@ -4712,18 +4728,10 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia/Hacking$revision/1095243",
+		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform/Gaia/Hacking$revision/1095241",
 		"dateTime": "2016-07-28T01:32:04-07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia/Hacking",
+		"url": "/vi/docs/Archive/B2G_OS/Platform/Gaia/Hacking",
 		"title": "Hacking Gaia",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia$revision/1095239",
-		"dateTime": "2016-07-28T01:32:04-07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia",
-		"title": "Gaia",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -4736,9 +4744,17 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform/Gaia/Hacking$revision/1095241",
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia$revision/1095239",
 		"dateTime": "2016-07-28T01:32:04-07:00",
-		"url": "/vi/docs/Archive/B2G_OS/Platform/Gaia/Hacking",
+		"url": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia",
+		"title": "Gaia",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia/Hacking$revision/1095243",
+		"dateTime": "2016-07-28T01:32:04-07:00",
+		"url": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia/Hacking",
 		"title": "Hacking Gaia",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
@@ -5776,6 +5792,14 @@
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
+		"revisionURL": "/vi/docs/Apps$revision/797999",
+		"dateTime": "2015-05-06T02:40:51-07:00",
+		"url": "/vi/docs/Apps",
+		"title": "Apps",
+		"authorName": "teoli",
+		"authorProfileURL": "/vi/profiles/teoli"
+	},
+	{
 		"revisionURL": "/vi/docs/Apps/Quickstart$revision/798003",
 		"dateTime": "2015-05-06T02:40:51-07:00",
 		"url": "/vi/docs/Apps/Quickstart",
@@ -5788,14 +5812,6 @@
 		"dateTime": "2015-05-06T02:40:51-07:00",
 		"url": "/vi/docs/Web/Apps/Quickstart",
 		"title": "Quickstart",
-		"authorName": "teoli",
-		"authorProfileURL": "/vi/profiles/teoli"
-	},
-	{
-		"revisionURL": "/vi/docs/Apps$revision/797999",
-		"dateTime": "2015-05-06T02:40:51-07:00",
-		"url": "/vi/docs/Apps",
-		"title": "Apps",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
@@ -6288,17 +6304,17 @@
 		"authorProfileURL": "/vi/profiles/rebloor"
 	},
 	{
-		"revisionURL": "/vi/docs/Web/CSS$revision/629665",
+		"revisionURL": "/vi/docs/Web/CSS/background-color$revision/629669",
 		"dateTime": "2014-07-01T00:45:22-07:00",
-		"url": "/vi/docs/Web/CSS",
-		"title": "CSS",
+		"url": "/vi/docs/Web/CSS/background-color",
+		"title": "background-color",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
-		"revisionURL": "/vi/docs/CSS$revision/629667",
+		"revisionURL": "/vi/docs/Web/CSS$revision/629665",
 		"dateTime": "2014-07-01T00:45:22-07:00",
-		"url": "/vi/docs/CSS",
+		"url": "/vi/docs/Web/CSS",
 		"title": "CSS",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
@@ -6312,10 +6328,10 @@
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
-		"revisionURL": "/vi/docs/Web/CSS/background-color$revision/629669",
+		"revisionURL": "/vi/docs/CSS$revision/629667",
 		"dateTime": "2014-07-01T00:45:22-07:00",
-		"url": "/vi/docs/Web/CSS/background-color",
-		"title": "background-color",
+		"url": "/vi/docs/CSS",
+		"title": "CSS",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
