@@ -1013,9 +1013,350 @@
 		}
 	},
 	{
+		"authorName": "PurpleLover",
+		"authorProfileURL": "/vi/profiles/PurpleLover",
+		"entries": [
+			{
+				"revisionURL": "/vi/docs/Learn/JavaScript/First_steps/Math$revision/1423914",
+				"dateTime": "2018-10-07T23:06:14.446770-07:00",
+				"url": "/vi/docs/Learn/JavaScript/First_steps/Math",
+				"title": "Toán học cơ bản trong JavaScript — số và toán tử"
+			},
+			{
+				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/Operand$revision/1423911",
+				"dateTime": "2018-10-07T22:58:32.921689-07:00",
+				"url": "/vi/docs/Tu-dien-thuat-ngu/Operand",
+				"title": "Toán hạng"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/JavaScript/First_steps/Math$revision/1423886",
+				"dateTime": "2018-10-07T19:28:50.930792-07:00",
+				"url": "/vi/docs/Learn/JavaScript/First_steps/Math",
+				"title": "Toán học cơ bản trong JavaScript — số và toán tử"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/JavaScript/First_steps/Math$revision/1423483",
+				"dateTime": "2018-10-06T09:15:20.258499-07:00",
+				"url": "/vi/docs/Learn/JavaScript/First_steps/Math",
+				"title": "Toán học cơ bản trong JavaScript — số và toán tử"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators$revision/1422772",
+				"dateTime": "2018-10-03T19:47:09.099629-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators",
+				"title": "Toán tử số học"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/S%E1%BA%AFp_x%E1%BA%BFp$revision/1406282",
+				"dateTime": "2018-08-20T00:05:53.718931-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/S%E1%BA%AFp_x%E1%BA%BFp",
+				"title": "Array.prototype.sort()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Functions/Arrow_functions$revision/1406276",
+				"dateTime": "2018-08-19T23:45:52.655400-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Functions/Arrow_functions",
+				"title": "Hàm rút gọn"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Operators/Assignment_Operators$revision/1405431",
+				"dateTime": "2018-08-17T01:58:56.704818-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Assignment_Operators",
+				"title": "Toán tử gán"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators$revision/1405399",
+				"dateTime": "2018-08-17T01:12:55.754828-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators",
+				"title": "Toán tử số học"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators$revision/1405374",
+				"dateTime": "2018-08-17T00:11:56.273558-07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators",
+				"title": "Biểu thức và các toán tử"
+			},
+			{
+				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/XML$revision/1405362",
+				"dateTime": "2018-08-16T23:30:29.322248-07:00",
+				"url": "/vi/docs/Tu-dien-thuat-ngu/XML",
+				"title": "XML"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators$revision/1404131",
+				"dateTime": "2018-08-09T19:16:47.859749-07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators",
+				"title": "Biểu thức và các toán tử"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators$revision/1403939",
+				"dateTime": "2018-08-09T03:55:28.895167-07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators",
+				"title": "Biểu thức và các toán tử"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators$revision/1403891",
+				"dateTime": "2018-08-08T23:53:59.062919-07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators",
+				"title": "Biểu thức và các toán tử"
+			},
+			{
+				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/XML$revision/1402919",
+				"dateTime": "2018-08-02T20:18:02.471480-07:00",
+				"url": "/vi/docs/Tu-dien-thuat-ngu/XML",
+				"title": "XML"
+			},
+			{
+				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/AJAX$revision/1402918",
+				"dateTime": "2018-08-02T19:45:08.169800-07:00",
+				"url": "/vi/docs/Tu-dien-thuat-ngu/AJAX",
+				"title": "AJAX"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs/mongoose$revision/1402915",
+				"dateTime": "2018-08-02T19:13:01.247113-07:00",
+				"url": "/vi/docs/Learn/Server-side/Express_Nodejs/mongoose",
+				"title": "Hướng dẫn Express Phần 3: Sử dụng Database (với Mongoose)"
+			},
+			{
+				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/SVG$revision/1402783",
+				"dateTime": "2018-08-01T20:23:40.410706-07:00",
+				"url": "/vi/docs/Tu-dien-thuat-ngu/SVG",
+				"title": "SVG"
+			},
+			{
+				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/SVG$revision/1402178",
+				"dateTime": "2018-07-29T23:05:22.617888-07:00",
+				"url": "/vi/docs/Tu-dien-thuat-ngu/SVG",
+				"title": "SVG"
+			},
+			{
+				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/SVG$revision/1402176",
+				"dateTime": "2018-07-29T23:01:34.433462-07:00",
+				"url": "/vi/docs/Tu-dien-thuat-ngu/SVG",
+				"title": "SVG"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/Dealing_with_files$revision/1397849",
+				"dateTime": "2018-07-21T10:01:20.481161-07:00",
+				"url": "/vi/docs/Learn/Getting_started_with_the_web/Dealing_with_files",
+				"title": "Làm việc với các tập tin"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/HTML_basics$revision/1397846",
+				"dateTime": "2018-07-21T09:34:28.245989-07:00",
+				"url": "/vi/docs/Learn/Getting_started_with_the_web/HTML_basics",
+				"title": "HTML basics"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web$revision/1397378",
+				"dateTime": "2018-07-20T00:20:45.609572-07:00",
+				"url": "/vi/docs/Learn/Getting_started_with_the_web",
+				"title": "Bắt đầu với Web"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/C%C3%A0i_%C4%91%E1%BA%B7t_c%C3%A1c_ph%E1%BA%A7n_m%E1%BB%81m_c%C6%A1_b%E1%BA%A3n$revision/1397376",
+				"dateTime": "2018-07-20T00:11:53.701099-07:00",
+				"url": "/vi/docs/Learn/Getting_started_with_the_web/C%C3%A0i_%C4%91%E1%BA%B7t_c%C3%A1c_ph%E1%BA%A7n_m%E1%BB%81m_c%C6%A1_b%E1%BA%A3n",
+				"title": "Cài đặt các phần mềm cơ bản"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Functions/Arrow_functions$revision/1397370",
+				"dateTime": "2018-07-19T23:43:23.611343-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Functions/Arrow_functions",
+				"title": "Hàm rút gọn"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/S%E1%BA%AFp_x%E1%BA%BFp$revision/1396125",
+				"dateTime": "2018-07-14T04:20:49.882912-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/S%E1%BA%AFp_x%E1%BA%BFp",
+				"title": "Array.prototype.sort()"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like$revision/1395572",
+				"dateTime": "2018-07-13T02:09:11.245644-07:00",
+				"url": "/vi/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like",
+				"title": "Trang web của bạn sẽ trông như thế nào?"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like$revision/1395568",
+				"dateTime": "2018-07-13T02:07:42.078204-07:00",
+				"url": "/vi/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like",
+				"title": "What will your website look like?"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Functions/Arrow_functions$revision/1395561",
+				"dateTime": "2018-07-13T01:53:23.432310-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Functions/Arrow_functions",
+				"title": "Hàm rút gọn"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Contribute/Howto/Do_an_editorial_review$revision/1395001",
+				"dateTime": "2018-07-11T00:32:35.318869-07:00",
+				"url": "/vi/docs/MDN/Contribute/Howto/Do_an_editorial_review",
+				"title": "How to do an editorial review"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Feedback$revision/1394508",
+				"dateTime": "2018-07-09T03:32:58.757741-07:00",
+				"url": "/vi/docs/MDN/Feedback",
+				"title": "Gửi phản hồi về MDN"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Functions/Arrow_functions$revision/1393695",
+				"dateTime": "2018-07-04T23:25:50.558183-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Functions/Arrow_functions",
+				"title": "Hàm rút gọn"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript$revision/1393576",
+				"dateTime": "2018-07-04T08:28:59.235757-07:00",
+				"url": "/vi/docs/Web/JavaScript",
+				"title": "JavaScript"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website$revision/1393062",
+				"dateTime": "2018-07-01T21:54:36.886474-07:00",
+				"url": "/vi/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website",
+				"title": "Express Tutorial: The Local Library website"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Feedback$revision/1393047",
+				"dateTime": "2018-07-01T19:22:23.871516-07:00",
+				"url": "/vi/docs/MDN/Feedback",
+				"title": "Send feedback about MDN"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs/mongoose$revision/1392220",
+				"dateTime": "2018-06-29T03:36:59.470553-07:00",
+				"url": "/vi/docs/Learn/Server-side/Express_Nodejs/mongoose",
+				"title": "Hướng dẫn Express Phần 3: Sử dụng Database (với Mongoose)"
+			}
+		],
+		"articles": [
+			{
+				"url": "/vi/docs/Learn/JavaScript/First_steps/Math",
+				"title": "Toán học cơ bản trong JavaScript — số và toán tử",
+				"revisions": 3
+			},
+			{
+				"url": "/vi/docs/Tu-dien-thuat-ngu/Operand",
+				"title": "Toán hạng",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators",
+				"title": "Toán tử số học",
+				"revisions": 2
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/S%E1%BA%AFp_x%E1%BA%BFp",
+				"title": "Array.prototype.sort()",
+				"revisions": 2
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Functions/Arrow_functions",
+				"title": "Hàm rút gọn",
+				"revisions": 4
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Assignment_Operators",
+				"title": "Toán tử gán",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators",
+				"title": "Biểu thức và các toán tử",
+				"revisions": 4
+			},
+			{
+				"url": "/vi/docs/Tu-dien-thuat-ngu/XML",
+				"title": "XML",
+				"revisions": 2
+			},
+			{
+				"url": "/vi/docs/Tu-dien-thuat-ngu/AJAX",
+				"title": "AJAX",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Learn/Server-side/Express_Nodejs/mongoose",
+				"title": "Hướng dẫn Express Phần 3: Sử dụng Database (với Mongoose)",
+				"revisions": 2
+			},
+			{
+				"url": "/vi/docs/Tu-dien-thuat-ngu/SVG",
+				"title": "SVG",
+				"revisions": 3
+			},
+			{
+				"url": "/vi/docs/Learn/Getting_started_with_the_web/Dealing_with_files",
+				"title": "Làm việc với các tập tin",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Learn/Getting_started_with_the_web/HTML_basics",
+				"title": "HTML basics",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Learn/Getting_started_with_the_web",
+				"title": "Bắt đầu với Web",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Learn/Getting_started_with_the_web/C%C3%A0i_%C4%91%E1%BA%B7t_c%C3%A1c_ph%E1%BA%A7n_m%E1%BB%81m_c%C6%A1_b%E1%BA%A3n",
+				"title": "Cài đặt các phần mềm cơ bản",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like",
+				"title": "Trang web của bạn sẽ trông như thế nào?",
+				"revisions": 2
+			},
+			{
+				"url": "/vi/docs/MDN/Contribute/Howto/Do_an_editorial_review",
+				"title": "How to do an editorial review",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/MDN/Feedback",
+				"title": "Gửi phản hồi về MDN",
+				"revisions": 2
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript",
+				"title": "JavaScript",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website",
+				"title": "Express Tutorial: The Local Library website",
+				"revisions": 1
+			}
+		],
+		"articlesCount": 20,
+		"lastestEntryTime": "2018-10-07T23:06:14.446770-07:00",
+		"rank": 4,
+		"profile": {
+			"fullName": "",
+			"location": "",
+			"org": "",
+			"avatar": "https://secure.gravatar.com/avatar/7525ec0d75a8d619be0075e3092e214e?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
+			"joinDate": "2018-06-27T21:33:02.786000-07:00",
+			"links": []
+		}
+	},
+	{
 		"authorName": "trongthanh",
 		"authorProfileURL": "/vi/profiles/trongthanh",
 		"entries": [
+			{
+				"revisionURL": "/vi/docs/MDN/Contribute/Localize/dich_trang$revision/1423901",
+				"dateTime": "2018-10-07T21:05:28.886654-07:00",
+				"url": "/vi/docs/MDN/Contribute/Localize/dich_trang",
+				"title": "Dịch trang MDN"
+			},
 			{
 				"revisionURL": "/vi/docs/MDN/Doc_status/Learn$revision/1422783",
 				"dateTime": "2018-10-03T21:59:23.410398-07:00",
@@ -1235,6 +1576,11 @@
 		],
 		"articles": [
 			{
+				"url": "/vi/docs/MDN/Contribute/Localize/dich_trang",
+				"title": "Dịch trang MDN",
+				"revisions": 3
+			},
+			{
 				"url": "/vi/docs/MDN/Doc_status/Learn",
 				"title": "Tiến độ dịch phần Học tập",
 				"revisions": 1
@@ -1290,11 +1636,6 @@
 				"revisions": 5
 			},
 			{
-				"url": "/vi/docs/MDN/Contribute/Localize/dich_trang",
-				"title": "Dịch trang MDN",
-				"revisions": 2
-			},
-			{
 				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach",
 				"title": "Array.prototype.forEach()",
 				"revisions": 1
@@ -1336,8 +1677,8 @@
 			}
 		],
 		"articlesCount": 20,
-		"lastestEntryTime": "2018-10-03T21:59:23.410398-07:00",
-		"rank": 4,
+		"lastestEntryTime": "2018-10-07T21:05:28.886654-07:00",
+		"rank": 5,
 		"profile": {
 			"fullName": "Thanh Tran",
 			"location": "Ho Chi Minh city, Vietnam",
@@ -1358,318 +1699,6 @@
 					"url": "https://discourse.mozilla.org/u/trongthanh"
 				}
 			]
-		}
-	},
-	{
-		"authorName": "PurpleLover",
-		"authorProfileURL": "/vi/profiles/PurpleLover",
-		"entries": [
-			{
-				"revisionURL": "/vi/docs/Learn/JavaScript/First_steps/Math$revision/1423483",
-				"dateTime": "2018-10-06T09:15:20.258499-07:00",
-				"url": "/vi/docs/Learn/JavaScript/First_steps/Math",
-				"title": "Toán học cơ bản trong JavaScript — số và toán tử"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators$revision/1422772",
-				"dateTime": "2018-10-03T19:47:09.099629-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators",
-				"title": "Toán tử số học"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/S%E1%BA%AFp_x%E1%BA%BFp$revision/1406282",
-				"dateTime": "2018-08-20T00:05:53.718931-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/S%E1%BA%AFp_x%E1%BA%BFp",
-				"title": "Array.prototype.sort()"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Functions/Arrow_functions$revision/1406276",
-				"dateTime": "2018-08-19T23:45:52.655400-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Functions/Arrow_functions",
-				"title": "Hàm rút gọn"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Operators/Assignment_Operators$revision/1405431",
-				"dateTime": "2018-08-17T01:58:56.704818-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Assignment_Operators",
-				"title": "Toán tử gán"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators$revision/1405399",
-				"dateTime": "2018-08-17T01:12:55.754828-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators",
-				"title": "Toán tử số học"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators$revision/1405374",
-				"dateTime": "2018-08-17T00:11:56.273558-07:00",
-				"url": "/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators",
-				"title": "Biểu thức và các toán tử"
-			},
-			{
-				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/XML$revision/1405362",
-				"dateTime": "2018-08-16T23:30:29.322248-07:00",
-				"url": "/vi/docs/Tu-dien-thuat-ngu/XML",
-				"title": "XML"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators$revision/1404131",
-				"dateTime": "2018-08-09T19:16:47.859749-07:00",
-				"url": "/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators",
-				"title": "Biểu thức và các toán tử"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators$revision/1403939",
-				"dateTime": "2018-08-09T03:55:28.895167-07:00",
-				"url": "/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators",
-				"title": "Biểu thức và các toán tử"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators$revision/1403891",
-				"dateTime": "2018-08-08T23:53:59.062919-07:00",
-				"url": "/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators",
-				"title": "Biểu thức và các toán tử"
-			},
-			{
-				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/XML$revision/1402919",
-				"dateTime": "2018-08-02T20:18:02.471480-07:00",
-				"url": "/vi/docs/Tu-dien-thuat-ngu/XML",
-				"title": "XML"
-			},
-			{
-				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/AJAX$revision/1402918",
-				"dateTime": "2018-08-02T19:45:08.169800-07:00",
-				"url": "/vi/docs/Tu-dien-thuat-ngu/AJAX",
-				"title": "AJAX"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs/mongoose$revision/1402915",
-				"dateTime": "2018-08-02T19:13:01.247113-07:00",
-				"url": "/vi/docs/Learn/Server-side/Express_Nodejs/mongoose",
-				"title": "Hướng dẫn Express Phần 3: Sử dụng Database (với Mongoose)"
-			},
-			{
-				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/SVG$revision/1402783",
-				"dateTime": "2018-08-01T20:23:40.410706-07:00",
-				"url": "/vi/docs/Tu-dien-thuat-ngu/SVG",
-				"title": "SVG"
-			},
-			{
-				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/SVG$revision/1402178",
-				"dateTime": "2018-07-29T23:05:22.617888-07:00",
-				"url": "/vi/docs/Tu-dien-thuat-ngu/SVG",
-				"title": "SVG"
-			},
-			{
-				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/SVG$revision/1402176",
-				"dateTime": "2018-07-29T23:01:34.433462-07:00",
-				"url": "/vi/docs/Tu-dien-thuat-ngu/SVG",
-				"title": "SVG"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/Dealing_with_files$revision/1397849",
-				"dateTime": "2018-07-21T10:01:20.481161-07:00",
-				"url": "/vi/docs/Learn/Getting_started_with_the_web/Dealing_with_files",
-				"title": "Làm việc với các tập tin"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/HTML_basics$revision/1397846",
-				"dateTime": "2018-07-21T09:34:28.245989-07:00",
-				"url": "/vi/docs/Learn/Getting_started_with_the_web/HTML_basics",
-				"title": "HTML basics"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web$revision/1397378",
-				"dateTime": "2018-07-20T00:20:45.609572-07:00",
-				"url": "/vi/docs/Learn/Getting_started_with_the_web",
-				"title": "Bắt đầu với Web"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/C%C3%A0i_%C4%91%E1%BA%B7t_c%C3%A1c_ph%E1%BA%A7n_m%E1%BB%81m_c%C6%A1_b%E1%BA%A3n$revision/1397376",
-				"dateTime": "2018-07-20T00:11:53.701099-07:00",
-				"url": "/vi/docs/Learn/Getting_started_with_the_web/C%C3%A0i_%C4%91%E1%BA%B7t_c%C3%A1c_ph%E1%BA%A7n_m%E1%BB%81m_c%C6%A1_b%E1%BA%A3n",
-				"title": "Cài đặt các phần mềm cơ bản"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Functions/Arrow_functions$revision/1397370",
-				"dateTime": "2018-07-19T23:43:23.611343-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Functions/Arrow_functions",
-				"title": "Hàm rút gọn"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/S%E1%BA%AFp_x%E1%BA%BFp$revision/1396125",
-				"dateTime": "2018-07-14T04:20:49.882912-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/S%E1%BA%AFp_x%E1%BA%BFp",
-				"title": "Array.prototype.sort()"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like$revision/1395572",
-				"dateTime": "2018-07-13T02:09:11.245644-07:00",
-				"url": "/vi/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like",
-				"title": "Trang web của bạn sẽ trông như thế nào?"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like$revision/1395568",
-				"dateTime": "2018-07-13T02:07:42.078204-07:00",
-				"url": "/vi/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like",
-				"title": "What will your website look like?"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Functions/Arrow_functions$revision/1395561",
-				"dateTime": "2018-07-13T01:53:23.432310-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Functions/Arrow_functions",
-				"title": "Hàm rút gọn"
-			},
-			{
-				"revisionURL": "/vi/docs/MDN/Contribute/Howto/Do_an_editorial_review$revision/1395001",
-				"dateTime": "2018-07-11T00:32:35.318869-07:00",
-				"url": "/vi/docs/MDN/Contribute/Howto/Do_an_editorial_review",
-				"title": "How to do an editorial review"
-			},
-			{
-				"revisionURL": "/vi/docs/MDN/Feedback$revision/1394508",
-				"dateTime": "2018-07-09T03:32:58.757741-07:00",
-				"url": "/vi/docs/MDN/Feedback",
-				"title": "Gửi phản hồi về MDN"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Functions/Arrow_functions$revision/1393695",
-				"dateTime": "2018-07-04T23:25:50.558183-07:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Functions/Arrow_functions",
-				"title": "Hàm rút gọn"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript$revision/1393576",
-				"dateTime": "2018-07-04T08:28:59.235757-07:00",
-				"url": "/vi/docs/Web/JavaScript",
-				"title": "JavaScript"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website$revision/1393062",
-				"dateTime": "2018-07-01T21:54:36.886474-07:00",
-				"url": "/vi/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website",
-				"title": "Express Tutorial: The Local Library website"
-			},
-			{
-				"revisionURL": "/vi/docs/MDN/Feedback$revision/1393047",
-				"dateTime": "2018-07-01T19:22:23.871516-07:00",
-				"url": "/vi/docs/MDN/Feedback",
-				"title": "Send feedback about MDN"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs/mongoose$revision/1392220",
-				"dateTime": "2018-06-29T03:36:59.470553-07:00",
-				"url": "/vi/docs/Learn/Server-side/Express_Nodejs/mongoose",
-				"title": "Hướng dẫn Express Phần 3: Sử dụng Database (với Mongoose)"
-			}
-		],
-		"articles": [
-			{
-				"url": "/vi/docs/Learn/JavaScript/First_steps/Math",
-				"title": "Toán học cơ bản trong JavaScript — số và toán tử",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators",
-				"title": "Toán tử số học",
-				"revisions": 2
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/S%E1%BA%AFp_x%E1%BA%BFp",
-				"title": "Array.prototype.sort()",
-				"revisions": 2
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Functions/Arrow_functions",
-				"title": "Hàm rút gọn",
-				"revisions": 4
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Assignment_Operators",
-				"title": "Toán tử gán",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators",
-				"title": "Biểu thức và các toán tử",
-				"revisions": 4
-			},
-			{
-				"url": "/vi/docs/Tu-dien-thuat-ngu/XML",
-				"title": "XML",
-				"revisions": 2
-			},
-			{
-				"url": "/vi/docs/Tu-dien-thuat-ngu/AJAX",
-				"title": "AJAX",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Learn/Server-side/Express_Nodejs/mongoose",
-				"title": "Hướng dẫn Express Phần 3: Sử dụng Database (với Mongoose)",
-				"revisions": 2
-			},
-			{
-				"url": "/vi/docs/Tu-dien-thuat-ngu/SVG",
-				"title": "SVG",
-				"revisions": 3
-			},
-			{
-				"url": "/vi/docs/Learn/Getting_started_with_the_web/Dealing_with_files",
-				"title": "Làm việc với các tập tin",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Learn/Getting_started_with_the_web/HTML_basics",
-				"title": "HTML basics",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Learn/Getting_started_with_the_web",
-				"title": "Bắt đầu với Web",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Learn/Getting_started_with_the_web/C%C3%A0i_%C4%91%E1%BA%B7t_c%C3%A1c_ph%E1%BA%A7n_m%E1%BB%81m_c%C6%A1_b%E1%BA%A3n",
-				"title": "Cài đặt các phần mềm cơ bản",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like",
-				"title": "Trang web của bạn sẽ trông như thế nào?",
-				"revisions": 2
-			},
-			{
-				"url": "/vi/docs/MDN/Contribute/Howto/Do_an_editorial_review",
-				"title": "How to do an editorial review",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/MDN/Feedback",
-				"title": "Gửi phản hồi về MDN",
-				"revisions": 2
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript",
-				"title": "JavaScript",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website",
-				"title": "Express Tutorial: The Local Library website",
-				"revisions": 1
-			}
-		],
-		"articlesCount": 19,
-		"lastestEntryTime": "2018-10-06T09:15:20.258499-07:00",
-		"rank": 5,
-		"profile": {
-			"fullName": "",
-			"location": "",
-			"org": "",
-			"avatar": "https://secure.gravatar.com/avatar/7525ec0d75a8d619be0075e3092e214e?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
-			"joinDate": "2018-06-27T21:33:02.786000-07:00",
-			"links": []
 		}
 	},
 	{
@@ -2847,6 +2876,24 @@
 		"authorProfileURL": "/vi/profiles/quytran",
 		"entries": [
 			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1423892",
+				"dateTime": "2018-10-07T20:31:58.981216-07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
+				"title": "Working with objects"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1423851",
+				"dateTime": "2018-10-07T09:43:10.593114-07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
+				"title": "Working with objects"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1423812",
+				"dateTime": "2018-10-07T03:47:51.503096-07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
+				"title": "Working with objects"
+			},
+			{
 				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1423432",
 				"dateTime": "2018-10-06T06:37:30.848482-07:00",
 				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
@@ -2947,7 +2994,7 @@
 			{
 				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
 				"title": "Working with objects",
-				"revisions": 3
+				"revisions": 6
 			},
 			{
 				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators",
@@ -2986,7 +3033,7 @@
 			}
 		],
 		"articlesCount": 8,
-		"lastestEntryTime": "2018-10-06T06:37:30.848482-07:00",
+		"lastestEntryTime": "2018-10-07T20:31:58.981216-07:00",
 		"rank": 12,
 		"profile": {
 			"fullName": "Quy",
