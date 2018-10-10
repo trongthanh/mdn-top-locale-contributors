@@ -2876,6 +2876,18 @@
 		"authorProfileURL": "/vi/profiles/quytran",
 		"entries": [
 			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1425318",
+				"dateTime": "2018-10-09T20:00:49.301514-07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
+				"title": "Working with objects"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1425258",
+				"dateTime": "2018-10-09T09:16:31.788746-07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
+				"title": "Working with objects"
+			},
+			{
 				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1425173",
 				"dateTime": "2018-10-08T23:03:36.287817-07:00",
 				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
@@ -3006,7 +3018,7 @@
 			{
 				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
 				"title": "Working with objects",
-				"revisions": 8
+				"revisions": 10
 			},
 			{
 				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators",
@@ -3045,7 +3057,7 @@
 			}
 		],
 		"articlesCount": 8,
-		"lastestEntryTime": "2018-10-08T23:03:36.287817-07:00",
+		"lastestEntryTime": "2018-10-09T20:00:49.301514-07:00",
 		"rank": 12,
 		"profile": {
 			"fullName": "Quy",
