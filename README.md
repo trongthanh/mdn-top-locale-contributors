@@ -1,9 +1,9 @@
-# MDN VI l10n Top Contributors
-[![Travis CI build](https://api.travis-ci.org/trongthanh/mdn-top-locale-contributors.svg?branch=master)](https://travis-ci.org/trongthanh/mdn-top-locale-contributors)
+# MDN Vietnam Minisite
+[![Travis CI build](https://api.travis-ci.org/mdnvietnam/mdnvietnam.github.io.svg?branch=develop)](https://travis-ci.org/mdnvietnam/mdnvietnam.github.io)
 
 Inspired by git-awards.com and commits.top websites, I created this microsite to honor top contributors to [MDN](https://developer.mozilla.org/) for the [Vietnamese locale](https://developer.mozilla.org/en-US/dashboards/revisions?locale=vi), to encourage more Vietnamese language speakers will join the effort to make MDN the best reference and guide for Web development among Vietnamese developers community.
 
-Live site: [https://mdn-top-vi-contributors.netlify.com](https://mdn-top-vi-contributors.netlify.com)
+Live site: [https://mdnvietnam.github.io/](https://mdnvietnam.github.io/)
 
 ## TODO
 
@@ -36,4 +36,4 @@ gatsby develop
 - Coffee (with milk)
 
 ---
-© 2018 Tran Trong Thanh. Licensed under MIT license.
+© 2018 [Tran Trong Thanh](https://github.com/trongthanh). Licensed under MIT license.

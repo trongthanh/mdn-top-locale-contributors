@@ -1,20 +1,28 @@
 language: node_js
 node_js:
   - "8"
+if: branch = develop
 script:
   # Convert shallow clone to full repo so that we can push
   - git fetch --unshallow || true
-  - git checkout master
+  - git checkout develop
   # Scrape for changes, if there are changes, new json files are written
   - yarn scrape
   # Stage changed files and commit (if any)
-  - git commit -a -m "Scraped on `date`"
+  - git commit -a -m "Auto scraped on `date`"
+  # Build static site to public folder
+  - yarn build
+after_success:
+  # Push data *.json back to develop
+  - git remote add origin-writable https://${GITHUB_TOKEN}@github.com/mdnvietnam/mdnvietnam.github.io.git > /dev/null 2>&1
+  - git push --quiet --set-upstream origin-writable develop
 deploy:
   provider: pages
-  skip-cleanup: true
+  local-dir: /public
   github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
-  keep-history: true
+  keep-history: false # replace branch with squashed content
   target-branch: master
   on:
-    branch: master
+    branch: develop
+
 sudo: false
