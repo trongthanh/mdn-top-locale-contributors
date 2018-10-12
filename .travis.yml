@@ -9,7 +9,7 @@ script:
   # Scrape for changes, if there are changes, new json files are written
   - yarn scrape
   # Stage changed files and commit (if any)
-  - git commit -a -m "Auto scraped on `date`"
+  - git commit -a -m "Auto scraped on `date`" || true
   # Build static site to public folder
   - yarn build
 after_success:
@@ -18,7 +18,7 @@ after_success:
   - git push --quiet --set-upstream origin-writable develop
 deploy:
   provider: pages
-  local-dir: /public
+  local-dir: public/
   github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep-history: false # replace branch with squashed content
   target-branch: master

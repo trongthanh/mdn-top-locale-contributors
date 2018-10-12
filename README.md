@@ -11,9 +11,9 @@ Live site: [https://mdnvietnam.github.io/](https://mdnvietnam.github.io/)
 - [X] Paginate index page with list of authors (sorted by number of articles)
 - [X] Add about page
 - [X] Rewrite scrape algorithm without lowdb (write json directly)
-- [X] Implement incremental scraping (WIP)
+- [X] Implement incremental scraping
 - [X] Store ranking to data json (currently calculated from order and page offset)
-- [ ] Fully automated with Netlify and trigger
+- [X] Fully automated with Travis CI
 - [ ] i18n with Vietnamese & English
 - [ ] Implement new authors page but sorted with latest authors and enclosed entries
 
