@@ -15,10 +15,11 @@ script:
 after_success:
   # Push data *.json back to develop
   - git remote add origin-writable https://${GITHUB_TOKEN}@github.com/mdnvietnam/mdnvietnam.github.io.git > /dev/null 2>&1
-  - git push --quiet --set-upstream origin-writable develop
+  - git push --set-upstream origin-writable develop
 deploy:
   provider: pages
   local-dir: public/
+  skip-cleanup: true
   github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep-history: false # replace branch with squashed content
   target-branch: master
