@@ -383,6 +383,24 @@
 		"authorProfileURL": "/vi/profiles/wbamberg",
 		"entries": [
 			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object/observe$revision/1426951",
+				"dateTime": "2018-10-15T21:19:22.306558-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object/observe",
+				"title": "Object.observe()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Operators/Assignment_Operators$revision/1426945",
+				"dateTime": "2018-10-15T21:18:45.277611-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Assignment_Operators",
+				"title": "Toán tử gán"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array$revision/1426906",
+				"dateTime": "2018-10-15T19:14:54.431757-07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array",
+				"title": "Array"
+			},
+			{
 				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu$revision/1426208",
 				"dateTime": "2018-10-12T17:27:36.296673-07:00",
 				"url": "/vi/docs/Tu-dien-thuat-ngu",
@@ -535,6 +553,21 @@
 		],
 		"articles": [
 			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Object/observe",
+				"title": "Object.observe()",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Assignment_Operators",
+				"title": "Toán tử gán",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array",
+				"title": "Array",
+				"revisions": 1
+			},
+			{
 				"url": "/vi/docs/Tu-dien-thuat-ngu",
 				"title": "Từ điển thuật ngữ",
 				"revisions": 2
@@ -650,8 +683,8 @@
 				"revisions": 1
 			}
 		],
-		"articlesCount": 23,
-		"lastestEntryTime": "2018-10-12T17:27:36.296673-07:00",
+		"articlesCount": 26,
+		"lastestEntryTime": "2018-10-15T21:19:22.306558-07:00",
 		"rank": 2,
 		"profile": {
 			"fullName": "",
@@ -1034,6 +1067,12 @@
 		"authorProfileURL": "/vi/profiles/trongthanh",
 		"entries": [
 			{
+				"revisionURL": "/vi/docs/MDN/Contribute/Localize/dich_trang$revision/1426916",
+				"dateTime": "2018-10-15T19:49:51.357069-07:00",
+				"url": "/vi/docs/MDN/Contribute/Localize/dich_trang",
+				"title": "Dịch trang MDN"
+			},
+			{
 				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Using_promises$revision/1426527",
 				"dateTime": "2018-10-14T03:30:54.253990-07:00",
 				"url": "/vi/docs/Web/JavaScript/Guide/Using_promises",
@@ -1270,14 +1309,14 @@
 		],
 		"articles": [
 			{
+				"url": "/vi/docs/MDN/Contribute/Localize/dich_trang",
+				"title": "Dịch trang MDN",
+				"revisions": 4
+			},
+			{
 				"url": "/vi/docs/Web/JavaScript/Guide/Using_promises",
 				"title": "Sử dụng Promise",
 				"revisions": 2
-			},
-			{
-				"url": "/vi/docs/MDN/Contribute/Localize/dich_trang",
-				"title": "Dịch trang MDN",
-				"revisions": 3
 			},
 			{
 				"url": "/vi/docs/MDN/Doc_status/Learn",
@@ -1376,7 +1415,7 @@
 			}
 		],
 		"articlesCount": 21,
-		"lastestEntryTime": "2018-10-14T03:30:54.253990-07:00",
+		"lastestEntryTime": "2018-10-15T19:49:51.357069-07:00",
 		"rank": 4,
 		"profile": {
 			"fullName": "Thanh Tran",
@@ -2926,6 +2965,24 @@
 		"authorProfileURL": "/vi/profiles/quytran",
 		"entries": [
 			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1426918",
+				"dateTime": "2018-10-15T19:51:00.997464-07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
+				"title": "Working with objects"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1426910",
+				"dateTime": "2018-10-15T19:32:53.697266-07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
+				"title": "Working with objects"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1426804",
+				"dateTime": "2018-10-15T09:11:01.197649-07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
+				"title": "Working with objects"
+			},
+			{
 				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1426258",
 				"dateTime": "2018-10-12T22:56:02.602291-07:00",
 				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
@@ -3104,7 +3161,7 @@
 			{
 				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
 				"title": "Working with objects",
-				"revisions": 16
+				"revisions": 19
 			},
 			{
 				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators",
@@ -3143,7 +3200,7 @@
 			}
 		],
 		"articlesCount": 8,
-		"lastestEntryTime": "2018-10-12T22:56:02.602291-07:00",
+		"lastestEntryTime": "2018-10-15T19:51:00.997464-07:00",
 		"rank": 12,
 		"profile": {
 			"fullName": "Quy",
@@ -6655,6 +6712,83 @@
 		}
 	},
 	{
+		"authorName": "phd2d",
+		"authorProfileURL": "/vi/profiles/phd2d",
+		"entries": [
+			{
+				"revisionURL": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works$revision/1426964",
+				"dateTime": "2018-10-15T23:29:28.625876-07:00",
+				"url": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works",
+				"title": "CSS hoạt động ra sao?"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works$revision/1419711",
+				"dateTime": "2018-09-23T20:52:48.972395-07:00",
+				"url": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works",
+				"title": "CSS hoạt động ra sao?"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works$revision/1419707",
+				"dateTime": "2018-09-23T20:44:52.218382-07:00",
+				"url": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works",
+				"title": "CSS hoạt động ra sao?"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works$revision/1418583",
+				"dateTime": "2018-09-21T01:31:32.349844-07:00",
+				"url": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works",
+				"title": "CSS hoạt động ra sao?"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works$revision/1415301",
+				"dateTime": "2018-09-20T03:05:02.432686-07:00",
+				"url": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works",
+				"title": "How CSS works"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works$revision/1415192",
+				"dateTime": "2018-09-20T01:36:25.582054-07:00",
+				"url": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works",
+				"title": "How CSS works"
+			}
+		],
+		"articles": [
+			{
+				"url": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works",
+				"title": "CSS hoạt động ra sao?",
+				"revisions": 6
+			}
+		],
+		"articlesCount": 1,
+		"lastestEntryTime": "2018-10-15T23:29:28.625876-07:00",
+		"rank": 63,
+		"profile": {
+			"fullName": "Brian",
+			"location": "Vietnam",
+			"org": "NA",
+			"avatar": "https://secure.gravatar.com/avatar/d96ffc13a70ed78b2024af9cda889bf2?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
+			"joinDate": "2018-09-20T01:15:50.230000-07:00",
+			"links": [
+				{
+					"type": "twitter",
+					"url": "https://twitter.com/phivh"
+				},
+				{
+					"type": "github",
+					"url": "https://github.com/phivh"
+				},
+				{
+					"type": "stack overflow",
+					"url": "https://stackoverflow.com/users/8278291/phd2d"
+				},
+				{
+					"type": "linkedin",
+					"url": "https://www.linkedin.com/in/phivh"
+				}
+			]
+		}
+	},
+	{
 		"authorName": "trantuan94",
 		"authorProfileURL": "/vi/profiles/trantuan94",
 		"entries": [
@@ -6680,7 +6814,7 @@
 		],
 		"articlesCount": 1,
 		"lastestEntryTime": "2018-10-14T19:41:37.220181-07:00",
-		"rank": 63,
+		"rank": 64,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -6716,7 +6850,7 @@
 		],
 		"articlesCount": 1,
 		"lastestEntryTime": "2018-09-28T05:22:33.639193-07:00",
-		"rank": 64,
+		"rank": 65,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -6746,7 +6880,7 @@
 		],
 		"articlesCount": 1,
 		"lastestEntryTime": "2018-09-27T23:17:48.058397-07:00",
-		"rank": 65,
+		"rank": 66,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -6776,7 +6910,7 @@
 		],
 		"articlesCount": 1,
 		"lastestEntryTime": "2018-09-27T20:51:57.672331-07:00",
-		"rank": 66,
+		"rank": 67,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -6817,7 +6951,7 @@
 		],
 		"articlesCount": 1,
 		"lastestEntryTime": "2018-09-26T13:17:30.053391-07:00",
-		"rank": 67,
+		"rank": 68,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -6828,77 +6962,6 @@
 				{
 					"type": "github",
 					"url": "https://github.com/tiikeri86"
-				}
-			]
-		}
-	},
-	{
-		"authorName": "phd2d",
-		"authorProfileURL": "/vi/profiles/phd2d",
-		"entries": [
-			{
-				"revisionURL": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works$revision/1419711",
-				"dateTime": "2018-09-23T20:52:48.972395-07:00",
-				"url": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works",
-				"title": "CSS hoạt động ra sao?"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works$revision/1419707",
-				"dateTime": "2018-09-23T20:44:52.218382-07:00",
-				"url": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works",
-				"title": "CSS hoạt động ra sao?"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works$revision/1418583",
-				"dateTime": "2018-09-21T01:31:32.349844-07:00",
-				"url": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works",
-				"title": "CSS hoạt động ra sao?"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works$revision/1415301",
-				"dateTime": "2018-09-20T03:05:02.432686-07:00",
-				"url": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works",
-				"title": "How CSS works"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works$revision/1415192",
-				"dateTime": "2018-09-20T01:36:25.582054-07:00",
-				"url": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works",
-				"title": "How CSS works"
-			}
-		],
-		"articles": [
-			{
-				"url": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works",
-				"title": "CSS hoạt động ra sao?",
-				"revisions": 5
-			}
-		],
-		"articlesCount": 1,
-		"lastestEntryTime": "2018-09-23T20:52:48.972395-07:00",
-		"rank": 68,
-		"profile": {
-			"fullName": "Brian",
-			"location": "Vietnam",
-			"org": "NA",
-			"avatar": "https://secure.gravatar.com/avatar/d96ffc13a70ed78b2024af9cda889bf2?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
-			"joinDate": "2018-09-20T01:15:50.230000-07:00",
-			"links": [
-				{
-					"type": "twitter",
-					"url": "https://twitter.com/phivh"
-				},
-				{
-					"type": "github",
-					"url": "https://github.com/phivh"
-				},
-				{
-					"type": "stack overflow",
-					"url": "https://stackoverflow.com/users/8278291/phd2d"
-				},
-				{
-					"type": "linkedin",
-					"url": "https://www.linkedin.com/in/phivh"
 				}
 			]
 		}
