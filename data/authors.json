@@ -1067,6 +1067,18 @@
 		"authorProfileURL": "/vi/profiles/trongthanh",
 		"entries": [
 			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Using_promises$revision/1427108",
+				"dateTime": "2018-10-16T23:57:09.185715-07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Using_promises",
+				"title": "Sử dụng Promise"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Using_promises$revision/1427041",
+				"dateTime": "2018-10-16T07:57:10.574069-07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Using_promises",
+				"title": "Sử dụng Promise"
+			},
+			{
 				"revisionURL": "/vi/docs/MDN/Contribute/Localize/dich_trang$revision/1426916",
 				"dateTime": "2018-10-15T19:49:51.357069-07:00",
 				"url": "/vi/docs/MDN/Contribute/Localize/dich_trang",
@@ -1309,14 +1321,14 @@
 		],
 		"articles": [
 			{
-				"url": "/vi/docs/MDN/Contribute/Localize/dich_trang",
-				"title": "Dịch trang MDN",
+				"url": "/vi/docs/Web/JavaScript/Guide/Using_promises",
+				"title": "Sử dụng Promise",
 				"revisions": 4
 			},
 			{
-				"url": "/vi/docs/Web/JavaScript/Guide/Using_promises",
-				"title": "Sử dụng Promise",
-				"revisions": 2
+				"url": "/vi/docs/MDN/Contribute/Localize/dich_trang",
+				"title": "Dịch trang MDN",
+				"revisions": 4
 			},
 			{
 				"url": "/vi/docs/MDN/Doc_status/Learn",
@@ -1415,7 +1427,7 @@
 			}
 		],
 		"articlesCount": 21,
-		"lastestEntryTime": "2018-10-15T19:49:51.357069-07:00",
+		"lastestEntryTime": "2018-10-16T23:57:09.185715-07:00",
 		"rank": 4,
 		"profile": {
 			"fullName": "Thanh Tran",
@@ -2965,6 +2977,18 @@
 		"authorProfileURL": "/vi/profiles/quytran",
 		"entries": [
 			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1427094",
+				"dateTime": "2018-10-16T20:30:51.696566-07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
+				"title": "Working with objects"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1427093",
+				"dateTime": "2018-10-16T20:26:08.542894-07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
+				"title": "Working with objects"
+			},
+			{
 				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1426918",
 				"dateTime": "2018-10-15T19:51:00.997464-07:00",
 				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
@@ -3161,7 +3185,7 @@
 			{
 				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
 				"title": "Working with objects",
-				"revisions": 19
+				"revisions": 21
 			},
 			{
 				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators",
@@ -3200,7 +3224,7 @@
 			}
 		],
 		"articlesCount": 8,
-		"lastestEntryTime": "2018-10-15T19:51:00.997464-07:00",
+		"lastestEntryTime": "2018-10-16T20:30:51.696566-07:00",
 		"rank": 12,
 		"profile": {
 			"fullName": "Quy",

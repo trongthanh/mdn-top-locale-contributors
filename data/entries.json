@@ -1,5 +1,37 @@
 [
 	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Guide/Using_promises$revision/1427108",
+		"dateTime": "2018-10-16T23:57:09.185715-07:00",
+		"url": "/vi/docs/Web/JavaScript/Guide/Using_promises",
+		"title": "Sử dụng Promise",
+		"authorName": "trongthanh",
+		"authorProfileURL": "/vi/profiles/trongthanh"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1427094",
+		"dateTime": "2018-10-16T20:30:51.696566-07:00",
+		"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
+		"title": "Working with objects",
+		"authorName": "quytran",
+		"authorProfileURL": "/vi/profiles/quytran"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1427093",
+		"dateTime": "2018-10-16T20:26:08.542894-07:00",
+		"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
+		"title": "Working with objects",
+		"authorName": "quytran",
+		"authorProfileURL": "/vi/profiles/quytran"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Guide/Using_promises$revision/1427041",
+		"dateTime": "2018-10-16T07:57:10.574069-07:00",
+		"url": "/vi/docs/Web/JavaScript/Guide/Using_promises",
+		"title": "Sử dụng Promise",
+		"authorName": "trongthanh",
+		"authorProfileURL": "/vi/profiles/trongthanh"
+	},
+	{
 		"revisionURL": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works$revision/1426964",
 		"dateTime": "2018-10-15T23:29:28.625876-07:00",
 		"url": "/vi/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works",
@@ -4952,18 +4984,10 @@
 		"authorProfileURL": "/vi/profiles/tieppt"
 	},
 	{
-		"revisionURL": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager$revision/1095245",
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Using_the_App_Manager$revision/1095247",
 		"dateTime": "2016-07-28T01:32:05-07:00",
-		"url": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager",
+		"url": "/vi/docs/Mozilla/Firefox_OS/Using_the_App_Manager",
 		"title": "Sử dụng App Manager",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
-		"revisionURL": "/vi/docs/Archive/B2G_OS/Phone_guide$revision/1095249",
-		"dateTime": "2016-07-28T01:32:05-07:00",
-		"url": "/vi/docs/Archive/B2G_OS/Phone_guide",
-		"title": "Firefox OS phone guide",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -4976,10 +5000,26 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Using_the_App_Manager$revision/1095247",
+		"revisionURL": "/vi/docs/Archive/B2G_OS/Phone_guide$revision/1095249",
 		"dateTime": "2016-07-28T01:32:05-07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS/Using_the_App_Manager",
+		"url": "/vi/docs/Archive/B2G_OS/Phone_guide",
+		"title": "Firefox OS phone guide",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
+		"revisionURL": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager$revision/1095245",
+		"dateTime": "2016-07-28T01:32:05-07:00",
+		"url": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager",
 		"title": "Sử dụng App Manager",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
+		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform/Gaia$revision/1095237",
+		"dateTime": "2016-07-28T01:32:04-07:00",
+		"url": "/vi/docs/Archive/B2G_OS/Platform/Gaia",
+		"title": "Gaia",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -4996,14 +5036,6 @@
 		"dateTime": "2016-07-28T01:32:04-07:00",
 		"url": "/vi/docs/Archive/B2G_OS/Platform/Gaia/Hacking",
 		"title": "Hacking Gaia",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
-		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform/Gaia$revision/1095237",
-		"dateTime": "2016-07-28T01:32:04-07:00",
-		"url": "/vi/docs/Archive/B2G_OS/Platform/Gaia",
-		"title": "Gaia",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -6560,18 +6592,18 @@
 		"authorProfileURL": "/vi/profiles/rebloor"
 	},
 	{
-		"revisionURL": "/vi/docs/CSS/background-color$revision/629671",
-		"dateTime": "2014-07-01T00:45:22-07:00",
-		"url": "/vi/docs/CSS/background-color",
-		"title": "background-color",
-		"authorName": "teoli",
-		"authorProfileURL": "/vi/profiles/teoli"
-	},
-	{
 		"revisionURL": "/vi/docs/CSS$revision/629667",
 		"dateTime": "2014-07-01T00:45:22-07:00",
 		"url": "/vi/docs/CSS",
 		"title": "CSS",
+		"authorName": "teoli",
+		"authorProfileURL": "/vi/profiles/teoli"
+	},
+	{
+		"revisionURL": "/vi/docs/CSS/background-color$revision/629671",
+		"dateTime": "2014-07-01T00:45:22-07:00",
+		"url": "/vi/docs/CSS/background-color",
+		"title": "background-color",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
@@ -6592,17 +6624,17 @@
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
-		"revisionURL": "/vi/docs/Web/HTML$revision/629661",
+		"revisionURL": "/vi/docs/HTML$revision/629663",
 		"dateTime": "2014-07-01T00:35:35-07:00",
-		"url": "/vi/docs/Web/HTML",
+		"url": "/vi/docs/HTML",
 		"title": "HTML",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
-		"revisionURL": "/vi/docs/HTML$revision/629663",
+		"revisionURL": "/vi/docs/Web/HTML$revision/629661",
 		"dateTime": "2014-07-01T00:35:35-07:00",
-		"url": "/vi/docs/HTML",
+		"url": "/vi/docs/Web/HTML",
 		"title": "HTML",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
@@ -7080,7 +7112,7 @@
 		"authorProfileURL": "/vi/profiles/SamB"
 	},
 	{
-		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/288924",
+		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/270815",
 		"dateTime": "2010-07-01T02:42:49-07:00",
 		"url": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t",
 		"title": "Bản Kê Khai Cài Đặt",
@@ -7088,7 +7120,7 @@
 		"authorProfileURL": "/vi/profiles/kimkha"
 	},
 	{
-		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/270815",
+		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/288924",
 		"dateTime": "2010-07-01T02:42:49-07:00",
 		"url": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t",
 		"title": "Bản Kê Khai Cài Đặt",
