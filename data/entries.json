@@ -1,5 +1,37 @@
 [
 	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1427941",
+		"dateTime": "2018-10-20T19:37:44.365850-07:00",
+		"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
+		"title": "Working with objects",
+		"authorName": "quytran",
+		"authorProfileURL": "/vi/profiles/quytran"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1427940",
+		"dateTime": "2018-10-20T19:35:56.727222-07:00",
+		"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
+		"title": "Working with objects",
+		"authorName": "quytran",
+		"authorProfileURL": "/vi/profiles/quytran"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1427939",
+		"dateTime": "2018-10-20T19:31:36.088257-07:00",
+		"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
+		"title": "Working with objects",
+		"authorName": "quytran",
+		"authorProfileURL": "/vi/profiles/quytran"
+	},
+	{
+		"revisionURL": "/vi/docs/MDN/Getting_started$revision/1427865",
+		"dateTime": "2018-10-20T02:45:14.396671-07:00",
+		"url": "/vi/docs/MDN/Getting_started",
+		"title": "Getting started on MDN",
+		"authorName": "QuyenNguyenCDA",
+		"authorProfileURL": "/vi/profiles/QuyenNguyenCDA"
+	},
+	{
 		"revisionURL": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects$revision/1427638",
 		"dateTime": "2018-10-19T05:07:15.538562-07:00",
 		"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
@@ -5048,6 +5080,14 @@
 		"authorProfileURL": "/vi/profiles/tieppt"
 	},
 	{
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Phone_guide$revision/1095251",
+		"dateTime": "2016-07-28T01:32:05-07:00",
+		"url": "/vi/docs/Mozilla/Firefox_OS/Phone_guide",
+		"title": "Firefox OS phone guide",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
 		"revisionURL": "/vi/docs/Archive/B2G_OS/Phone_guide$revision/1095249",
 		"dateTime": "2016-07-28T01:32:05-07:00",
 		"url": "/vi/docs/Archive/B2G_OS/Phone_guide",
@@ -5060,14 +5100,6 @@
 		"dateTime": "2016-07-28T01:32:05-07:00",
 		"url": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager",
 		"title": "Sử dụng App Manager",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Phone_guide$revision/1095251",
-		"dateTime": "2016-07-28T01:32:05-07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS/Phone_guide",
-		"title": "Firefox OS phone guide",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -5112,22 +5144,6 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS$revision/1095231",
-		"dateTime": "2016-07-28T01:32:03-07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS",
-		"title": "Firefox OS",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform$revision/1095235",
-		"dateTime": "2016-07-28T01:32:03-07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS/Platform",
-		"title": "The Firefox OS platform",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
 		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform$revision/1095233",
 		"dateTime": "2016-07-28T01:32:03-07:00",
 		"url": "/vi/docs/Archive/B2G_OS/Platform",
@@ -5140,6 +5156,22 @@
 		"dateTime": "2016-07-28T01:32:03-07:00",
 		"url": "/vi/docs/Archive/B2G_OS",
 		"title": "Firefox OS",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS$revision/1095231",
+		"dateTime": "2016-07-28T01:32:03-07:00",
+		"url": "/vi/docs/Mozilla/Firefox_OS",
+		"title": "Firefox OS",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform$revision/1095235",
+		"dateTime": "2016-07-28T01:32:03-07:00",
+		"url": "/vi/docs/Mozilla/Firefox_OS/Platform",
+		"title": "The Firefox OS platform",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -6656,6 +6688,14 @@
 		"authorProfileURL": "/vi/profiles/rebloor"
 	},
 	{
+		"revisionURL": "/vi/docs/CSS/background-color$revision/629671",
+		"dateTime": "2014-07-01T00:45:22-07:00",
+		"url": "/vi/docs/CSS/background-color",
+		"title": "background-color",
+		"authorName": "teoli",
+		"authorProfileURL": "/vi/profiles/teoli"
+	},
+	{
 		"revisionURL": "/vi/docs/Web/CSS/background-color$revision/629669",
 		"dateTime": "2014-07-01T00:45:22-07:00",
 		"url": "/vi/docs/Web/CSS/background-color",
@@ -6676,14 +6716,6 @@
 		"dateTime": "2014-07-01T00:45:22-07:00",
 		"url": "/vi/docs/CSS",
 		"title": "CSS",
-		"authorName": "teoli",
-		"authorProfileURL": "/vi/profiles/teoli"
-	},
-	{
-		"revisionURL": "/vi/docs/CSS/background-color$revision/629671",
-		"dateTime": "2014-07-01T00:45:22-07:00",
-		"url": "/vi/docs/CSS/background-color",
-		"title": "background-color",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
@@ -7176,7 +7208,7 @@
 		"authorProfileURL": "/vi/profiles/SamB"
 	},
 	{
-		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/288924",
+		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/270815",
 		"dateTime": "2010-07-01T02:42:49-07:00",
 		"url": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t",
 		"title": "Bản Kê Khai Cài Đặt",
@@ -7184,7 +7216,7 @@
 		"authorProfileURL": "/vi/profiles/kimkha"
 	},
 	{
-		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/270815",
+		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/288924",
 		"dateTime": "2010-07-01T02:42:49-07:00",
 		"url": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t",
 		"title": "Bản Kê Khai Cài Đặt",
