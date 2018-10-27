@@ -1,5 +1,29 @@
 [
 	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Guide/Details_of_the_Object_Model$revision/1430210",
+		"dateTime": "2018-10-26T22:25:28.137048-07:00",
+		"url": "/vi/docs/Web/JavaScript/Guide/Details_of_the_Object_Model",
+		"title": "Details of the object model",
+		"authorName": "quytran",
+		"authorProfileURL": "/vi/profiles/quytran"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Guide/Details_of_the_Object_Model$revision/1430209",
+		"dateTime": "2018-10-26T22:23:50.203271-07:00",
+		"url": "/vi/docs/Web/JavaScript/Guide/Details_of_the_Object_Model",
+		"title": "Details of the object model",
+		"authorName": "quytran",
+		"authorProfileURL": "/vi/profiles/quytran"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Number/NEGATIVE_INFINITY$revision/1430135",
+		"dateTime": "2018-10-26T09:51:04.609809-07:00",
+		"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Number/NEGATIVE_INFINITY",
+		"title": "Number.NEGATIVE_INFINITY",
+		"authorName": "PurpleLover",
+		"authorProfileURL": "/vi/profiles/PurpleLover"
+	},
+	{
 		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Number/isSafeInteger$revision/1429911",
 		"dateTime": "2018-10-26T00:24:36.095657-07:00",
 		"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Number/isSafeInteger",
@@ -5112,14 +5136,6 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Using_the_App_Manager$revision/1095247",
-		"dateTime": "2016-07-28T01:32:05-07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS/Using_the_App_Manager",
-		"title": "Sử dụng App Manager",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
 		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Phone_guide$revision/1095251",
 		"dateTime": "2016-07-28T01:32:05-07:00",
 		"url": "/vi/docs/Mozilla/Firefox_OS/Phone_guide",
@@ -5136,10 +5152,18 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia$revision/1095239",
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Using_the_App_Manager$revision/1095247",
+		"dateTime": "2016-07-28T01:32:05-07:00",
+		"url": "/vi/docs/Mozilla/Firefox_OS/Using_the_App_Manager",
+		"title": "Sử dụng App Manager",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia/Hacking$revision/1095243",
 		"dateTime": "2016-07-28T01:32:04-07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia",
-		"title": "Gaia",
+		"url": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia/Hacking",
+		"title": "Hacking Gaia",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -5152,10 +5176,10 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia/Hacking$revision/1095243",
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia$revision/1095239",
 		"dateTime": "2016-07-28T01:32:04-07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia/Hacking",
-		"title": "Hacking Gaia",
+		"url": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia",
+		"title": "Gaia",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -5184,18 +5208,18 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform$revision/1095235",
-		"dateTime": "2016-07-28T01:32:03-07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS/Platform",
-		"title": "The Firefox OS platform",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
 		"revisionURL": "/vi/docs/Mozilla/Firefox_OS$revision/1095231",
 		"dateTime": "2016-07-28T01:32:03-07:00",
 		"url": "/vi/docs/Mozilla/Firefox_OS",
 		"title": "Firefox OS",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform$revision/1095235",
+		"dateTime": "2016-07-28T01:32:03-07:00",
+		"url": "/vi/docs/Mozilla/Firefox_OS/Platform",
+		"title": "The Firefox OS platform",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -6176,17 +6200,17 @@
 		"authorProfileURL": "/vi/profiles/DuyNe"
 	},
 	{
-		"revisionURL": "/vi/docs/Persona$revision/800199",
+		"revisionURL": "/vi/docs/Mozilla/Persona$revision/800197",
 		"dateTime": "2015-05-09T03:07:41-07:00",
-		"url": "/vi/docs/Persona",
+		"url": "/vi/docs/Mozilla/Persona",
 		"title": "Persona",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/Persona$revision/800197",
+		"revisionURL": "/vi/docs/Persona$revision/800199",
 		"dateTime": "2015-05-09T03:07:41-07:00",
-		"url": "/vi/docs/Mozilla/Persona",
+		"url": "/vi/docs/Persona",
 		"title": "Persona",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
@@ -6196,14 +6220,6 @@
 		"dateTime": "2015-05-09T03:06:33-07:00",
 		"url": "/vi/docs/Mozilla/Persona",
 		"title": "Persona",
-		"authorName": "teoli",
-		"authorProfileURL": "/vi/profiles/teoli"
-	},
-	{
-		"revisionURL": "/vi/docs/Web/Apps/Quickstart$revision/798001",
-		"dateTime": "2015-05-06T02:40:51-07:00",
-		"url": "/vi/docs/Web/Apps/Quickstart",
-		"title": "Quickstart",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
@@ -6219,6 +6235,14 @@
 		"revisionURL": "/vi/docs/Apps/Quickstart$revision/798003",
 		"dateTime": "2015-05-06T02:40:51-07:00",
 		"url": "/vi/docs/Apps/Quickstart",
+		"title": "Quickstart",
+		"authorName": "teoli",
+		"authorProfileURL": "/vi/profiles/teoli"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/Apps/Quickstart$revision/798001",
+		"dateTime": "2015-05-06T02:40:51-07:00",
+		"url": "/vi/docs/Web/Apps/Quickstart",
 		"title": "Quickstart",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
