@@ -6898,6 +6898,36 @@
 		"authorProfileURL": "/vi/profiles/vhai",
 		"entries": [
 			{
+				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs$revision/1431417",
+				"dateTime": "2018-10-31T21:25:59.034242-07:00",
+				"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
+				"title": "Express web framework (Node.js/JavaScript)"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs$revision/1431415",
+				"dateTime": "2018-10-31T21:23:28.818317-07:00",
+				"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
+				"title": "Express web framework (Node.js/JavaScript)"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs$revision/1431413",
+				"dateTime": "2018-10-31T21:17:27.839312-07:00",
+				"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
+				"title": "Express web framework (Node.js/JavaScript)"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs$revision/1431412",
+				"dateTime": "2018-10-31T21:14:53.353685-07:00",
+				"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
+				"title": "Express web framework (Node.js/JavaScript)"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs$revision/1431410",
+				"dateTime": "2018-10-31T21:09:08.812563-07:00",
+				"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
+				"title": "Express web framework (Node.js/JavaScript)"
+			},
+			{
 				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs$revision/1430630",
 				"dateTime": "2018-10-29T07:46:19.994806-07:00",
 				"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
@@ -6914,11 +6944,11 @@
 			{
 				"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
 				"title": "Express web framework (Node.js/JavaScript)",
-				"revisions": 2
+				"revisions": 7
 			}
 		],
 		"articlesCount": 1,
-		"lastestEntryTime": "2018-10-29T07:46:19.994806-07:00",
+		"lastestEntryTime": "2018-10-31T21:25:59.034242-07:00",
 		"rank": 63,
 		"profile": {
 			"fullName": "",
