@@ -1468,6 +1468,12 @@
 		"authorProfileURL": "/vi/profiles/trongthanh",
 		"entries": [
 			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Using_promises$revision/1434759",
+				"dateTime": "2018-11-11T23:41:50.562683-08:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Using_promises",
+				"title": "Sử dụng Promise"
+			},
+			{
 				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Using_promises$revision/1427108",
 				"dateTime": "2018-10-16T23:57:09.185715-07:00",
 				"url": "/vi/docs/Web/JavaScript/Guide/Using_promises",
@@ -1724,7 +1730,7 @@
 			{
 				"url": "/vi/docs/Web/JavaScript/Guide/Using_promises",
 				"title": "Sử dụng Promise",
-				"revisions": 4
+				"revisions": 5
 			},
 			{
 				"url": "/vi/docs/MDN/Contribute/Localize/dich_trang",
@@ -1828,7 +1834,7 @@
 			}
 		],
 		"articlesCount": 21,
-		"lastestEntryTime": "2018-10-16T23:57:09.185715-07:00",
+		"lastestEntryTime": "2018-11-11T23:41:50.562683-08:00",
 		"rank": 5,
 		"profile": {
 			"fullName": "Thanh Tran",
