@@ -2659,6 +2659,12 @@
 		"authorProfileURL": "/vi/profiles/quytran",
 		"entries": [
 			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Details_of_the_Object_Model$revision/1434946",
+				"dateTime": "2018-11-12T20:09:01.289720-08:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Details_of_the_Object_Model",
+				"title": "Details of the object model"
+			},
+			{
 				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Details_of_the_Object_Model$revision/1434569",
 				"dateTime": "2018-11-10T20:07:03.472075-08:00",
 				"url": "/vi/docs/Web/JavaScript/Guide/Details_of_the_Object_Model",
@@ -2975,7 +2981,7 @@
 			{
 				"url": "/vi/docs/Web/JavaScript/Guide/Details_of_the_Object_Model",
 				"title": "Details of the object model",
-				"revisions": 8
+				"revisions": 9
 			},
 			{
 				"url": "/vi/docs/Web/JavaScript/Guide/Working_with_Objects",
@@ -3019,7 +3025,7 @@
 			}
 		],
 		"articlesCount": 9,
-		"lastestEntryTime": "2018-11-10T20:07:03.472075-08:00",
+		"lastestEntryTime": "2018-11-12T20:09:01.289720-08:00",
 		"rank": 10,
 		"profile": {
 			"fullName": "Quy Tran",
