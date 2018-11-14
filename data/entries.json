@@ -1,5 +1,21 @@
 [
 	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Guide/Details_of_the_Object_Model$revision/1435252",
+		"dateTime": "2018-11-13T19:05:17.265520-08:00",
+		"url": "/vi/docs/Web/JavaScript/Guide/Details_of_the_Object_Model",
+		"title": "Details of the object model",
+		"authorName": "quytran",
+		"authorProfileURL": "/vi/profiles/quytran"
+	},
+	{
+		"revisionURL": "/vi/docs/Learn/CSS/Introduction_to_CSS/Box_model$revision/1435117",
+		"dateTime": "2018-11-13T09:17:59.525087-08:00",
+		"url": "/vi/docs/Learn/CSS/Introduction_to_CSS/Box_model",
+		"title": "The box model",
+		"authorName": "nttvi",
+		"authorProfileURL": "/vi/profiles/nttvi"
+	},
+	{
 		"revisionURL": "/vi/docs/Web/JavaScript/Guide/Details_of_the_Object_Model$revision/1434946",
 		"dateTime": "2018-11-12T20:09:01.289720-08:00",
 		"url": "/vi/docs/Web/JavaScript/Guide/Details_of_the_Object_Model",
@@ -5272,14 +5288,6 @@
 		"authorProfileURL": "/vi/profiles/tieppt"
 	},
 	{
-		"revisionURL": "/vi/docs/Archive/B2G_OS/Phone_guide$revision/1095249",
-		"dateTime": "2016-07-28T01:32:05-07:00",
-		"url": "/vi/docs/Archive/B2G_OS/Phone_guide",
-		"title": "Firefox OS phone guide",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
 		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Phone_guide$revision/1095251",
 		"dateTime": "2016-07-28T01:32:05-07:00",
 		"url": "/vi/docs/Mozilla/Firefox_OS/Phone_guide",
@@ -5300,6 +5308,14 @@
 		"dateTime": "2016-07-28T01:32:05-07:00",
 		"url": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager",
 		"title": "Sử dụng App Manager",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
+		"revisionURL": "/vi/docs/Archive/B2G_OS/Phone_guide$revision/1095249",
+		"dateTime": "2016-07-28T01:32:05-07:00",
+		"url": "/vi/docs/Archive/B2G_OS/Phone_guide",
+		"title": "Firefox OS phone guide",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -5336,18 +5352,10 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform$revision/1095233",
+		"revisionURL": "/vi/docs/Archive/B2G_OS$revision/1095229",
 		"dateTime": "2016-07-28T01:32:03-07:00",
-		"url": "/vi/docs/Archive/B2G_OS/Platform",
-		"title": "The Firefox OS platform",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform$revision/1095235",
-		"dateTime": "2016-07-28T01:32:03-07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS/Platform",
-		"title": "The Firefox OS platform",
+		"url": "/vi/docs/Archive/B2G_OS",
+		"title": "Firefox OS",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -5360,10 +5368,18 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Archive/B2G_OS$revision/1095229",
+		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform$revision/1095233",
 		"dateTime": "2016-07-28T01:32:03-07:00",
-		"url": "/vi/docs/Archive/B2G_OS",
-		"title": "Firefox OS",
+		"url": "/vi/docs/Archive/B2G_OS/Platform",
+		"title": "The Firefox OS platform",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform$revision/1095235",
+		"dateTime": "2016-07-28T01:32:03-07:00",
+		"url": "/vi/docs/Mozilla/Firefox_OS/Platform",
+		"title": "The Firefox OS platform",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -6912,17 +6928,17 @@
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
-		"revisionURL": "/vi/docs/Web/HTML$revision/629661",
+		"revisionURL": "/vi/docs/HTML$revision/629663",
 		"dateTime": "2014-07-01T00:35:35-07:00",
-		"url": "/vi/docs/Web/HTML",
+		"url": "/vi/docs/HTML",
 		"title": "HTML",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
-		"revisionURL": "/vi/docs/HTML$revision/629663",
+		"revisionURL": "/vi/docs/Web/HTML$revision/629661",
 		"dateTime": "2014-07-01T00:35:35-07:00",
-		"url": "/vi/docs/HTML",
+		"url": "/vi/docs/Web/HTML",
 		"title": "HTML",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
