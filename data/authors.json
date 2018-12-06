@@ -700,6 +700,18 @@
 		"authorProfileURL": "/vi/profiles/PurpleLover",
 		"entries": [
 			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators$revision/1441763",
+				"dateTime": "2018-12-05T19:13:13.367764-08:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators",
+				"title": "Biểu thức và các toán tử"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators$revision/1441649",
+				"dateTime": "2018-12-05T06:33:10.406337-08:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators",
+				"title": "Biểu thức và các toán tử"
+			},
+			{
 				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Number/NEGATIVE_INFINITY$revision/1430135",
 				"dateTime": "2018-10-26T09:51:04.609809-07:00",
 				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Number/NEGATIVE_INFINITY",
@@ -954,6 +966,11 @@
 		],
 		"articles": [
 			{
+				"url": "/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators",
+				"title": "Biểu thức và các toán tử",
+				"revisions": 6
+			},
+			{
 				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Number/NEGATIVE_INFINITY",
 				"title": "Number.NEGATIVE_INFINITY",
 				"revisions": 1
@@ -1007,11 +1024,6 @@
 				"url": "/vi/docs/Web/JavaScript/Reference/Operators/Assignment_Operators",
 				"title": "Toán tử gán",
 				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators",
-				"title": "Biểu thức và các toán tử",
-				"revisions": 4
 			},
 			{
 				"url": "/vi/docs/Tu-dien-thuat-ngu/XML",
@@ -1080,7 +1092,7 @@
 			}
 		],
 		"articlesCount": 25,
-		"lastestEntryTime": "2018-10-26T09:51:04.609809-07:00",
+		"lastestEntryTime": "2018-12-05T19:13:13.367764-08:00",
 		"rank": 3,
 		"profile": {
 			"fullName": "",
