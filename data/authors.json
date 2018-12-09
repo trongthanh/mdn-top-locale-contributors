@@ -7052,6 +7052,59 @@
 		}
 	},
 	{
+		"authorName": "HieuNguyenbadao",
+		"authorProfileURL": "/vi/profiles/HieuNguyenbadao",
+		"entries": [
+			{
+				"revisionURL": "/vi/docs/Learn/HTML/Introduction_to_HTML/Getting_started$revision/1443437",
+				"dateTime": "2018-12-08T08:28:10.471827-08:00",
+				"url": "/vi/docs/Learn/HTML/Introduction_to_HTML/Getting_started",
+				"title": "Getting started with HTML"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/HTML/Introduction_to_HTML/Getting_started$revision/1443436",
+				"dateTime": "2018-12-08T08:17:01.225959-08:00",
+				"url": "/vi/docs/Learn/HTML/Introduction_to_HTML/Getting_started",
+				"title": "Getting started with HTML"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/HTML/Introduction_to_HTML/Getting_started$revision/1443287",
+				"dateTime": "2018-12-08T02:03:50.657384-08:00",
+				"url": "/vi/docs/Learn/HTML/Introduction_to_HTML/Getting_started",
+				"title": "Getting started with HTML"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/HTML/Introduction_to_HTML/Getting_started$revision/1442192",
+				"dateTime": "2018-12-06T02:39:41.380590-08:00",
+				"url": "/vi/docs/Learn/HTML/Introduction_to_HTML/Getting_started",
+				"title": "Getting started with HTML"
+			}
+		],
+		"articles": [
+			{
+				"url": "/vi/docs/Learn/HTML/Introduction_to_HTML/Getting_started",
+				"title": "Getting started with HTML",
+				"revisions": 4
+			}
+		],
+		"articlesCount": 1,
+		"lastestEntryTime": "2018-12-08T08:28:10.471827-08:00",
+		"rank": 64,
+		"profile": {
+			"fullName": "",
+			"location": "",
+			"org": "",
+			"avatar": "https://secure.gravatar.com/avatar/1e234cc299909807e20124ef1777bcad?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
+			"joinDate": "2018-11-09T01:24:45.922000-08:00",
+			"links": [
+				{
+					"type": "github",
+					"url": "https://github.com/HieuNguyenbadao"
+				}
+			]
+		}
+	},
+	{
 		"authorName": "dev-luonglq",
 		"authorProfileURL": "/vi/profiles/dev-luonglq",
 		"entries": [
@@ -7071,7 +7124,7 @@
 		],
 		"articlesCount": 1,
 		"lastestEntryTime": "2018-12-06T08:50:41.667415-08:00",
-		"rank": 64,
+		"rank": 65,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -7079,41 +7132,6 @@
 			"avatar": "https://secure.gravatar.com/avatar/5f1dad078ebc06000b60374bb2981a52?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
 			"joinDate": "2018-12-06T05:26:02.280000-08:00",
 			"links": []
-		}
-	},
-	{
-		"authorName": "HieuNguyenbadao",
-		"authorProfileURL": "/vi/profiles/HieuNguyenbadao",
-		"entries": [
-			{
-				"revisionURL": "/vi/docs/Learn/HTML/Introduction_to_HTML/Getting_started$revision/1442192",
-				"dateTime": "2018-12-06T02:39:41.380590-08:00",
-				"url": "/vi/docs/Learn/HTML/Introduction_to_HTML/Getting_started",
-				"title": "Getting started with HTML"
-			}
-		],
-		"articles": [
-			{
-				"url": "/vi/docs/Learn/HTML/Introduction_to_HTML/Getting_started",
-				"title": "Getting started with HTML",
-				"revisions": 1
-			}
-		],
-		"articlesCount": 1,
-		"lastestEntryTime": "2018-12-06T02:39:41.380590-08:00",
-		"rank": 65,
-		"profile": {
-			"fullName": "",
-			"location": "",
-			"org": "",
-			"avatar": "https://secure.gravatar.com/avatar/1e234cc299909807e20124ef1777bcad?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
-			"joinDate": "2018-11-09T01:24:45.922000-08:00",
-			"links": [
-				{
-					"type": "github",
-					"url": "https://github.com/HieuNguyenbadao"
-				}
-			]
 		}
 	},
 	{
