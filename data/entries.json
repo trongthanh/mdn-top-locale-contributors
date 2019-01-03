@@ -1,5 +1,21 @@
 [
 	{
+		"revisionURL": "/vi/docs/MDN/Getting_started$revision/1448721",
+		"dateTime": "2019-01-02T03:27:32.854073-08:00",
+		"url": "/vi/docs/MDN/Getting_started",
+		"title": "Getting started on MDN",
+		"authorName": "SphinxKnight",
+		"authorProfileURL": "/vi/profiles/SphinxKnight"
+	},
+	{
+		"revisionURL": "/vi/docs/MDN/Getting_started$revision/1448714",
+		"dateTime": "2019-01-02T03:05:48.006211-08:00",
+		"url": "/vi/docs/MDN/Getting_started",
+		"title": "Getting started on MDN",
+		"authorName": "quachdatcm099",
+		"authorProfileURL": "/vi/profiles/quachdatcm099"
+	},
+	{
 		"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/Boolean$revision/1447387",
 		"dateTime": "2018-12-26T01:19:13.974073-08:00",
 		"url": "/vi/docs/Tu-dien-thuat-ngu/Boolean",
@@ -5648,6 +5664,14 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
+		"revisionURL": "/vi/docs/Archive/B2G_OS$revision/1095229",
+		"dateTime": "2016-07-28T01:32:03-07:00",
+		"url": "/vi/docs/Archive/B2G_OS",
+		"title": "Firefox OS",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
 		"revisionURL": "/vi/docs/Mozilla/Firefox_OS$revision/1095231",
 		"dateTime": "2016-07-28T01:32:03-07:00",
 		"url": "/vi/docs/Mozilla/Firefox_OS",
@@ -5660,14 +5684,6 @@
 		"dateTime": "2016-07-28T01:32:03-07:00",
 		"url": "/vi/docs/Mozilla/Firefox_OS/Platform",
 		"title": "The Firefox OS platform",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
-		"revisionURL": "/vi/docs/Archive/B2G_OS$revision/1095229",
-		"dateTime": "2016-07-28T01:32:03-07:00",
-		"url": "/vi/docs/Archive/B2G_OS",
-		"title": "Firefox OS",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -6680,10 +6696,10 @@
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
-		"revisionURL": "/vi/docs/Apps$revision/797999",
+		"revisionURL": "/vi/docs/Web/Apps/Quickstart$revision/798001",
 		"dateTime": "2015-05-06T02:40:51-07:00",
-		"url": "/vi/docs/Apps",
-		"title": "Apps",
+		"url": "/vi/docs/Web/Apps/Quickstart",
+		"title": "Quickstart",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
@@ -6696,10 +6712,10 @@
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
-		"revisionURL": "/vi/docs/Web/Apps/Quickstart$revision/798001",
+		"revisionURL": "/vi/docs/Apps$revision/797999",
 		"dateTime": "2015-05-06T02:40:51-07:00",
-		"url": "/vi/docs/Web/Apps/Quickstart",
-		"title": "Quickstart",
+		"url": "/vi/docs/Apps",
+		"title": "Apps",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
@@ -7224,17 +7240,17 @@
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
-		"revisionURL": "/vi/docs/Web/HTML$revision/629661",
+		"revisionURL": "/vi/docs/HTML$revision/629663",
 		"dateTime": "2014-07-01T00:35:35-07:00",
-		"url": "/vi/docs/Web/HTML",
+		"url": "/vi/docs/HTML",
 		"title": "HTML",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
-		"revisionURL": "/vi/docs/HTML$revision/629663",
+		"revisionURL": "/vi/docs/Web/HTML$revision/629661",
 		"dateTime": "2014-07-01T00:35:35-07:00",
-		"url": "/vi/docs/HTML",
+		"url": "/vi/docs/Web/HTML",
 		"title": "HTML",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
