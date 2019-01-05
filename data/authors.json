@@ -2690,6 +2690,173 @@
 		}
 	},
 	{
+		"authorName": "dangtu",
+		"authorProfileURL": "/vi/profiles/dangtu",
+		"entries": [
+			{
+				"revisionURL": "/vi/docs/Web/API/ChildNode/remove$revision/1449661",
+				"dateTime": "2019-01-04T17:50:45.145822-08:00",
+				"url": "/vi/docs/Web/API/ChildNode/remove",
+				"title": "ChildNode.remove()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/API/ChildNode/remove$revision/1449660",
+				"dateTime": "2019-01-04T17:48:57.602292-08:00",
+				"url": "/vi/docs/Web/API/ChildNode/remove",
+				"title": "ChildNode.remove()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil$revision/1449658",
+				"dateTime": "2019-01-04T17:48:01.835956-08:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil",
+				"title": "Math.ceil()"
+			},
+			{
+				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/Boolean$revision/1447387",
+				"dateTime": "2018-12-26T01:19:13.974073-08:00",
+				"url": "/vi/docs/Tu-dien-thuat-ngu/Boolean",
+				"title": "Boolean"
+			},
+			{
+				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/Cache$revision/1447373",
+				"dateTime": "2018-12-26T00:52:45.496750-08:00",
+				"url": "/vi/docs/Tu-dien-thuat-ngu/Cache",
+				"title": "Cache"
+			},
+			{
+				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/Responsive_web_design$revision/1447368",
+				"dateTime": "2018-12-26T00:47:47.640382-08:00",
+				"url": "/vi/docs/Tu-dien-thuat-ngu/Responsive_web_design",
+				"title": "Responsive web design"
+			},
+			{
+				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/CDN$revision/1447366",
+				"dateTime": "2018-12-26T00:43:48.928350-08:00",
+				"url": "/vi/docs/Tu-dien-thuat-ngu/CDN",
+				"title": "CDN"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/abs$revision/1446603",
+				"dateTime": "2018-12-21T01:45:42.456780-08:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/abs",
+				"title": "Math.abs()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/abs$revision/1446602",
+				"dateTime": "2018-12-21T01:43:19.299070-08:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/abs",
+				"title": "Math.abs()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil$revision/1446601",
+				"dateTime": "2018-12-21T01:35:29.113939-08:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil",
+				"title": "Math.ceil()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/NaN$revision/1446598",
+				"dateTime": "2018-12-21T01:18:16.792055-08:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+				"title": "NaN"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Number/NaN$revision/1446592",
+				"dateTime": "2018-12-21T00:35:44.587241-08:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Number/NaN",
+				"title": "Number.NaN"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil$revision/1446590",
+				"dateTime": "2018-12-21T00:21:12.792705-08:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil",
+				"title": "Math.ceil()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil$revision/1446587",
+				"dateTime": "2018-12-21T00:16:33.096356-08:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil",
+				"title": "Math.ceil()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil$revision/1446584",
+				"dateTime": "2018-12-21T00:06:18.342586-08:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil",
+				"title": "Math.ceil()"
+			}
+		],
+		"articles": [
+			{
+				"url": "/vi/docs/Web/API/ChildNode/remove",
+				"title": "ChildNode.remove()",
+				"revisions": 2
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil",
+				"title": "Math.ceil()",
+				"revisions": 5
+			},
+			{
+				"url": "/vi/docs/Tu-dien-thuat-ngu/Boolean",
+				"title": "Boolean",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Tu-dien-thuat-ngu/Cache",
+				"title": "Cache",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Tu-dien-thuat-ngu/Responsive_web_design",
+				"title": "Responsive web design",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Tu-dien-thuat-ngu/CDN",
+				"title": "CDN",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/abs",
+				"title": "Math.abs()",
+				"revisions": 2
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+				"title": "NaN",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Number/NaN",
+				"title": "Number.NaN",
+				"revisions": 1
+			}
+		],
+		"articlesCount": 9,
+		"lastestEntryTime": "2019-01-04T17:50:45.145822-08:00",
+		"rank": 10,
+		"profile": {
+			"fullName": "Đăng Tú",
+			"location": "Vietnam",
+			"org": "",
+			"avatar": "https://secure.gravatar.com/avatar/dbe84ac689dd48f70318be2f63276511?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
+			"joinDate": "2018-12-20T23:40:07.086000-08:00",
+			"links": [
+				{
+					"type": "twitter",
+					"url": "https://twitter.com/dangtu_work"
+				},
+				{
+					"type": "linkedin",
+					"url": "https://linkedin.com/in/dangtu/"
+				},
+				{
+					"type": "mozillians",
+					"url": "https://mozillians.org/u/dangtu"
+				}
+			]
+		}
+	},
+	{
 		"authorName": "quytran",
 		"authorProfileURL": "/vi/profiles/quytran",
 		"entries": [
@@ -3079,7 +3246,7 @@
 		],
 		"articlesCount": 9,
 		"lastestEntryTime": "2018-11-19T16:31:32.141095-08:00",
-		"rank": 10,
+		"rank": 11,
 		"profile": {
 			"fullName": "Quy Tran",
 			"location": "",
@@ -3342,7 +3509,7 @@
 		],
 		"articlesCount": 9,
 		"lastestEntryTime": "2018-10-02T23:38:31.868842-07:00",
-		"rank": 11,
+		"rank": 12,
 		"profile": {
 			"fullName": "Nhut",
 			"location": "Viet Nam",
@@ -3460,7 +3627,7 @@
 		],
 		"articlesCount": 9,
 		"lastestEntryTime": "2016-12-01T16:42:58-08:00",
-		"rank": 12,
+		"rank": 13,
 		"profile": {
 			"fullName": "Eric Shepherd",
 			"location": "Maryville, Tennessee",
@@ -3483,150 +3650,6 @@
 				{
 					"type": "mozillians",
 					"url": "http://mozillians.org/u/sheppy/"
-				}
-			]
-		}
-	},
-	{
-		"authorName": "dangtu",
-		"authorProfileURL": "/vi/profiles/dangtu",
-		"entries": [
-			{
-				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/Boolean$revision/1447387",
-				"dateTime": "2018-12-26T01:19:13.974073-08:00",
-				"url": "/vi/docs/Tu-dien-thuat-ngu/Boolean",
-				"title": "Boolean"
-			},
-			{
-				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/Cache$revision/1447373",
-				"dateTime": "2018-12-26T00:52:45.496750-08:00",
-				"url": "/vi/docs/Tu-dien-thuat-ngu/Cache",
-				"title": "Cache"
-			},
-			{
-				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/Responsive_web_design$revision/1447368",
-				"dateTime": "2018-12-26T00:47:47.640382-08:00",
-				"url": "/vi/docs/Tu-dien-thuat-ngu/Responsive_web_design",
-				"title": "Responsive web design"
-			},
-			{
-				"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/CDN$revision/1447366",
-				"dateTime": "2018-12-26T00:43:48.928350-08:00",
-				"url": "/vi/docs/Tu-dien-thuat-ngu/CDN",
-				"title": "CDN"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/abs$revision/1446603",
-				"dateTime": "2018-12-21T01:45:42.456780-08:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/abs",
-				"title": "Math.abs()"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/abs$revision/1446602",
-				"dateTime": "2018-12-21T01:43:19.299070-08:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/abs",
-				"title": "Math.abs()"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil$revision/1446601",
-				"dateTime": "2018-12-21T01:35:29.113939-08:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil",
-				"title": "Math.ceil()"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/NaN$revision/1446598",
-				"dateTime": "2018-12-21T01:18:16.792055-08:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/NaN",
-				"title": "NaN"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Number/NaN$revision/1446592",
-				"dateTime": "2018-12-21T00:35:44.587241-08:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Number/NaN",
-				"title": "Number.NaN"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil$revision/1446590",
-				"dateTime": "2018-12-21T00:21:12.792705-08:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil",
-				"title": "Math.ceil()"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil$revision/1446587",
-				"dateTime": "2018-12-21T00:16:33.096356-08:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil",
-				"title": "Math.ceil()"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil$revision/1446584",
-				"dateTime": "2018-12-21T00:06:18.342586-08:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil",
-				"title": "Math.ceil()"
-			}
-		],
-		"articles": [
-			{
-				"url": "/vi/docs/Tu-dien-thuat-ngu/Boolean",
-				"title": "Boolean",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Tu-dien-thuat-ngu/Cache",
-				"title": "Cache",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Tu-dien-thuat-ngu/Responsive_web_design",
-				"title": "Responsive web design",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Tu-dien-thuat-ngu/CDN",
-				"title": "CDN",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/abs",
-				"title": "Math.abs()",
-				"revisions": 2
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil",
-				"title": "Math.ceil()",
-				"revisions": 4
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/NaN",
-				"title": "NaN",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Number/NaN",
-				"title": "Number.NaN",
-				"revisions": 1
-			}
-		],
-		"articlesCount": 8,
-		"lastestEntryTime": "2018-12-26T01:19:13.974073-08:00",
-		"rank": 13,
-		"profile": {
-			"fullName": "Đăng Tú",
-			"location": "Vietnam",
-			"org": "",
-			"avatar": "https://secure.gravatar.com/avatar/dbe84ac689dd48f70318be2f63276511?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
-			"joinDate": "2018-12-20T23:40:07.086000-08:00",
-			"links": [
-				{
-					"type": "twitter",
-					"url": "https://twitter.com/dangtu_work"
-				},
-				{
-					"type": "linkedin",
-					"url": "https://linkedin.com/in/dangtu/"
-				},
-				{
-					"type": "mozillians",
-					"url": "https://mozillians.org/u/dangtu"
 				}
 			]
 		}
