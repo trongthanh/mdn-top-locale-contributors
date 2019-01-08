@@ -1,5 +1,29 @@
 [
 	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/pop$revision/1450276",
+		"dateTime": "2019-01-07T23:40:57.765459-08:00",
+		"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/pop",
+		"title": "Array.prototype.pop()",
+		"authorName": "vhai",
+		"authorProfileURL": "/vi/profiles/vhai"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter$revision/1450273",
+		"dateTime": "2019-01-07T23:22:55.783581-08:00",
+		"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter",
+		"title": "Array.prototype.filter()",
+		"authorName": "vhai",
+		"authorProfileURL": "/vi/profiles/vhai"
+	},
+	{
+		"revisionURL": "/vi/docs/MDN/Doc_status$revision/1450052",
+		"dateTime": "2019-01-07T04:42:37.215359-08:00",
+		"url": "/vi/docs/MDN/Doc_status",
+		"title": "Tiến độ bản địa hóa theo chủ đề",
+		"authorName": "elephant12345",
+		"authorProfileURL": "/vi/profiles/elephant12345"
+	},
+	{
 		"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs$revision/1449861",
 		"dateTime": "2019-01-05T22:42:45.597786-08:00",
 		"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
@@ -5632,18 +5656,10 @@
 		"authorProfileURL": "/vi/profiles/tieppt"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Phone_guide$revision/1095251",
+		"revisionURL": "/vi/docs/Archive/B2G_OS/Phone_guide$revision/1095249",
 		"dateTime": "2016-07-28T01:32:05-07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS/Phone_guide",
+		"url": "/vi/docs/Archive/B2G_OS/Phone_guide",
 		"title": "Firefox OS phone guide",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
-		"revisionURL": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager$revision/1095245",
-		"dateTime": "2016-07-28T01:32:05-07:00",
-		"url": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager",
-		"title": "Sử dụng App Manager",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -5656,9 +5672,17 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Archive/B2G_OS/Phone_guide$revision/1095249",
+		"revisionURL": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager$revision/1095245",
 		"dateTime": "2016-07-28T01:32:05-07:00",
-		"url": "/vi/docs/Archive/B2G_OS/Phone_guide",
+		"url": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager",
+		"title": "Sử dụng App Manager",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Phone_guide$revision/1095251",
+		"dateTime": "2016-07-28T01:32:05-07:00",
+		"url": "/vi/docs/Mozilla/Firefox_OS/Phone_guide",
 		"title": "Firefox OS phone guide",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
@@ -5696,17 +5720,17 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS$revision/1095231",
+		"revisionURL": "/vi/docs/Archive/B2G_OS$revision/1095229",
 		"dateTime": "2016-07-28T01:32:03-07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS",
+		"url": "/vi/docs/Archive/B2G_OS",
 		"title": "Firefox OS",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Archive/B2G_OS$revision/1095229",
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS$revision/1095231",
 		"dateTime": "2016-07-28T01:32:03-07:00",
-		"url": "/vi/docs/Archive/B2G_OS",
+		"url": "/vi/docs/Mozilla/Firefox_OS",
 		"title": "Firefox OS",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
@@ -6728,6 +6752,14 @@
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
+		"revisionURL": "/vi/docs/Apps/Quickstart$revision/798003",
+		"dateTime": "2015-05-06T02:40:51-07:00",
+		"url": "/vi/docs/Apps/Quickstart",
+		"title": "Quickstart",
+		"authorName": "teoli",
+		"authorProfileURL": "/vi/profiles/teoli"
+	},
+	{
 		"revisionURL": "/vi/docs/Apps$revision/797999",
 		"dateTime": "2015-05-06T02:40:51-07:00",
 		"url": "/vi/docs/Apps",
@@ -6739,14 +6771,6 @@
 		"revisionURL": "/vi/docs/Web/Apps/Quickstart$revision/798001",
 		"dateTime": "2015-05-06T02:40:51-07:00",
 		"url": "/vi/docs/Web/Apps/Quickstart",
-		"title": "Quickstart",
-		"authorName": "teoli",
-		"authorProfileURL": "/vi/profiles/teoli"
-	},
-	{
-		"revisionURL": "/vi/docs/Apps/Quickstart$revision/798003",
-		"dateTime": "2015-05-06T02:40:51-07:00",
-		"url": "/vi/docs/Apps/Quickstart",
 		"title": "Quickstart",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
