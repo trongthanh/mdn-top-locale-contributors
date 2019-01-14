@@ -4541,6 +4541,111 @@
 		}
 	},
 	{
+		"authorName": "vhai",
+		"authorProfileURL": "/vi/profiles/vhai",
+		"entries": [
+			{
+				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs/development_environment$revision/1451270",
+				"dateTime": "2019-01-13T21:21:26.815047-08:00",
+				"url": "/vi/docs/Learn/Server-side/Express_Nodejs/development_environment",
+				"title": "Setting up a Node development environment"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/pop$revision/1450276",
+				"dateTime": "2019-01-07T23:40:57.765459-08:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/pop",
+				"title": "Array.prototype.pop()"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter$revision/1450273",
+				"dateTime": "2019-01-07T23:22:55.783581-08:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter",
+				"title": "Array.prototype.filter()"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs$revision/1449861",
+				"dateTime": "2019-01-05T22:42:45.597786-08:00",
+				"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
+				"title": "Express web framework (Node.js/JavaScript)"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs$revision/1431417",
+				"dateTime": "2018-10-31T21:25:59.034242-07:00",
+				"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
+				"title": "Express web framework (Node.js/JavaScript)"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs$revision/1431415",
+				"dateTime": "2018-10-31T21:23:28.818317-07:00",
+				"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
+				"title": "Express web framework (Node.js/JavaScript)"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs$revision/1431413",
+				"dateTime": "2018-10-31T21:17:27.839312-07:00",
+				"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
+				"title": "Express web framework (Node.js/JavaScript)"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs$revision/1431412",
+				"dateTime": "2018-10-31T21:14:53.353685-07:00",
+				"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
+				"title": "Express web framework (Node.js/JavaScript)"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs$revision/1431410",
+				"dateTime": "2018-10-31T21:09:08.812563-07:00",
+				"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
+				"title": "Express web framework (Node.js/JavaScript)"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs$revision/1430630",
+				"dateTime": "2018-10-29T07:46:19.994806-07:00",
+				"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
+				"title": "Express web framework (Node.js/JavaScript)"
+			},
+			{
+				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs$revision/1430629",
+				"dateTime": "2018-10-29T07:42:17.172452-07:00",
+				"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
+				"title": "Express web framework (Node.js/JavaScript)"
+			}
+		],
+		"articles": [
+			{
+				"url": "/vi/docs/Learn/Server-side/Express_Nodejs/development_environment",
+				"title": "Setting up a Node development environment",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/pop",
+				"title": "Array.prototype.pop()",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter",
+				"title": "Array.prototype.filter()",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
+				"title": "Express web framework (Node.js/JavaScript)",
+				"revisions": 8
+			}
+		],
+		"articlesCount": 4,
+		"lastestEntryTime": "2019-01-13T21:21:26.815047-08:00",
+		"rank": 21,
+		"profile": {
+			"fullName": "",
+			"location": "",
+			"org": "",
+			"avatar": "https://secure.gravatar.com/avatar/95edadd43f94434c33ba52eb5b5cb4a1?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
+			"joinDate": "2018-10-29T00:32:35.264000-07:00",
+			"links": []
+		}
+	},
+	{
 		"authorName": "dothanhlam",
 		"authorProfileURL": "/vi/profiles/dothanhlam",
 		"entries": [
@@ -4617,7 +4722,7 @@
 		],
 		"articlesCount": 4,
 		"lastestEntryTime": "2018-09-22T02:56:52.134242-07:00",
-		"rank": 21,
+		"rank": 22,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -4697,7 +4802,7 @@
 		],
 		"articlesCount": 4,
 		"lastestEntryTime": "2016-08-25T22:25:58-07:00",
-		"rank": 22,
+		"rank": 23,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -4784,7 +4889,7 @@
 		],
 		"articlesCount": 4,
 		"lastestEntryTime": "2013-06-12T04:46:00-07:00",
-		"rank": 23,
+		"rank": 24,
 		"profile": {
 			"fullName": "Keiichi",
 			"location": "Japan",
@@ -4801,100 +4906,6 @@
 					"url": "https://github.com/http://github.com/ethertank"
 				}
 			]
-		}
-	},
-	{
-		"authorName": "vhai",
-		"authorProfileURL": "/vi/profiles/vhai",
-		"entries": [
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/pop$revision/1450276",
-				"dateTime": "2019-01-07T23:40:57.765459-08:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/pop",
-				"title": "Array.prototype.pop()"
-			},
-			{
-				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter$revision/1450273",
-				"dateTime": "2019-01-07T23:22:55.783581-08:00",
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter",
-				"title": "Array.prototype.filter()"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs$revision/1449861",
-				"dateTime": "2019-01-05T22:42:45.597786-08:00",
-				"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
-				"title": "Express web framework (Node.js/JavaScript)"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs$revision/1431417",
-				"dateTime": "2018-10-31T21:25:59.034242-07:00",
-				"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
-				"title": "Express web framework (Node.js/JavaScript)"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs$revision/1431415",
-				"dateTime": "2018-10-31T21:23:28.818317-07:00",
-				"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
-				"title": "Express web framework (Node.js/JavaScript)"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs$revision/1431413",
-				"dateTime": "2018-10-31T21:17:27.839312-07:00",
-				"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
-				"title": "Express web framework (Node.js/JavaScript)"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs$revision/1431412",
-				"dateTime": "2018-10-31T21:14:53.353685-07:00",
-				"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
-				"title": "Express web framework (Node.js/JavaScript)"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs$revision/1431410",
-				"dateTime": "2018-10-31T21:09:08.812563-07:00",
-				"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
-				"title": "Express web framework (Node.js/JavaScript)"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs$revision/1430630",
-				"dateTime": "2018-10-29T07:46:19.994806-07:00",
-				"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
-				"title": "Express web framework (Node.js/JavaScript)"
-			},
-			{
-				"revisionURL": "/vi/docs/Learn/Server-side/Express_Nodejs$revision/1430629",
-				"dateTime": "2018-10-29T07:42:17.172452-07:00",
-				"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
-				"title": "Express web framework (Node.js/JavaScript)"
-			}
-		],
-		"articles": [
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/pop",
-				"title": "Array.prototype.pop()",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/filter",
-				"title": "Array.prototype.filter()",
-				"revisions": 1
-			},
-			{
-				"url": "/vi/docs/Learn/Server-side/Express_Nodejs",
-				"title": "Express web framework (Node.js/JavaScript)",
-				"revisions": 8
-			}
-		],
-		"articlesCount": 3,
-		"lastestEntryTime": "2019-01-07T23:40:57.765459-08:00",
-		"rank": 24,
-		"profile": {
-			"fullName": "",
-			"location": "",
-			"org": "",
-			"avatar": "https://secure.gravatar.com/avatar/95edadd43f94434c33ba52eb5b5cb4a1?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
-			"joinDate": "2018-10-29T00:32:35.264000-07:00",
-			"links": []
 		}
 	},
 	{
