@@ -7917,6 +7917,59 @@
 		}
 	},
 	{
+		"authorName": "QuyenNguyenCDA",
+		"authorProfileURL": "/vi/profiles/QuyenNguyenCDA",
+		"entries": [
+			{
+				"revisionURL": "/vi/docs/MDN/Getting_started$revision/1465764",
+				"dateTime": "2019-03-09T15:09:08.926458+07:00",
+				"url": "/vi/docs/MDN/Getting_started",
+				"title": "Getting started on MDN"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Getting_started$revision/1465763",
+				"dateTime": "2019-03-09T15:03:55.383975+07:00",
+				"url": "/vi/docs/MDN/Getting_started",
+				"title": "Getting started on MDN"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Getting_started$revision/1465762",
+				"dateTime": "2019-03-09T15:02:26.009570+07:00",
+				"url": "/vi/docs/MDN/Getting_started",
+				"title": "Getting started on MDN"
+			},
+			{
+				"revisionURL": "/vi/docs/MDN/Getting_started$revision/1427865",
+				"dateTime": "2018-10-20T02:45:14.396671-07:00",
+				"url": "/vi/docs/MDN/Getting_started",
+				"title": "Getting started on MDN"
+			}
+		],
+		"articles": [
+			{
+				"url": "/vi/docs/MDN/Getting_started",
+				"title": "Getting started on MDN",
+				"revisions": 4
+			}
+		],
+		"articlesCount": 1,
+		"lastestEntryTime": "2019-03-09T15:09:08.926458+07:00",
+		"rank": 69,
+		"profile": {
+			"fullName": "",
+			"location": "",
+			"org": "",
+			"avatar": "https://secure.gravatar.com/avatar/5ddcba63b38d9f8921ff0d1fb7568017?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
+			"joinDate": "2018-10-09T15:24:44.587000-07:00",
+			"links": [
+				{
+					"type": "github",
+					"url": "https://github.com/QuyenNguyenCDA"
+				}
+			]
+		}
+	},
+	{
 		"authorName": "tdtrung17693",
 		"authorProfileURL": "/vi/profiles/tdtrung17693",
 		"entries": [
@@ -7954,7 +8007,7 @@
 		],
 		"articlesCount": 1,
 		"lastestEntryTime": "2019-02-28T12:01:52.508236+07:00",
-		"rank": 69,
+		"rank": 70,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -8044,7 +8097,7 @@
 		],
 		"articlesCount": 1,
 		"lastestEntryTime": "2019-02-18T22:13:09.767763+07:00",
-		"rank": 70,
+		"rank": 71,
 		"profile": {
 			"fullName": "Cảnh",
 			"location": "",
@@ -8079,7 +8132,7 @@
 		],
 		"articlesCount": 1,
 		"lastestEntryTime": "2019-01-24T02:17:26.185695+07:00",
-		"rank": 71,
+		"rank": 72,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -8109,7 +8162,7 @@
 		],
 		"articlesCount": 1,
 		"lastestEntryTime": "2019-01-12T08:53:17.887638-08:00",
-		"rank": 72,
+		"rank": 73,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -8145,7 +8198,7 @@
 		],
 		"articlesCount": 1,
 		"lastestEntryTime": "2019-01-11T00:09:15.906856-08:00",
-		"rank": 73,
+		"rank": 74,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -8180,7 +8233,7 @@
 		],
 		"articlesCount": 1,
 		"lastestEntryTime": "2019-01-07T04:42:37.215359-08:00",
-		"rank": 74,
+		"rank": 75,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -8215,7 +8268,7 @@
 		],
 		"articlesCount": 1,
 		"lastestEntryTime": "2019-01-02T03:05:48.006211-08:00",
-		"rank": 75,
+		"rank": 76,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -8245,7 +8298,7 @@
 		],
 		"articlesCount": 1,
 		"lastestEntryTime": "2018-12-24T00:52:41.194069-08:00",
-		"rank": 76,
+		"rank": 77,
 		"profile": {
 			"fullName": "Non Nguyen",
 			"location": "Vietnam",
@@ -8284,7 +8337,7 @@
 		],
 		"articlesCount": 1,
 		"lastestEntryTime": "2018-12-13T00:12:04.189907-08:00",
-		"rank": 77,
+		"rank": 78,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -8337,7 +8390,7 @@
 		],
 		"articlesCount": 1,
 		"lastestEntryTime": "2018-12-08T08:28:10.471827-08:00",
-		"rank": 78,
+		"rank": 79,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -8372,7 +8425,7 @@
 		],
 		"articlesCount": 1,
 		"lastestEntryTime": "2018-12-06T08:50:41.667415-08:00",
-		"rank": 79,
+		"rank": 80,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -8402,7 +8455,7 @@
 		],
 		"articlesCount": 1,
 		"lastestEntryTime": "2018-11-29T05:11:44.126027-08:00",
-		"rank": 80,
+		"rank": 81,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -8444,7 +8497,7 @@
 		],
 		"articlesCount": 1,
 		"lastestEntryTime": "2018-11-17T22:52:14.661520-08:00",
-		"rank": 81,
+		"rank": 82,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -8479,7 +8532,7 @@
 		],
 		"articlesCount": 1,
 		"lastestEntryTime": "2018-11-16T11:02:03.791258-08:00",
-		"rank": 82,
+		"rank": 83,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -8514,7 +8567,7 @@
 		],
 		"articlesCount": 1,
 		"lastestEntryTime": "2018-11-15T05:10:57.990866-08:00",
-		"rank": 83,
+		"rank": 84,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -8549,7 +8602,7 @@
 		],
 		"articlesCount": 1,
 		"lastestEntryTime": "2018-11-13T09:17:59.525087-08:00",
-		"rank": 84,
+		"rank": 85,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -8584,7 +8637,7 @@
 		],
 		"articlesCount": 1,
 		"lastestEntryTime": "2018-11-05T19:38:11.137805-08:00",
-		"rank": 85,
+		"rank": 86,
 		"profile": {
 			"fullName": "",
 			"location": "",
@@ -8619,43 +8672,8 @@
 		],
 		"articlesCount": 1,
 		"lastestEntryTime": "2018-10-28T03:01:01.012748-07:00",
-		"rank": 86,
-		"profile": null
-	},
-	{
-		"authorName": "QuyenNguyenCDA",
-		"authorProfileURL": "/vi/profiles/QuyenNguyenCDA",
-		"entries": [
-			{
-				"revisionURL": "/vi/docs/MDN/Getting_started$revision/1427865",
-				"dateTime": "2018-10-20T02:45:14.396671-07:00",
-				"url": "/vi/docs/MDN/Getting_started",
-				"title": "Getting started on MDN"
-			}
-		],
-		"articles": [
-			{
-				"url": "/vi/docs/MDN/Getting_started",
-				"title": "Getting started on MDN",
-				"revisions": 1
-			}
-		],
-		"articlesCount": 1,
-		"lastestEntryTime": "2018-10-20T02:45:14.396671-07:00",
 		"rank": 87,
-		"profile": {
-			"fullName": "",
-			"location": "",
-			"org": "",
-			"avatar": "https://secure.gravatar.com/avatar/5ddcba63b38d9f8921ff0d1fb7568017?s=200&r=pg&d=https%3A%2F%2Fdeveloper.mozilla.org%2Fstatic%2Fimg%2Favatar.png",
-			"joinDate": "2018-10-09T15:24:44.587000-07:00",
-			"links": [
-				{
-					"type": "github",
-					"url": "https://github.com/QuyenNguyenCDA"
-				}
-			]
-		}
+		"profile": null
 	},
 	{
 		"authorName": "phd2d",
