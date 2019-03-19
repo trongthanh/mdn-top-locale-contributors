@@ -45,7 +45,7 @@ function fetchPage(page = 1) {
 		method: 'GET',
 		headers: {
 			'X-Requested-With': 'XMLHttpRequest',
-			'cookie': 'csrftoken=Xv1AHvpM02DcLmlPJtymFMztzrmG76YMofwnoy3srMNntQvR3segeDLyPQAFPPas; sessionid=f7y0kdhksutk6xdvul5x33gaaph7qrjr;'
+			'cookie': 'csrftoken=y2CyjMiVdRa3CadVKH9B764cZalgGah1pZouRqn0u4wMwxvI9cuXhCJyKJCsaQlp; sessionid=7ygg8qebh0lv3ir3f7yv18zxrhs6p942;'
 		},
 	})
 		.then(function(response) {
@@ -109,7 +109,11 @@ function processEntries(entries = []) {
 	const currentEntries = Array.isArray(entriesJson) && entriesJson.length ? entriesJson : [];
 
 	// step 1. Filter and keep only new entries
-	const newEntries = entries.filter(entry => !_.find(currentEntries, { revisionURL: entry.revisionURL }));
+	const newEntries = entries
+		.filter(entry => !_.find(currentEntries, { revisionURL: entry.revisionURL }))
+		// NEW: filter mdnwebdocs-bot (this is a bot, we don't want to keep it in the top authors)
+		.filter(entry => !(entry.authorName === 'mdnwebdocs-bot'));
+
 	console.log('newEntries', newEntries);
 	// step 2. Reduce new entries to group by authors
 	const objAuthors = _.reduce(
@@ -227,8 +231,6 @@ function writeFiles(parsedEntries) {
 	});
 }
 
-// NOTE: this is full fetch
-// TODO: write accumulate fetch using previous date time
 async function main() {
 	// const html = await readSampleFile();
 	// const pageData = parsePage(html);
