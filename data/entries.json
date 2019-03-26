@@ -1,5 +1,13 @@
 [
 	{
+		"revisionURL": "/vi/docs/Mozilla/Add-ons/WebExtensions/Getting_started_with_web-ext$revision/1529523",
+		"dateTime": "2019-03-26T12:46:01.094169+07:00",
+		"url": "/vi/docs/Mozilla/Add-ons/WebExtensions/Getting_started_with_web-ext",
+		"title": "Getting started with web-ext",
+		"authorName": "hungdang888",
+		"authorProfileURL": "/vi/profiles/hungdang888"
+	},
+	{
 		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Classes/constructor$revision/1467372",
 		"dateTime": "2019-03-17T00:29:29.146679+07:00",
 		"url": "/vi/docs/Web/JavaScript/Reference/Classes/constructor",
@@ -6432,6 +6440,14 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
+		"revisionURL": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager$revision/1095245",
+		"dateTime": "2016-07-28T15:32:05+07:00",
+		"url": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager",
+		"title": "Sử dụng App Manager",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
 		"revisionURL": "/vi/docs/Archive/B2G_OS/Phone_guide$revision/1095249",
 		"dateTime": "2016-07-28T15:32:05+07:00",
 		"url": "/vi/docs/Archive/B2G_OS/Phone_guide",
@@ -6448,34 +6464,10 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager$revision/1095245",
-		"dateTime": "2016-07-28T15:32:05+07:00",
-		"url": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager",
-		"title": "Sử dụng App Manager",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia/Hacking$revision/1095243",
-		"dateTime": "2016-07-28T15:32:04+07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia/Hacking",
-		"title": "Hacking Gaia",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
 		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform/Gaia/Hacking$revision/1095241",
 		"dateTime": "2016-07-28T15:32:04+07:00",
 		"url": "/vi/docs/Archive/B2G_OS/Platform/Gaia/Hacking",
 		"title": "Hacking Gaia",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia$revision/1095239",
-		"dateTime": "2016-07-28T15:32:04+07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia",
-		"title": "Gaia",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -6488,18 +6480,18 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform$revision/1095235",
-		"dateTime": "2016-07-28T15:32:03+07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS/Platform",
-		"title": "The Firefox OS platform",
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia/Hacking$revision/1095243",
+		"dateTime": "2016-07-28T15:32:04+07:00",
+		"url": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia/Hacking",
+		"title": "Hacking Gaia",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform$revision/1095233",
-		"dateTime": "2016-07-28T15:32:03+07:00",
-		"url": "/vi/docs/Archive/B2G_OS/Platform",
-		"title": "The Firefox OS platform",
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia$revision/1095239",
+		"dateTime": "2016-07-28T15:32:04+07:00",
+		"url": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia",
+		"title": "Gaia",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -6516,6 +6508,22 @@
 		"dateTime": "2016-07-28T15:32:03+07:00",
 		"url": "/vi/docs/Archive/B2G_OS",
 		"title": "Firefox OS",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform$revision/1095235",
+		"dateTime": "2016-07-28T15:32:03+07:00",
+		"url": "/vi/docs/Mozilla/Firefox_OS/Platform",
+		"title": "The Firefox OS platform",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
+		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform$revision/1095233",
+		"dateTime": "2016-07-28T15:32:03+07:00",
+		"url": "/vi/docs/Archive/B2G_OS/Platform",
+		"title": "The Firefox OS platform",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
