@@ -2628,6 +2628,24 @@
 		"authorProfileURL": "/vi/profiles/quytran",
 		"entries": [
 			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Iterators_and_Generators$revision/1530870",
+				"dateTime": "2019-03-31T17:36:35.984967+07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Iterators_and_Generators",
+				"title": "Iterators and generators"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Iterators_and_Generators$revision/1530716",
+				"dateTime": "2019-03-30T22:12:28.941210+07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Iterators_and_Generators",
+				"title": "Iterators and generators"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Iterators_and_Generators$revision/1530682",
+				"dateTime": "2019-03-30T17:54:38.908240+07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Iterators_and_Generators",
+				"title": "Iterators and generators"
+			},
+			{
 				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Details_of_the_Object_Model$revision/1458932",
 				"dateTime": "2019-02-13T22:15:49.277219+07:00",
 				"url": "/vi/docs/Web/JavaScript/Guide/Details_of_the_Object_Model",
@@ -3044,6 +3062,11 @@
 		],
 		"articles": [
 			{
+				"url": "/vi/docs/Web/JavaScript/Guide/Iterators_and_Generators",
+				"title": "Iterators and generators",
+				"revisions": 3
+			},
+			{
 				"url": "/vi/docs/Web/JavaScript/Guide/Details_of_the_Object_Model",
 				"title": "Details of the object model",
 				"revisions": 23
@@ -3094,8 +3117,8 @@
 				"revisions": 1
 			}
 		],
-		"articlesCount": 10,
-		"lastestEntryTime": "2019-02-13T22:15:49.277219+07:00",
+		"articlesCount": 11,
+		"lastestEntryTime": "2019-03-31T17:36:35.984967+07:00",
 		"rank": 8,
 		"profile": {
 			"fullName": "Quy Tran",
