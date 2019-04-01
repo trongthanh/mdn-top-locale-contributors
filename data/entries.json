@@ -1,5 +1,69 @@
 [
 	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Functions/arguments$revision/1530986",
+		"dateTime": "2019-04-01T15:20:21.949204+07:00",
+		"url": "/vi/docs/Web/JavaScript/Reference/Functions/arguments",
+		"title": "The arguments object",
+		"authorName": "PurpleLover",
+		"authorProfileURL": "/vi/profiles/PurpleLover"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Guide/Numbers_and_dates$revision/1530970",
+		"dateTime": "2019-04-01T12:59:29.600662+07:00",
+		"url": "/vi/docs/Web/JavaScript/Guide/Numbers_and_dates",
+		"title": "Numbers and dates",
+		"authorName": "quytran",
+		"authorProfileURL": "/vi/profiles/quytran"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Guide/Iterators_and_Generators$revision/1530899",
+		"dateTime": "2019-03-31T23:17:09.272457+07:00",
+		"url": "/vi/docs/Web/JavaScript/Guide/Iterators_and_Generators",
+		"title": "Iterators and generators",
+		"authorName": "quytran",
+		"authorProfileURL": "/vi/profiles/quytran"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Guide/Iterators_and_Generators$revision/1530898",
+		"dateTime": "2019-03-31T23:15:35.124366+07:00",
+		"url": "/vi/docs/Web/JavaScript/Guide/Iterators_and_Generators",
+		"title": "Iterators and generators",
+		"authorName": "quytran",
+		"authorProfileURL": "/vi/profiles/quytran"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Guide/Iterators_and_Generators$revision/1530897",
+		"dateTime": "2019-03-31T23:15:00.222360+07:00",
+		"url": "/vi/docs/Web/JavaScript/Guide/Iterators_and_Generators",
+		"title": "Iterators and generators",
+		"authorName": "quytran",
+		"authorProfileURL": "/vi/profiles/quytran"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Guide/Iterators_and_Generators$revision/1530896",
+		"dateTime": "2019-03-31T23:13:52.449465+07:00",
+		"url": "/vi/docs/Web/JavaScript/Guide/Iterators_and_Generators",
+		"title": "Iterators and generators",
+		"authorName": "quytran",
+		"authorProfileURL": "/vi/profiles/quytran"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/Guide/API$revision/1530872",
+		"dateTime": "2019-03-31T19:01:38.682905+07:00",
+		"url": "/vi/docs/Web/Guide/API",
+		"title": "Hướng dẫn Web APIs",
+		"authorName": "Lyn203",
+		"authorProfileURL": "/vi/profiles/Lyn203"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/Guide/API$revision/1530871",
+		"dateTime": "2019-03-31T18:59:55.945783+07:00",
+		"url": "/vi/docs/Web/Guide/API",
+		"title": "Hướng dẫn Web APIs",
+		"authorName": "Lyn203",
+		"authorProfileURL": "/vi/profiles/Lyn203"
+	},
+	{
 		"revisionURL": "/vi/docs/Web/JavaScript/Guide/Iterators_and_Generators$revision/1530870",
 		"dateTime": "2019-03-31T17:36:35.984967+07:00",
 		"url": "/vi/docs/Web/JavaScript/Guide/Iterators_and_Generators",
@@ -6480,14 +6544,6 @@
 		"authorProfileURL": "/vi/profiles/tieppt"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Using_the_App_Manager$revision/1095247",
-		"dateTime": "2016-07-28T15:32:05+07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS/Using_the_App_Manager",
-		"title": "Sử dụng App Manager",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
 		"revisionURL": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager$revision/1095245",
 		"dateTime": "2016-07-28T15:32:05+07:00",
 		"url": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager",
@@ -6508,6 +6564,14 @@
 		"dateTime": "2016-07-28T15:32:05+07:00",
 		"url": "/vi/docs/Mozilla/Firefox_OS/Phone_guide",
 		"title": "Firefox OS phone guide",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Using_the_App_Manager$revision/1095247",
+		"dateTime": "2016-07-28T15:32:05+07:00",
+		"url": "/vi/docs/Mozilla/Firefox_OS/Using_the_App_Manager",
+		"title": "Sử dụng App Manager",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -7552,17 +7616,17 @@
 		"authorProfileURL": "/vi/profiles/DuyNe"
 	},
 	{
-		"revisionURL": "/vi/docs/Persona$revision/800199",
+		"revisionURL": "/vi/docs/Mozilla/Persona$revision/800197",
 		"dateTime": "2015-05-09T17:07:41+07:00",
-		"url": "/vi/docs/Persona",
+		"url": "/vi/docs/Mozilla/Persona",
 		"title": "Persona",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/Persona$revision/800197",
+		"revisionURL": "/vi/docs/Persona$revision/800199",
 		"dateTime": "2015-05-09T17:07:41+07:00",
-		"url": "/vi/docs/Mozilla/Persona",
+		"url": "/vi/docs/Persona",
 		"title": "Persona",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
@@ -7576,18 +7640,18 @@
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
-		"revisionURL": "/vi/docs/Apps/Quickstart$revision/798003",
-		"dateTime": "2015-05-06T16:40:51+07:00",
-		"url": "/vi/docs/Apps/Quickstart",
-		"title": "Quickstart",
-		"authorName": "teoli",
-		"authorProfileURL": "/vi/profiles/teoli"
-	},
-	{
 		"revisionURL": "/vi/docs/Apps$revision/797999",
 		"dateTime": "2015-05-06T16:40:51+07:00",
 		"url": "/vi/docs/Apps",
 		"title": "Apps",
+		"authorName": "teoli",
+		"authorProfileURL": "/vi/profiles/teoli"
+	},
+	{
+		"revisionURL": "/vi/docs/Apps/Quickstart$revision/798003",
+		"dateTime": "2015-05-06T16:40:51+07:00",
+		"url": "/vi/docs/Apps/Quickstart",
+		"title": "Quickstart",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
@@ -8072,10 +8136,10 @@
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
-		"revisionURL": "/vi/docs/Web/CSS$revision/629665",
+		"revisionURL": "/vi/docs/Web/CSS/background-color$revision/629669",
 		"dateTime": "2014-07-01T14:45:22+07:00",
-		"url": "/vi/docs/Web/CSS",
-		"title": "CSS",
+		"url": "/vi/docs/Web/CSS/background-color",
+		"title": "background-color",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
@@ -8088,10 +8152,10 @@
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
 	{
-		"revisionURL": "/vi/docs/Web/CSS/background-color$revision/629669",
+		"revisionURL": "/vi/docs/Web/CSS$revision/629665",
 		"dateTime": "2014-07-01T14:45:22+07:00",
-		"url": "/vi/docs/Web/CSS/background-color",
-		"title": "background-color",
+		"url": "/vi/docs/Web/CSS",
+		"title": "CSS",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
@@ -8584,7 +8648,7 @@
 		"authorProfileURL": "/vi/profiles/SamB"
 	},
 	{
-		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/270815",
+		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/288924",
 		"dateTime": "2010-07-01T16:42:49+07:00",
 		"url": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t",
 		"title": "Bản Kê Khai Cài Đặt",
@@ -8592,7 +8656,7 @@
 		"authorProfileURL": "/vi/profiles/kimkha"
 	},
 	{
-		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/288924",
+		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/270815",
 		"dateTime": "2010-07-01T16:42:49+07:00",
 		"url": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t",
 		"title": "Bản Kê Khai Cài Đặt",
