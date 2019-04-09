@@ -45,7 +45,8 @@ function fetchPage(page = 1) {
 		method: 'GET',
 		headers: {
 			'X-Requested-With': 'XMLHttpRequest',
-			'cookie': 'csrftoken=y2CyjMiVdRa3CadVKH9B764cZalgGah1pZouRqn0u4wMwxvI9cuXhCJyKJCsaQlp; sessionid=7ygg8qebh0lv3ir3f7yv18zxrhs6p942;'
+			cookie:
+				'csrftoken=z5gLGK0J5url9mvLtbbsum08eUBwLPVx7ovQ0ZzndPewrpqAPeSxaWRm664N65Of; sessionid=dg3n9t98oaczk8jnqsrokdbsvvmmkzit;',
 		},
 	})
 		.then(function(response) {

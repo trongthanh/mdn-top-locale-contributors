@@ -1,5 +1,37 @@
 [
 	{
+		"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/Null$revision/1531226",
+		"dateTime": "2019-04-02T11:34:27.636100+07:00",
+		"url": "/vi/docs/Tu-dien-thuat-ngu/Null",
+		"title": "Null",
+		"authorName": "PurpleLover",
+		"authorProfileURL": "/vi/profiles/PurpleLover"
+	},
+	{
+		"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/Primitive$revision/1531223",
+		"dateTime": "2019-04-02T11:26:18.815953+07:00",
+		"url": "/vi/docs/Tu-dien-thuat-ngu/Primitive",
+		"title": "Primitive",
+		"authorName": "PurpleLover",
+		"authorProfileURL": "/vi/profiles/PurpleLover"
+	},
+	{
+		"revisionURL": "/vi/docs/Tu-dien-thuat-ngu/XML$revision/1531203",
+		"dateTime": "2019-04-02T10:32:39.107294+07:00",
+		"url": "/vi/docs/Tu-dien-thuat-ngu/XML",
+		"title": "XML",
+		"authorName": "PurpleLover",
+		"authorProfileURL": "/vi/profiles/PurpleLover"
+	},
+	{
+		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift$revision/1531057",
+		"dateTime": "2019-04-01T21:21:17.758915+07:00",
+		"url": "/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift",
+		"title": "Array.prototype.unshift()",
+		"authorName": "KhanhVanCong",
+		"authorProfileURL": "/vi/profiles/KhanhVanCong"
+	},
+	{
 		"revisionURL": "/vi/docs/Web/JavaScript/Reference/Functions/arguments$revision/1530986",
 		"dateTime": "2019-04-01T15:20:21.949204+07:00",
 		"url": "/vi/docs/Web/JavaScript/Reference/Functions/arguments",
@@ -6544,6 +6576,14 @@
 		"authorProfileURL": "/vi/profiles/tieppt"
 	},
 	{
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Phone_guide$revision/1095251",
+		"dateTime": "2016-07-28T15:32:05+07:00",
+		"url": "/vi/docs/Mozilla/Firefox_OS/Phone_guide",
+		"title": "Firefox OS phone guide",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
 		"revisionURL": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager$revision/1095245",
 		"dateTime": "2016-07-28T15:32:05+07:00",
 		"url": "/vi/docs/Archive/B2G_OS/Using_the_App_Manager",
@@ -6560,14 +6600,6 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Phone_guide$revision/1095251",
-		"dateTime": "2016-07-28T15:32:05+07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS/Phone_guide",
-		"title": "Firefox OS phone guide",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
 		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Using_the_App_Manager$revision/1095247",
 		"dateTime": "2016-07-28T15:32:05+07:00",
 		"url": "/vi/docs/Mozilla/Firefox_OS/Using_the_App_Manager",
@@ -6576,10 +6608,10 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia/Hacking$revision/1095243",
+		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform/Gaia$revision/1095237",
 		"dateTime": "2016-07-28T15:32:04+07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia/Hacking",
-		"title": "Hacking Gaia",
+		"url": "/vi/docs/Archive/B2G_OS/Platform/Gaia",
+		"title": "Gaia",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -6587,6 +6619,14 @@
 		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform/Gaia/Hacking$revision/1095241",
 		"dateTime": "2016-07-28T15:32:04+07:00",
 		"url": "/vi/docs/Archive/B2G_OS/Platform/Gaia/Hacking",
+		"title": "Hacking Gaia",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia/Hacking$revision/1095243",
+		"dateTime": "2016-07-28T15:32:04+07:00",
+		"url": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia/Hacking",
 		"title": "Hacking Gaia",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
@@ -6600,25 +6640,9 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Archive/B2G_OS/Platform/Gaia$revision/1095237",
-		"dateTime": "2016-07-28T15:32:04+07:00",
-		"url": "/vi/docs/Archive/B2G_OS/Platform/Gaia",
-		"title": "Gaia",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform$revision/1095235",
+		"revisionURL": "/vi/docs/Archive/B2G_OS$revision/1095229",
 		"dateTime": "2016-07-28T15:32:03+07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS/Platform",
-		"title": "The Firefox OS platform",
-		"authorName": "chrisdavidmills",
-		"authorProfileURL": "/vi/profiles/chrisdavidmills"
-	},
-	{
-		"revisionURL": "/vi/docs/Mozilla/Firefox_OS$revision/1095231",
-		"dateTime": "2016-07-28T15:32:03+07:00",
-		"url": "/vi/docs/Mozilla/Firefox_OS",
+		"url": "/vi/docs/Archive/B2G_OS",
 		"title": "Firefox OS",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
@@ -6632,10 +6656,18 @@
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
 	{
-		"revisionURL": "/vi/docs/Archive/B2G_OS$revision/1095229",
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS$revision/1095231",
 		"dateTime": "2016-07-28T15:32:03+07:00",
-		"url": "/vi/docs/Archive/B2G_OS",
+		"url": "/vi/docs/Mozilla/Firefox_OS",
 		"title": "Firefox OS",
+		"authorName": "chrisdavidmills",
+		"authorProfileURL": "/vi/profiles/chrisdavidmills"
+	},
+	{
+		"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform$revision/1095235",
+		"dateTime": "2016-07-28T15:32:03+07:00",
+		"url": "/vi/docs/Mozilla/Firefox_OS/Platform",
+		"title": "The Firefox OS platform",
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills"
 	},
@@ -8128,18 +8160,18 @@
 		"authorProfileURL": "/vi/profiles/rebloor"
 	},
 	{
-		"revisionURL": "/vi/docs/CSS$revision/629667",
-		"dateTime": "2014-07-01T14:45:22+07:00",
-		"url": "/vi/docs/CSS",
-		"title": "CSS",
-		"authorName": "teoli",
-		"authorProfileURL": "/vi/profiles/teoli"
-	},
-	{
 		"revisionURL": "/vi/docs/Web/CSS/background-color$revision/629669",
 		"dateTime": "2014-07-01T14:45:22+07:00",
 		"url": "/vi/docs/Web/CSS/background-color",
 		"title": "background-color",
+		"authorName": "teoli",
+		"authorProfileURL": "/vi/profiles/teoli"
+	},
+	{
+		"revisionURL": "/vi/docs/CSS$revision/629667",
+		"dateTime": "2014-07-01T14:45:22+07:00",
+		"url": "/vi/docs/CSS",
+		"title": "CSS",
 		"authorName": "teoli",
 		"authorProfileURL": "/vi/profiles/teoli"
 	},
@@ -8648,7 +8680,7 @@
 		"authorProfileURL": "/vi/profiles/SamB"
 	},
 	{
-		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/288924",
+		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/270815",
 		"dateTime": "2010-07-01T16:42:49+07:00",
 		"url": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t",
 		"title": "Bản Kê Khai Cài Đặt",
@@ -8656,7 +8688,7 @@
 		"authorProfileURL": "/vi/profiles/kimkha"
 	},
 	{
-		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/270815",
+		"revisionURL": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t$revision/288924",
 		"dateTime": "2010-07-01T16:42:49+07:00",
 		"url": "/vi/docs/B%E1%BA%A3n_K%C3%AA_Khai_C%C3%A0i_%C4%90%E1%BA%B7t",
 		"title": "Bản Kê Khai Cài Đặt",
