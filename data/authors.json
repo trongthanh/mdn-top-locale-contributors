@@ -2667,6 +2667,12 @@
 		"authorProfileURL": "/vi/profiles/quytran",
 		"entries": [
 			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Numbers_and_dates$revision/1543700",
+				"dateTime": "2019-04-21T23:24:44.739040+07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Numbers_and_dates",
+				"title": "Numbers and dates"
+			},
+			{
 				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Numbers_and_dates$revision/1530970",
 				"dateTime": "2019-04-01T12:59:29.600662+07:00",
 				"url": "/vi/docs/Web/JavaScript/Guide/Numbers_and_dates",
@@ -3133,7 +3139,7 @@
 			{
 				"url": "/vi/docs/Web/JavaScript/Guide/Numbers_and_dates",
 				"title": "Numbers and dates",
-				"revisions": 1
+				"revisions": 2
 			},
 			{
 				"url": "/vi/docs/Web/JavaScript/Guide/Iterators_and_Generators",
@@ -3192,7 +3198,7 @@
 			}
 		],
 		"articlesCount": 12,
-		"lastestEntryTime": "2019-04-01T12:59:29.600662+07:00",
+		"lastestEntryTime": "2019-04-21T23:24:44.739040+07:00",
 		"rank": 8,
 		"profile": {
 			"fullName": "Quy Tran",
