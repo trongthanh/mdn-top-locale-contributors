@@ -566,6 +566,18 @@
 		"authorProfileURL": "/vi/profiles/wbamberg",
 		"entries": [
 			{
+				"revisionURL": "/vi/docs/Web/Events$revision/1547232",
+				"dateTime": "2019-05-01T00:05:20.197230+07:00",
+				"url": "/vi/docs/Web/Events",
+				"title": "Event reference"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/Events/load$revision/1547199",
+				"dateTime": "2019-04-30T23:56:42.680109+07:00",
+				"url": "/vi/docs/Web/Events/load",
+				"title": "load"
+			},
+			{
 				"revisionURL": "/vi/docs/Mozilla/Add-ons/WebExtensions/manifest.json/incognito$revision/1453917",
 				"dateTime": "2019-01-23T05:28:42.812095+07:00",
 				"url": "/vi/docs/Mozilla/Add-ons/WebExtensions/manifest.json/incognito",
@@ -760,6 +772,16 @@
 		],
 		"articles": [
 			{
+				"url": "/vi/docs/Web/Events",
+				"title": "Event reference",
+				"revisions": 1
+			},
+			{
+				"url": "/vi/docs/Web/Events/load",
+				"title": "load",
+				"revisions": 1
+			},
+			{
 				"url": "/vi/docs/Mozilla/Add-ons/WebExtensions/manifest.json/incognito",
 				"title": "incognito",
 				"revisions": 1
@@ -910,8 +932,8 @@
 				"revisions": 1
 			}
 		],
-		"articlesCount": 30,
-		"lastestEntryTime": "2019-01-23T05:28:42.812095+07:00",
+		"articlesCount": 32,
+		"lastestEntryTime": "2019-05-01T00:05:20.197230+07:00",
 		"rank": 2,
 		"profile": {
 			"fullName": "",
@@ -926,6 +948,12 @@
 		"authorName": "chrisdavidmills",
 		"authorProfileURL": "/vi/profiles/chrisdavidmills",
 		"entries": [
+			{
+				"revisionURL": "/vi/docs/Web/API/Window$revision/1547198",
+				"dateTime": "2019-04-26T19:58:05.882951+07:00",
+				"url": "/vi/docs/Web/API/Window",
+				"title": "Window"
+			},
 			{
 				"revisionURL": "/vi/docs/Web/Events$revision/1447130",
 				"dateTime": "2018-12-21T00:32:46.643471+07:00",
@@ -1071,12 +1099,6 @@
 				"title": "Firefox OS phone guide"
 			},
 			{
-				"revisionURL": "/vi/docs/Archive/B2G_OS/Phone_guide$revision/1095249",
-				"dateTime": "2016-07-28T15:32:05+07:00",
-				"url": "/vi/docs/Archive/B2G_OS/Phone_guide",
-				"title": "Firefox OS phone guide"
-			},
-			{
 				"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Using_the_App_Manager$revision/1095247",
 				"dateTime": "2016-07-28T15:32:05+07:00",
 				"url": "/vi/docs/Mozilla/Firefox_OS/Using_the_App_Manager",
@@ -1089,10 +1111,10 @@
 				"title": "Sử dụng App Manager"
 			},
 			{
-				"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia/Hacking$revision/1095243",
-				"dateTime": "2016-07-28T15:32:04+07:00",
-				"url": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia/Hacking",
-				"title": "Hacking Gaia"
+				"revisionURL": "/vi/docs/Archive/B2G_OS/Phone_guide$revision/1095249",
+				"dateTime": "2016-07-28T15:32:05+07:00",
+				"url": "/vi/docs/Archive/B2G_OS/Phone_guide",
+				"title": "Firefox OS phone guide"
 			},
 			{
 				"revisionURL": "/vi/docs/Archive/B2G_OS/Platform/Gaia/Hacking$revision/1095241",
@@ -1113,10 +1135,10 @@
 				"title": "Gaia"
 			},
 			{
-				"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform$revision/1095235",
-				"dateTime": "2016-07-28T15:32:03+07:00",
-				"url": "/vi/docs/Mozilla/Firefox_OS/Platform",
-				"title": "The Firefox OS platform"
+				"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia/Hacking$revision/1095243",
+				"dateTime": "2016-07-28T15:32:04+07:00",
+				"url": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia/Hacking",
+				"title": "Hacking Gaia"
 			},
 			{
 				"revisionURL": "/vi/docs/Archive/B2G_OS/Platform$revision/1095233",
@@ -1135,6 +1157,12 @@
 				"dateTime": "2016-07-28T15:32:03+07:00",
 				"url": "/vi/docs/Archive/B2G_OS",
 				"title": "Firefox OS"
+			},
+			{
+				"revisionURL": "/vi/docs/Mozilla/Firefox_OS/Platform$revision/1095235",
+				"dateTime": "2016-07-28T15:32:03+07:00",
+				"url": "/vi/docs/Mozilla/Firefox_OS/Platform",
+				"title": "The Firefox OS platform"
 			},
 			{
 				"revisionURL": "/vi/docs/Mozilla/Marketplace$revision/709513",
@@ -1156,6 +1184,11 @@
 			}
 		],
 		"articles": [
+			{
+				"url": "/vi/docs/Web/API/Window",
+				"title": "Window",
+				"revisions": 1
+			},
 			{
 				"url": "/vi/docs/Web/Events",
 				"title": "Event reference",
@@ -1277,18 +1310,13 @@
 				"revisions": 1
 			},
 			{
-				"url": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia/Hacking",
-				"title": "Hacking Gaia",
-				"revisions": 1
-			},
-			{
 				"url": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia",
 				"title": "Gaia",
 				"revisions": 1
 			},
 			{
-				"url": "/vi/docs/Mozilla/Firefox_OS/Platform",
-				"title": "The Firefox OS platform",
+				"url": "/vi/docs/Mozilla/Firefox_OS/Platform/Gaia/Hacking",
+				"title": "Hacking Gaia",
 				"revisions": 1
 			},
 			{
@@ -1297,13 +1325,18 @@
 				"revisions": 1
 			},
 			{
+				"url": "/vi/docs/Mozilla/Firefox_OS/Platform",
+				"title": "The Firefox OS platform",
+				"revisions": 1
+			},
+			{
 				"url": "/vi/docs/Mozilla/Marketplace",
 				"title": "Firefox Marketplace",
 				"revisions": 1
 			}
 		],
-		"articlesCount": 29,
-		"lastestEntryTime": "2018-12-21T00:32:46.643471+07:00",
+		"articlesCount": 30,
+		"lastestEntryTime": "2019-04-26T19:58:05.882951+07:00",
 		"rank": 3,
 		"profile": {
 			"fullName": "Chris Mills",
@@ -2667,6 +2700,24 @@
 		"authorProfileURL": "/vi/profiles/quytran",
 		"entries": [
 			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Numbers_and_dates$revision/1547556",
+				"dateTime": "2019-05-01T22:40:43.810633+07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Numbers_and_dates",
+				"title": "Numbers and dates"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Numbers_and_dates$revision/1546359",
+				"dateTime": "2019-04-27T23:45:23.140510+07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Numbers_and_dates",
+				"title": "Numbers and dates"
+			},
+			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Numbers_and_dates$revision/1544915",
+				"dateTime": "2019-04-24T12:18:23.745467+07:00",
+				"url": "/vi/docs/Web/JavaScript/Guide/Numbers_and_dates",
+				"title": "Numbers and dates"
+			},
+			{
 				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Numbers_and_dates$revision/1543700",
 				"dateTime": "2019-04-21T23:24:44.739040+07:00",
 				"url": "/vi/docs/Web/JavaScript/Guide/Numbers_and_dates",
@@ -3139,7 +3190,7 @@
 			{
 				"url": "/vi/docs/Web/JavaScript/Guide/Numbers_and_dates",
 				"title": "Numbers and dates",
-				"revisions": 2
+				"revisions": 5
 			},
 			{
 				"url": "/vi/docs/Web/JavaScript/Guide/Iterators_and_Generators",
@@ -3198,7 +3249,7 @@
 			}
 		],
 		"articlesCount": 12,
-		"lastestEntryTime": "2019-04-21T23:24:44.739040+07:00",
+		"lastestEntryTime": "2019-05-01T22:40:43.810633+07:00",
 		"rank": 8,
 		"profile": {
 			"fullName": "Quy Tran",

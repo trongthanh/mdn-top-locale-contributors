@@ -32,7 +32,7 @@ function fetchPage(page = 1) {
 		locale: 'vi',
 		authors: 0,
 		start_date: getStartDate(checkTime.value),
-		preceding_period: 'day',
+		// preceding_period: 'day',
 		// user,
 		// topic,
 		// end_date,
@@ -46,7 +46,7 @@ function fetchPage(page = 1) {
 		headers: {
 			'X-Requested-With': 'XMLHttpRequest',
 			cookie:
-				'csrftoken=z5gLGK0J5url9mvLtbbsum08eUBwLPVx7ovQ0ZzndPewrpqAPeSxaWRm664N65Of; sessionid=dg3n9t98oaczk8jnqsrokdbsvvmmkzit;',
+				'csrftoken=3JfRvL5VxsNZarsE5Vnv3q6YZMjSMc2orlApVRNaNgszSq6ycbH2fJJznwjnDLVZ; sessionid=yx5x97cldxmue9uygpwl51v9yr5gcfik;',
 		},
 	})
 		.then(function(response) {
