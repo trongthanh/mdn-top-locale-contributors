@@ -32,7 +32,7 @@ function fetchPage(page = 1) {
 		locale: 'vi',
 		authors: 0,
 		start_date: getStartDate(checkTime.value),
-		// preceding_period: 'day',
+		preceding_period: 'day',
 		// user,
 		// topic,
 		// end_date,
