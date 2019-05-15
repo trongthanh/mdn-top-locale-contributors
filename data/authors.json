@@ -1361,6 +1361,12 @@
 		"authorProfileURL": "/vi/profiles/trongthanh",
 		"entries": [
 			{
+				"revisionURL": "/vi/docs/Web/JavaScript/Reference/Classes$revision/1550513",
+				"dateTime": "2019-05-15T11:52:05.881960+07:00",
+				"url": "/vi/docs/Web/JavaScript/Reference/Classes",
+				"title": "Classes"
+			},
+			{
 				"revisionURL": "/vi/docs/Web/JavaScript/Guide/Using_promises$revision/1463614",
 				"dateTime": "2019-03-01T00:08:01.748157+07:00",
 				"url": "/vi/docs/Web/JavaScript/Guide/Using_promises",
@@ -1735,6 +1741,11 @@
 		],
 		"articles": [
 			{
+				"url": "/vi/docs/Web/JavaScript/Reference/Classes",
+				"title": "Classes",
+				"revisions": 1
+			},
+			{
 				"url": "/vi/docs/Web/JavaScript/Guide/Using_promises",
 				"title": "Sử dụng Promise",
 				"revisions": 13
@@ -1850,8 +1861,8 @@
 				"revisions": 1
 			}
 		],
-		"articlesCount": 23,
-		"lastestEntryTime": "2019-03-01T00:08:01.748157+07:00",
+		"articlesCount": 24,
+		"lastestEntryTime": "2019-05-15T11:52:05.881960+07:00",
 		"rank": 4,
 		"profile": {
 			"fullName": "Thanh Tran",
